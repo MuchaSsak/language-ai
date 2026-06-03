@@ -1,0 +1,3305 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-04-02 13:26+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: af\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/lib/constants.ts:19
+msgid "Sunday"
+msgstr "Sondag"
+
+#: src/lib/constants.ts:20
+msgid "Monday"
+msgstr "Maandag"
+
+#: src/lib/constants.ts:21
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: src/lib/constants.ts:22
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: src/lib/constants.ts:23
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: src/lib/constants.ts:24
+msgid "Friday"
+msgstr "Vrydag"
+
+#: src/lib/constants.ts:25
+msgid "Saturday"
+msgstr "Saterdag"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:118
+#. 2-letter abbreviation from 'month'
+msgid " / MO"
+msgstr " / MO"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:123
+#. 2-letter abbreviation from 'year'
+msgid " / YR"
+msgstr " / YR"
+
+#: src/services/auth/signInViaApple.ios.ts:37
+msgid " Please contact us immediately at {CONTACT_EMAIL}"
+msgstr " Kontak ons onmiddellik by {CONTACT_EMAIL}"
+
+#: src/navigation/modals/DarkModeModal.tsx:69
+#: src/navigation/modals/HapticsModal.tsx:68
+#: src/navigation/modals/PopUpsModal.tsx:84
+msgid "(Currently turned off)"
+msgstr "(Tans afgeskakel)"
+
+#: src/navigation/modals/DarkModeModal.tsx:61
+#: src/navigation/modals/HapticsModal.tsx:60
+#: src/navigation/modals/PopUpsModal.tsx:76
+msgid "(Currently turned on)"
+msgstr "(Tans aangeskakel)"
+
+#: src/services/day-streaks/listenDayStreaks.tsx:41
+msgid "{dayStreak} day streak and counting! Keep it up!"
+msgstr "{dayStreak} dae agtermekaar! Hou so aan!"
+
+#: src/components/quests/ChallengeBadges.tsx:46
+#: src/components/quiz-settings/StartButton.tsx:85
+msgid "{estimatedTimeMinutes} mins"
+msgstr "{estimatedTimeMinutes} min"
+
+#: src/components/settings/VoicesPicker.tsx:40
+#: src/components/settings/VoicesPicker.tsx:74
+#: src/components/settings/VoicesPicker.tsx:75
+#. (Language) voices, e.g. English voices, French voices etc.
+msgid "{languageLabel} voices"
+msgstr "{languageLabel} voices"
+
+#: src/components/feed/QuizCardQuestionsCount.tsx:28
+msgid "{questionsCount} questions"
+msgstr "{questionsCount} vrae"
+
+#: src/components/feed/QuizCardEstimatedTime.tsx:26
+msgid "{timeMinutes} minutes"
+msgstr "{timeMinutes} minute"
+
+#: src/components/profile/TotalTimeSpent.tsx:29
+msgid "{value} min"
+msgstr "{value} min"
+
+#: src/components/profile/TotalTimeSpent.tsx:31
+msgid "{value} mins"
+msgstr "{value} min"
+
+#: src/components/profile/TotalTimeSpent.tsx:35
+msgid "{value}h"
+msgstr "{value}u"
+
+#: src/components/profile/TotalTimeSpent.tsx:25
+msgid "{value}s"
+msgstr "{value}s"
+
+#: src/components/feed/StudySetCardWordsCount.tsx:28
+#: src/components/quests/ChallengeBadges.tsx:35
+msgid "{wordsCount} words"
+msgstr "{wordsCount} woorde"
+
+#: src/components/profile/TotalTimeSpent.tsx:23
+msgid "< 1s"
+msgstr "< 1s"
+
+#: src/components/quests/ChallengeBadges.tsx:43
+#: src/components/quiz-settings/StartButton.tsx:82
+msgid "<1 min"
+msgstr "<1 min"
+
+#: src/components/quiz-settings/TimeLimit.tsx:25
+msgid "∞  Unlimited"
+msgstr "∞  Onbeperk"
+
+#: src/components/quests/ChallengeBadges.tsx:44
+#: src/components/quiz-settings/StartButton.tsx:83
+msgid "1 min"
+msgstr "1 min"
+
+#: src/components/feed/QuizCardEstimatedTime.tsx:24
+msgid "1 minute"
+msgstr "1 minuut"
+
+#: src/components/feed/QuizCardQuestionsCount.tsx:26
+msgid "1 question"
+msgstr "1 vraag"
+
+#: src/components/feed/StudySetCardWordsCount.tsx:26
+#: src/components/quests/ChallengeBadges.tsx:33
+msgid "1 word"
+msgstr "1 woord"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:31
+msgid "10 questions"
+msgstr "10 vrae"
+
+#: src/components/quiz-settings/TimeLimit.tsx:33
+msgid "15 seconds"
+msgstr "15 sekondes"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:35
+msgid "20 questions"
+msgstr "20 vrae"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:39
+msgid "30 questions"
+msgstr "30 vrae"
+
+#: src/components/quiz-settings/TimeLimit.tsx:37
+msgid "30 seconds"
+msgstr "30 sekondes"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:27
+msgid "5 questions"
+msgstr "5 vrae"
+
+#: src/components/quiz-settings/TimeLimit.tsx:29
+msgid "5 seconds"
+msgstr "5 sekondes"
+
+#: src/components/quiz-settings/TimeLimit.tsx:41
+msgid "60 seconds"
+msgstr "60 sekondes"
+
+#: src/components/quests/ChallengeHeader.tsx:18
+msgid "A challenge is ready!"
+msgstr "'n Uitdaging is gereed!"
+
+#: src/navigation/index.tsx:362
+#: src/navigation/modals/SettingsModal.tsx:53
+msgid "Account"
+msgstr "Rekening"
+
+#: src/components/study-sessions/FinishedStatistics.tsx:52
+#. Accuracy of correct answers
+msgid "Accuracy"
+msgstr "Akkuraatheid"
+
+#: src/components/profile/Achievements.tsx:35
+#: src/navigation/index.tsx:343
+msgid "Achievements"
+msgstr "Prestasies"
+
+#: src/components/library/LibrarySearch.tsx:120
+msgid "Add"
+msgstr "Voeg by"
+
+#: src/components/study-sets/AddFlashcardButton.tsx:19
+msgid "Add another"
+msgstr "Voeg nog een by"
+
+#: src/components/study-sets/EditableFlashcardAddButton.tsx:22
+msgid "Add new flashcard"
+msgstr "Voeg nuwe flitskaart by"
+
+#: src/lib/locales.ts:23
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: src/lib/locales.ts:6
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: src/components/feed/StudySetCard.tsx:50
+#. Enhanced by artificial intelligence
+msgid "AI enhanced"
+msgstr "AI-verbeter"
+
+#: src/components/quiz-settings/AiPrompt.tsx:29
+#: src/components/quiz-settings/AiPrompt.tsx:45
+msgid "AI prompt"
+msgstr "AI-prompt"
+
+#: src/navigation/index.tsx:802
+msgid "AI Prompt"
+msgstr "AI-prompt"
+
+#: src/lib/locales.ts:62
+msgid "Albania"
+msgstr "Albanië"
+
+#: src/lib/locales.ts:62
+msgid "Albanian"
+msgstr "Albanees"
+
+#: src/navigation/modals/ExportDataModal.tsx:26
+msgid "All the information Linkoglot stores about you"
+msgstr "Al die inligting wat Linkoglot oor jou stoor"
+
+#: src/components/onboarding/CongratulationsFooter.tsx:25
+msgid "Already have an account? <0>Sign in</0>"
+msgstr "Het jy reeds 'n rekening? <0>Meld aan</0>"
+
+#: src/components/onboarding/SubscriptionFooter.tsx:41
+msgid "Already subscribed"
+msgstr "Reeds ingeteken"
+
+#: src/navigation/modals/SubscriptionModal.tsx:95
+msgid "Amount due"
+msgstr "Bedrag verskuldig"
+
+#: src/navigation/modals/ImportFlashcardsModal.tsx:108
+msgid "Amount of flashcards detected: {detectedFlashcardsCount}"
+msgstr "Aantal flitskaarte bespeur: {detectedFlashcardsCount}"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:99
+msgid "Amount of total questions"
+msgstr "Aantal totale vrae"
+
+#: src/navigation/screens/ChallengeFinishedScreen.tsx:58
+#: src/navigation/screens/QuizFinishedScreen.tsx:50
+msgid "An another session of learning in the books. Be proud!"
+msgstr "Nog 'n leer-sessie in die boeke. Wees trots!"
+
+#: src/components/study-sets/EditableFlashcardNativeExplanation.tsx:40
+msgid "An object or round fruit (noun)."
+msgstr "'n Voorwerp of ronde vrug (selfstandige naamwoord)."
+
+#: src/components/taken-picture/AnalyzeButton.tsx:25
+msgid "Analyze"
+msgstr "Ontleed"
+
+#: src/navigation/index.tsx:525
+msgid "Analyzed Picture"
+msgstr "Ontlede Foto"
+
+#: src/lib/locales.ts:13
+msgid "Andorra"
+msgstr "Andorra"
+
+#: src/lib/locales.ts:57
+msgid "Angola"
+msgstr "Angola"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:36
+msgid "Anki"
+msgstr "Anki"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:103
+msgid "Annually"
+msgstr "Jaarliks"
+
+#: src/components/profile/Avatar.tsx:47
+#: src/components/profile/NameInfo.tsx:28
+#: src/components/study-sets/StudySetDetailsHeader.tsx:108
+msgid "Anonymous"
+msgstr "Anoniem"
+
+#: src/components/quiz/TopChangeMode.tsx:96
+#: src/components/quiz/TopChangeMode.tsx:122
+msgid "Answering mode"
+msgstr "Antwoordmodus"
+
+#: src/components/profile/ProfileRank.tsx:17
+msgid "Apprentice"
+msgstr "Leerling"
+
+#: src/lib/locales.ts:7
+msgid "Arabic"
+msgstr "Arabies"
+
+#: src/navigation/index.tsx:722
+msgid "Are you sure you want to cancel this edit?"
+msgstr "Is jy seker jy wil hierdie wysiging kanselleer?"
+
+#: src/components/feed/QuizCardOptions.tsx:46
+msgid "Are you sure you want to delete this quiz?"
+msgstr "Is jy seker jy wil hierdie quiz uitvee?"
+
+#: src/components/feed/StudySetCardOptions.tsx:51
+#: src/components/study-sets/SetFormDeleteButton.tsx:53
+#: src/components/study-sets/StudySetDetailsHeader.tsx:53
+msgid "Are you sure you want to delete this study set?"
+msgstr "Is jy seker jy wil hierdie studiestel uitvee?"
+
+#: src/navigation/modals/DeleteAccountModal.tsx:34
+msgid "Are you sure you want to delete your account?"
+msgstr "Is jy seker jy wil jou rekening uitvee?"
+
+#: src/navigation/index.tsx:458
+msgid "Are you sure you want to discard your changes?"
+msgstr "Is jy seker jy wil jou veranderinge weggooi?"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:40
+msgid "Are you sure you want to erase your progress?"
+msgstr "Is jy seker jy wil jou vordering uitvee?"
+
+#: src/navigation/modals/SignOutModal.tsx:30
+msgid "Are you sure you want to sign out?"
+msgstr "Is jy seker jy wil afmeld?"
+
+#: src/navigation/modals/SubscriptionCancelModal.tsx:29
+msgid "Are you sure you want to stop learning?"
+msgstr "Is jy seker jy wil ophou leer?"
+
+#: src/lib/locales.ts:20
+msgid "Argentina"
+msgstr "Argentinië"
+
+#: src/lib/locales.ts:33
+msgid "Armenia"
+msgstr "Armenië"
+
+#: src/lib/locales.ts:33
+msgid "Armenian"
+msgstr "Armeens"
+
+#: src/navigation/modals/SettingsModal.tsx:102
+msgid "Audio"
+msgstr "Oudio"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:33
+#: src/navigation/modals/AudioFeedbackModal.tsx:57
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:107
+msgid "Audio feedback"
+msgstr "Klankterugvoer"
+
+#: src/navigation/index.tsx:452
+msgid "Audio Feedback"
+msgstr "Oudio-terugvoer"
+
+#: src/lib/locales.ts:19
+msgid "Australia"
+msgstr "Australië"
+
+#: src/lib/locales.ts:17
+msgid "Austria"
+msgstr "Oostenryk"
+
+#: src/lib/locales.ts:8
+msgid "Azerbaijan"
+msgstr "Azerbeidjan"
+
+#: src/lib/locales.ts:8
+msgid "Azerbaijani"
+msgstr "Azerbeidjaans"
+
+#: src/lib/locales.ts:11
+msgid "Bangladesh"
+msgstr "Bangladesj"
+
+#: src/lib/locales.ts:22
+msgid "Basque"
+msgstr "Baskies"
+
+#: src/components/feed/QuizCardFinishedBadge.tsx:47
+msgid "Beat"
+msgstr "Beat"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:46
+msgid "Beat a challenge ⚔️"
+msgstr "Oorwin 'n uitdaging ⚔️"
+
+#: src/components/quests/Challenge.tsx:43
+msgid "Beat it!"
+msgstr "Kry dit reg!"
+
+#: src/lib/locales.ts:9
+#: src/lib/locales.ts:59
+msgid "Belarus"
+msgstr "Wit-Rusland"
+
+#: src/lib/locales.ts:9
+msgid "Belarusian"
+msgstr "Wit-Russies"
+
+#: src/lib/locales.ts:25
+#: src/lib/locales.ts:54
+msgid "Belgium"
+msgstr "België"
+
+#: src/lib/locales.ts:11
+msgid "Bengali"
+msgstr "Bengaals"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:78
+msgid "Between cards"
+msgstr "Tussen kaarte"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:32
+msgid "Between terms and definitions"
+msgstr "Tussen terme en definisies"
+
+#: src/lib/locales.ts:12
+#: src/lib/locales.ts:63
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnië en Herzegowina"
+
+#: src/lib/locales.ts:12
+msgid "Bosnian"
+msgstr "Bosnies"
+
+#: src/lib/locales.ts:57
+msgid "Brazil"
+msgstr "Brasilië"
+
+#: src/lib/locales.ts:49
+msgid "Brunei"
+msgstr "Broenei"
+
+#: src/lib/locales.ts:10
+msgid "Bulgaria"
+msgstr "Bulgarye"
+
+#: src/lib/locales.ts:10
+msgid "Bulgarian"
+msgstr "Bulgaars"
+
+#: src/lib/locales.ts:51
+msgid "Burmese"
+msgstr "Birmaans"
+
+#: src/lib/locales.ts:40
+msgid "Cambodia"
+msgstr "Kambodja"
+
+#: src/navigation/index.tsx:184
+msgid "Camera"
+msgstr "Kamera"
+
+#: src/lib/locales.ts:19
+#: src/lib/locales.ts:25
+msgid "Canada"
+msgstr "Kanada"
+
+#: src/components/ui/consent-dialog.tsx:163
+msgid "Cancel"
+msgstr "Kanselleer"
+
+#: src/components/onboarding/SubscriptionFooter.tsx:33
+msgid "Cancel anytime"
+msgstr "Kanselleer enige tyd"
+
+#: src/navigation/modals/SubscriptionModal.tsx:165
+msgid "Cancel subscription"
+msgstr "Kanselleer intekening"
+
+#: src/navigation/index.tsx:380
+msgid "Cancel Subscription"
+msgstr "Kanselleer Intekening"
+
+#: src/lib/locales.ts:13
+msgid "Catalan"
+msgstr "Katalaans"
+
+#: src/components/report/FormCategory.tsx:33
+#: src/components/report/FormCategory.tsx:59
+msgid "Category"
+msgstr "Kategorie"
+
+#: src/components/quiz/TopHeader.tsx:79
+msgid "Challenge"
+msgstr "Uitdaging"
+
+#: src/components/feed/QuizCardOptions.tsx:77
+msgid "Challenge options"
+msgstr "Uitdagingopsies"
+
+#: src/components/library/LibraryFilters.tsx:29
+msgid "Challenges"
+msgstr "Uitdagings"
+
+#: src/components/profile/StatisticsStudySetsCard.tsx:84
+#: src/components/profile/StatisticsWordsCard.tsx:84
+msgid "Challenges beat"
+msgstr "Uitdaging oorwin"
+
+#: src/navigation/modals/SubscriptionChangePlanModal.tsx:122
+#: src/navigation/modals/SubscriptionModal.tsx:152
+msgid "Change plan"
+msgstr "Verander plan"
+
+#: src/navigation/index.tsx:389
+msgid "Change Subscription"
+msgstr "Verander intekening"
+
+#: src/components/quiz/QuizCheckButton.tsx:30
+msgid "Check!"
+msgstr "Kontroleer!"
+
+#: src/lib/locales.ts:74
+msgid "China"
+msgstr "Sjina"
+
+#: src/lib/locales.ts:74
+msgid "Chinese"
+msgstr "Sjinees"
+
+#: src/navigation/sheets/ShareFlashcardsOptionsSheet.tsx:76
+msgid "Choose to message your friends or download a file with your flashcards!"
+msgstr "Kies om jou vriende te boodskap of 'n lêer met jou flitskaarte te aflaai!"
+
+#: src/components/onboarding/CongratulationsTopButtons.tsx:48
+msgid "Clear all settings"
+msgstr "Maak alle instellings skoon"
+
+#: src/components/onboarding/CongratulationsTopButtons.tsx:58
+msgid "Cleared all settings and signed out!"
+msgstr "Alle instellings is skoongemaak en uitgeteken!"
+
+#: src/components/quiz/TopQuitButton.tsx:19
+msgid "Close quiz"
+msgstr "Maak vasvra toe"
+
+#: src/components/library/LibrarySort.tsx:97
+msgid "Closest to mastery"
+msgstr "Naby meesterskap"
+
+#: src/components/study-sets/EditableFlashcardCollapseButton.tsx:21
+msgid "Collapse extra flashcard options"
+msgstr "Vou ekstra flitskaartopsies in"
+
+#: src/lib/locales.ts:20
+msgid "Colombia"
+msgstr "Colombia"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:62
+msgid "Comma"
+msgstr "Komma"
+
+#: src/components/ui/consent-dialog.tsx:150
+msgid "Confirm and continue"
+msgstr "Bevestig en gaan voort"
+
+#: src/hooks/utils/useConsent.ts:104
+msgid "Congratulations! You have successfully signed up for our analytics lol!"
+msgstr "Geluk! Het het suksesvol vir ons analitikaaangeteken lol!"
+
+#: src/hooks/utils/useConsent.ts:71
+msgid ""
+"Congratulations! You have successfully signed up for our promotional "
+"marketing!"
+msgstr "Geluk! Het het suksesvol vir ons promosiemarketing aangeteken!"
+
+#: src/navigation/screens/ChallengeFinishedScreen.tsx:53
+msgid "Congratulations! You've finished the challenge!"
+msgstr "Geluk! Jy het die uitdaging voltooi!"
+
+#: src/navigation/screens/QuizFinishedScreen.tsx:47
+msgid "Congratulations! You've finished the quiz!"
+msgstr "Geluk! Jy het die vasvra voltooi!"
+
+#: src/services/achievements/listenAchievements.ts:55
+msgid "Congratulations! You've just earned the \"{title}\" achievement!"
+msgstr "Geluk! Jy het pas die \"{title}\" prestasie verdien!"
+
+#: src/components/ui/consent-analytics-checkbox.tsx:31
+msgid "Consent to optional analytics checkbox"
+msgstr "Toestemming vir opsionele analitikamerkblokkie"
+
+#: src/components/ui/consent-marketing-checkbox.tsx:31
+msgid "Consent to optional marketing checkbox"
+msgstr "Toestemming vir opsionele bemarkingsmerkblokkie"
+
+#: src/components/ui/consent-required-checkbox.tsx:34
+msgid "Consent to required checkbox"
+msgstr "Toestemming vir vereiste merkblokkie"
+
+#: src/components/settings/AccountOptionalConsent.tsx:18
+msgid "Consentual agreements"
+msgstr "Toestemmingsooreenkomste"
+
+#: src/hooks/utils/useConsent.ts:78
+#: src/hooks/utils/useConsent.ts:111
+msgid ""
+"Consider consenting to our promotional marketing again to always be up to "
+"date!"
+msgstr ""
+"Oorweeg om weer toestemming te gee vir ons promosiemarketing om altyd op "
+"hoogte te bly!"
+
+#: src/hooks/auth/useDeleteAccount.ts:35
+msgid "Consider signing up again to reach your goals in language learning!"
+msgstr "Oorweer om weer aan te teken om jou doelwitte in taalaanleer te bereik!"
+
+#: src/navigation/modals/SettingsModal.tsx:148
+#: src/navigation/screens/NotFoundScreen.tsx:37
+msgid "Contact Request"
+msgstr "Kontakversoek"
+
+#: src/navigation/modals/SettingsModal.tsx:145
+msgid "Contact Us"
+msgstr "Kontak Ons"
+
+#: src/components/onboarding/BottomButtons.tsx:43
+#: src/contexts/OnboardingContext.tsx:145
+#: src/contexts/OnboardingContext.tsx:153
+msgid "Continue"
+msgstr "Gaan voort"
+
+#: src/hooks/utils/useCopyToClipboard.ts:30
+msgid "Copied the text to your clipboard!"
+msgstr "Die teks is na jou knipbord gekopieer!"
+
+#: src/navigation/sheets/ShareFlashcardsOptionsSheet.tsx:36
+msgid "Copy or send"
+msgstr "Kopieer of stuur"
+
+#: src/components/quiz/CorrectAnswerResult.tsx:30
+msgid "Correct Answer"
+msgstr "Regte Antwoord"
+
+#: src/components/quiz/WrongAnswerResult.tsx:49
+msgid "Correct: {correctAnswer}"
+msgstr "Reg: {correctAnswer}"
+
+#: src/navigation/modals/SubscriptionModal.tsx:102
+msgid "Couldn't retrieve the billing..."
+msgstr "Kon die rekening nie herwin nie..."
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:64
+msgid "Create flashcards!"
+msgstr "Skep flitskaarte!"
+
+#: src/components/study-sets/SetFormSubmit.tsx:76
+msgid "Create study set!"
+msgstr "Skep studiestel!"
+
+#: src/components/feed/LibraryListNothingCreated.tsx:20
+msgid "Create your personalized study sets and expand on your vocabulary right now!"
+msgstr "Skep jou gepersonaliseerde studiestelle en brei jou woordeskat nou uit!"
+
+#: src/lib/locales.ts:31
+msgid "Croatia"
+msgstr "Kroasië"
+
+#: src/lib/locales.ts:31
+msgid "Croatian"
+msgstr "Kroaties"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:53
+msgid "CSV"
+msgstr "CSV"
+
+#: src/navigation/modals/SubscriptionChangePlanModal.tsx:84
+msgid "Current"
+msgstr "Huidig"
+
+#: src/navigation/modals/NotificationsModal.tsx:123
+msgid "Currently turned off"
+msgstr "Tans afgeskakel"
+
+#: src/navigation/modals/NotificationsModal.tsx:121
+msgid "Currently turned on"
+msgstr "Tans aangeskakel"
+
+#: src/components/study-sets/ImportFlashcardsFormCustomSeparator.tsx:36
+msgid "Custom..."
+msgstr "Pasgemaak..."
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:49
+msgid "Customizable AI quizes and study sets"
+msgstr "Aanpasbare AI-vasvrae en studiestelle"
+
+#: src/lib/locales.ts:18
+#: src/lib/locales.ts:69
+msgid "Cyprus"
+msgstr "Siprus"
+
+#: src/lib/locales.ts:14
+msgid "Czech"
+msgstr "Tsjeggies"
+
+#: src/lib/locales.ts:14
+msgid "Czech Republic"
+msgstr "Tsjeks"
+
+#: src/services/quests/listenQuests.tsx:61
+msgid "Daily"
+msgstr "Elke dag"
+
+#: src/components/quests/QuestsTabPage.tsx:54
+msgid "Daily Quests"
+msgstr "Daaglikse Quêtes"
+
+#: src/lib/locales.ts:16
+msgid "Danish"
+msgstr "Dansk"
+
+#: src/navigation/index.tsx:407
+#: src/navigation/modals/SettingsModal.tsx:112
+msgid "Dark Mode"
+msgstr "Donker modus"
+
+#: src/lib/zodSchemas.ts:135
+msgid "Data cannot be longer than {MAX_IMPORT_FLASHCARDS_DATA_LENGTH} characters"
+msgstr "Data mag nie meer as {MAX_IMPORT_FLASHCARDS_DATA_LENGTH} karakters wees nie"
+
+#: src/lib/zodSchemas.ts:128
+msgid "Data is missing!"
+msgstr "Data is ontstig!"
+
+#: src/lib/zodSchemas.ts:131
+msgid "Data should be at least {MIN_IMPORT_FLASHCARDS_DATA_LENGTH} characters long"
+msgstr "Die data moet minstens {MIN_IMPORT_FLASHCARDS_DATA_LENGTH} karakters wees"
+
+#: src/components/quests/Quests.tsx:34
+msgid "day"
+msgstr "dag"
+
+#: src/components/day-streak/DayStreaksList.tsx:33
+msgid "Day streak"
+msgstr "Daag se streik"
+
+#: src/components/quests/Quests.tsx:35
+msgid "days"
+msgstr "dae"
+
+#: src/components/study-sets/EditableFlashcardForeignMsg.tsx:32
+msgid "Definition"
+msgstr "Definisie"
+
+#: src/lib/zodSchemas.ts:87
+msgid ""
+"Definition cannot be longer than {MAX_FLASHCARD_FOREIGN_MSG_LENGTH} "
+"characters"
+msgstr ""
+"Definisie mag nie langer wees as {MAX_FLASHCARD_FOREIGN_MSG_LENGTH} "
+"karakters"
+
+#: src/lib/zodSchemas.ts:79
+msgid "Definition is missing!"
+msgstr "Definisie is ontbreek!"
+
+#: src/lib/zodSchemas.ts:83
+msgid ""
+"Definition should be at least {MIN_FLASHCARD_FOREIGN_MSG_LENGTH} characters "
+"long"
+msgstr "Definisie moet ten minste {MIN_FLASHCARD_FOREIGN_MSG_LENGTH} karakters wees."
+
+#: src/components/feed/QuizCardOptions.tsx:94
+#: src/components/feed/StudySetCardOptions.tsx:97
+msgid "Delete"
+msgstr "Verwyder"
+
+#: src/navigation/index.tsx:494
+#: src/navigation/modals/SettingsModal.tsx:181
+msgid "Delete Account"
+msgstr "Verwyder rekening"
+
+#: src/components/study-sets/EditableFlashcardDeleteButton.tsx:22
+msgid "Delete flashcard"
+msgstr "Verwyder flashkaart"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:68
+#: src/components/study-sets/StudySetDetailsHeader.tsx:95
+msgid "Delete study set"
+msgstr "Verwyder studie stel"
+
+#: src/lib/locales.ts:16
+msgid "Denmark"
+msgstr "Denemark"
+
+#: src/components/report/FormDescription.tsx:26
+msgid "Description"
+msgstr "Beskrywing"
+
+#: src/lib/zodSchemas.ts:212
+msgid "Description cannot be longer than {MAX_REPORT_DESCRIPTION_LENGTH} characters"
+msgstr ""
+"Die beskrywing mag nie langer wees as {MAX_REPORT_DESCRIPTION_LENGTH} "
+"karakters nie"
+
+#: src/lib/zodSchemas.ts:204
+msgid "Description is missing!"
+msgstr "Die beskrywing is weggelaat!"
+
+#: src/lib/zodSchemas.ts:208
+msgid ""
+"Description should be at least {MIN_REPORT_DESCRIPTION_LENGTH} characters "
+"long"
+msgstr "Beskrywing moet minstens {MIN_REPORT_DESCRIPTION_LENGTH} karakters wees"
+
+#: src/navigation/index.tsx:485
+#: src/navigation/modals/SettingsModal.tsx:169
+msgid "Developer Debug"
+msgstr "Ontwikkelaar"
+
+#: src/components/flashcards/FlashcardsCarousel.tsx:126
+msgid "Didn't remember"
+msgstr "Het nie gedink"
+
+#: src/components/quiz-settings/Difficulty.tsx:59
+msgid "Difficulty"
+msgstr "Moeslikheid"
+
+#: src/navigation/modals/DarkModeModal.tsx:58
+#: src/navigation/modals/HapticsModal.tsx:57
+#: src/navigation/modals/PopUpsModal.tsx:73
+msgid "Disable "
+msgstr "Uitskakel "
+
+#: src/navigation/index.tsx:551
+#: src/navigation/modals/SettingsModal.tsx:59
+#. The application's display language
+msgid "Display Language"
+msgstr "Weergawelaanset"
+
+#: src/navigation/index.tsx:697
+msgid "Do you want to stop creating this study set?"
+msgstr "Wil jy met die skepping van hierdie studie stel stop?"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:65
+msgid "Don't show again"
+msgstr "Laat dit nie weer nie"
+
+#: src/components/study-sets/ExportFlashcardsFormSubmit.tsx:45
+msgid "Download file!"
+msgstr "Laai bestand af!"
+
+#: src/lib/locales.ts:54
+msgid "Dutch"
+msgstr "Afrikaans"
+
+#: src/components/settings/AccountFormName.tsx:40
+msgid "e.g. Matthew"
+msgstr "e.g. Mathew"
+
+#: src/components/quiz-settings/Difficulty.tsx:22
+msgid "Easy"
+msgstr "Maklik"
+
+#: src/components/feed/StudySetCardOptions.tsx:112
+msgid "Edit"
+msgstr "Redigeer"
+
+#: src/components/study-sets/SetFormSubmit.tsx:78
+#: src/components/study-sets/StudySetDetailsHeader.tsx:84
+#: src/navigation/index.tsx:716
+msgid "Edit study set"
+msgstr "Stude stel redigeer"
+
+#: src/lib/locales.ts:7
+msgid "Egypt"
+msgstr "Egipte"
+
+#: src/components/ui/login-email-form.tsx:35
+msgid "Email"
+msgstr "E-pos"
+
+#: src/navigation/modals/DarkModeModal.tsx:66
+#: src/navigation/modals/HapticsModal.tsx:65
+#: src/navigation/modals/PopUpsModal.tsx:81
+msgid "Enable "
+msgstr "Aktiveer "
+
+#: src/components/camera/RequestPermission.tsx:37
+msgid "Enable camera"
+msgstr "Aktiveer kamera"
+
+#: src/components/quests/ChallengeEmpty.tsx:33
+msgid "Enable notifications in the settings to not miss it when it's created!"
+msgstr ""
+"Aktiveer kennisgewings in die instellings om dit nie te mis wanneer dit "
+"geskep word nie!"
+
+#: src/components/quiz/TopToggleTTS.tsx:37
+msgid "Enable Text to Speech"
+msgstr "Aktiveer teks tot spraak"
+
+#: src/lib/locales.ts:19
+msgid "English"
+msgstr "Afrikaans"
+
+#: src/lib/locales.ts:21
+msgid "Estonia"
+msgstr "Estonia"
+
+#: src/lib/locales.ts:21
+msgid "Estonian"
+msgstr "Эстонский"
+
+#: src/components/study-sets/EditableFlashcardForeignExample.tsx:32
+#: src/components/study-sets/EditableFlashcardNativeExample.tsx:32
+msgid "Example"
+msgstr ""
+"Input:\n"
+"text\n"
+"\"Hi there! 👋 How are you doing today?\n"
+"We have a new feature: {NEW_FEATURE_NAME}\n"
+"Learn more: <0>\n"
+"Contact us: {CONTACT_EMAIL}\"\n"
+"\n"
+"\n"
+"Output:\n"
+"text\n"
+"\"Hallo! 👋 Hoe gaan dit met jou vandag?\n"
+"Ons het 'n nuwe funksie: {NEW_FEATURE_NAME}\n"
+"Lees meer: <0>\n"
+"Neem kontak op: {CONTACT_EMAIL}\""
+
+#: src/lib/zodSchemas.ts:113
+msgid ""
+"Example cannot be longer than {MAX_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} "
+"characters"
+msgstr ""
+"'n Voorbeeld mag nie langer wees as {MAX_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} "
+"karakters nie"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:126
+msgid "Example sentence"
+msgstr "Ek het 'n fout."
+
+#: src/lib/zodSchemas.ts:109
+msgid ""
+"Example should be at least {MIN_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} "
+"characters long"
+msgstr ""
+"Uitleg: Hier is 'n voorbeeld van 'n frase wat minstens "
+"{MIN_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} karakters lank moet wees."
+
+#: src/components/profile/ProfileRank.tsx:29
+msgid "Expert"
+msgstr "Meester"
+
+#: src/components/study-sets/EditableFlashcardForeignExplanation.tsx:32
+#: src/components/study-sets/EditableFlashcardNativeExplanation.tsx:32
+msgid "Explanation"
+msgstr "Explanation"
+
+#: src/lib/zodSchemas.ts:99
+msgid ""
+"Explanation cannot be longer than "
+"{MAX_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} characters"
+msgstr ""
+"Explanation cannot be longer than "
+"{MAX_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} characters"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:147
+msgid "Explanation sentence"
+msgstr "Uitleg sin"
+
+#: src/lib/zodSchemas.ts:95
+msgid ""
+"Explanation should be at least {MIN_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} "
+"characters long"
+msgstr ""
+"Explanation should be at least {MIN_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} "
+"characters long"
+
+#: src/navigation/sheets/ShareFlashcardsOptionsSheet.tsx:55
+msgid "Export as file"
+msgstr "Ekasie as bestand"
+
+#: src/navigation/index.tsx:443
+#: src/navigation/modals/SettingsModal.tsx:164
+msgid "Export Data"
+msgstr "Voer data uit"
+
+#: src/navigation/index.tsx:777
+msgid "Export flashcards"
+msgstr "Flashkaarde uitvee"
+
+#: src/services/operating-system/saveFile.ts:20
+msgid "exported data"
+msgstr "geëksporteerde data"
+
+#: src/hooks/quizes/useCreateQuiz.ts:87
+msgid "Fine-tuning diffculty..."
+msgstr "Fynstel van moeilikheid..."
+
+#: src/components/onboarding/FinishSlide.tsx:36
+#: src/components/quiz/QuizCheckButton.tsx:35
+#: src/components/quiz/QuizResultButton.tsx:24
+#: src/contexts/OnboardingContext.tsx:172
+msgid "Finish"
+msgstr "Voltooi"
+
+#: src/components/feed/QuizCardFinishedBadge.tsx:48
+msgid "Finished"
+msgstr "Klaar"
+
+#: src/navigation/index.tsx:669
+msgid "Finished challenge"
+msgstr "Afgeronde uitdaging"
+
+#: src/navigation/index.tsx:646
+msgid "Finished quiz"
+msgstr "Gekomplete quiz"
+
+#: src/lib/locales.ts:24
+#: src/lib/locales.ts:64
+msgid "Finland"
+msgstr "Finland"
+
+#: src/lib/locales.ts:24
+msgid "Finnish"
+msgstr "Suomi"
+
+#: src/components/study-sets/EditableFlashcardForeignMsg.tsx:41
+msgid "Flashcard definition in {learningLanguageLabel}"
+msgstr "Flashcard-definisie in {learningLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardNativeExample.tsx:41
+msgid "Flashcard example for {displayLanguageLabel}"
+msgstr "Voorbeeld van 'n flashkaart vir {displayLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardForeignExample.tsx:41
+msgid "Flashcard example for {learningLanguageLabel}"
+msgstr "Flashkaartvoorbeeld vir {learningLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardNativeExplanation.tsx:41
+msgid "Flashcard explanation for {displayLanguageLabel}"
+msgstr "Uitleg vir {displayLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardForeignExplanation.tsx:41
+msgid "Flashcard explanation for {learningLanguageLabel}"
+msgstr "Flashkaartuitleg vir {learningLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardNativeMsg.tsx:41
+msgid "Flashcard term in {displayLanguageLabel}"
+msgstr "Flashcard-term in {displayLanguageLabel}"
+
+#: src/components/study-sets/ExportFlashcardsFormSubmit.tsx:33
+#: src/components/study-sets/PlayingOptionsList.tsx:25
+msgid "Flashcards"
+msgstr "Flashkaartjies"
+
+#: src/navigation/index.tsx:569
+msgid "Flashcards experience"
+msgstr "Flashka-ervaring"
+
+#: src/components/study-sets/FlashcardsHorizontalPreviewCarousel.tsx:46
+msgid "Flashcards preview"
+msgstr "Flashkawe voorvertoning"
+
+#: src/components/quiz-settings/AiPrompt.tsx:44
+msgid "Focus on the verbs which..."
+msgstr "Fokus op die werkwoorde wat..."
+
+#: src/lib/locales.ts:22
+#: src/lib/locales.ts:25
+msgid "France"
+msgstr "Frankryk"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:58
+msgid "Freeplay 😎"
+msgstr "Vrye speel 😎"
+
+#: src/lib/locales.ts:25
+msgid "French"
+msgstr "Français"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:81
+msgid "Front language"
+msgstr "Voorblad"
+
+#: src/components/library/LibrarySort.tsx:110
+msgid "Furthest away to mastery"
+msgstr "Die verstydigste na meesterskap"
+
+#: src/lib/locales.ts:27
+msgid "Galician"
+msgstr "Galiga"
+
+#: src/navigation/modals/SettingsModal.tsx:82
+msgid "General"
+msgstr "Algemeen"
+
+#: src/components/ui/consent-dialog.tsx:88
+msgid "General Data Protection Regulation (GDPR) here.\n"
+msgstr "Algemene Databeschermingsverordening (AVG) hier.\n"
+
+#: src/components/study-sets/SetFormGenerateButton.tsx:40
+#: src/navigation/sheets/GenerateStudySetSheet.tsx:74
+#. Generate flashcards with artificial intelligence
+msgid "Generate"
+msgstr "Genereer"
+
+#: src/navigation/sheets/GenerateStudySetSheet.tsx:46
+msgid "Generate study set with AI"
+msgstr "Maak 'n studie stel met AI"
+
+#: src/navigation/screens/QuizGeneratingScreen.tsx:15
+msgid "Generating"
+msgstr "Genereer"
+
+#: src/hooks/quizes/useCreateQuiz.ts:85
+msgid "Generating questions..."
+msgstr "Genereer vrae..."
+
+#: src/lib/locales.ts:38
+msgid "Georgia"
+msgstr "Georgië"
+
+#: src/lib/locales.ts:38
+msgid "Georgian"
+msgstr "გეორგიული"
+
+#: src/lib/locales.ts:17
+msgid "German"
+msgstr "Deens"
+
+#: src/lib/locales.ts:17
+msgid "Germany"
+msgstr "Duitsland"
+
+#: src/contexts/OnboardingContext.tsx:134
+msgid "Get started"
+msgstr "Begin"
+
+#: src/navigation/screens/QuizGeneratingScreen.tsx:20
+msgid "go back"
+msgstr "gaan terug"
+
+#: src/components/horizontal-flow/HeaderProgress.tsx:28
+#: src/components/report/FormSubmit.tsx:46
+#: src/components/ui/loading-page.tsx:51
+#: src/navigation/modals/ExportDataModal.tsx:47
+#: src/navigation/modals/NotificationsModal.tsx:164
+#: src/navigation/modals/SubscriptionChangePlanModal.tsx:110
+msgid "Go back"
+msgstr "Teruggaan"
+
+#: src/navigation/modals/SubscriptionModal.tsx:176
+msgid "Go back!"
+msgstr "Teruggaan!"
+
+#: src/navigation/screens/ChallengeFinishedScreen.tsx:81
+#: src/navigation/screens/QuizFinishedScreen.tsx:73
+msgid "Go home"
+msgstr "Kom huis toe"
+
+#: src/components/day-streak/DayStreaksList.tsx:50
+msgid "Go learn!"
+msgstr "Leer!"
+
+#: src/navigation/screens/NotFoundScreen.tsx:19
+msgid "Go to Home"
+msgstr "Naar die tuis"
+
+#: src/navigation/screens/NotFoundScreen.tsx:25
+msgid "Go to Onboarding"
+msgstr "Ga na Onboarding"
+
+#: src/navigation/tabs/QuestsTab.tsx:33
+msgid "Goals"
+msgstr "Doelwye"
+
+#: src/lib/locales.ts:18
+msgid "Greece"
+msgstr "Griekse"
+
+#: src/lib/locales.ts:18
+msgid "Greek"
+msgstr "Ελληνικά"
+
+#: src/lib/locales.ts:16
+msgid "Greenland"
+msgstr "Groenland"
+
+#: src/lib/locales.ts:28
+msgid "Gujarati"
+msgstr "ગુજરાતી"
+
+#: src/navigation/index.tsx:398
+#: src/navigation/modals/SettingsModal.tsx:107
+msgid "Haptics"
+msgstr "Haptics"
+
+#: src/navigation/modals/HapticsModal.tsx:34
+msgid ""
+"Haptics are subtle physical vibrations that provide you with immediate "
+"tactile feedback. We built this feature specifically with visually impaired "
+"users in mind."
+msgstr ""
+"Haptiese vibrasies is subtiele fisiese vibrasies wat u onmiddellike "
+"taktiele terugvoer verskaf. Ons het hierdie funksie spesifiek vir "
+"gebruikers met visuele beperking ontwerp."
+
+#: src/components/quiz-settings/Difficulty.tsx:35
+#: src/components/quiz/TopHeader.tsx:68
+msgid "Hard"
+msgstr "Moel"
+
+#: src/components/settings/VoicesPicker.tsx:49
+msgid "Hear the {languageLabel} voice"
+msgstr "Luister na die {languageLabel} stem"
+
+#: src/lib/locales.ts:29
+msgid "Hebrew"
+msgstr "עברית"
+
+#: src/navigation/modals/SubscriptionModal.tsx:139
+msgid "Help center"
+msgstr "Hulpe"
+
+#: src/components/report/FormSubmit.tsx:55
+msgid "Help us improve!"
+msgstr "Help ons om dit beter te maak!"
+
+#: src/hooks/utils/useSecretPress.ts:43
+msgid "Hid the secret! 😉"
+msgstr "Geheime ontdek! 😉"
+
+#: src/lib/locales.ts:30
+msgid "Hindi"
+msgstr "हिन्दी"
+
+#: src/components/flashcards/HintButton.tsx:49
+#: src/components/quiz/HintButton.tsx:85
+msgid "Hint"
+msgstr "Hint"
+
+#: src/navigation/index.tsx:204
+msgid "Home"
+msgstr "Tuis"
+
+#: src/components/quests/Quests.tsx:30
+msgid "hour"
+msgstr "uur"
+
+#: src/components/quests/Quests.tsx:31
+msgid "hours"
+msgstr "ure"
+
+#: src/lib/locales.ts:32
+msgid "Hungarian"
+msgstr "Én egy szótárazó vagyok."
+
+#: src/lib/locales.ts:32
+msgid "Hungary"
+msgstr "Hongary"
+
+#: src/components/ui/consent-required-checkbox.tsx:46
+msgid "I agree to the <0>Terms and Conditions</0> and <1>Privacy Policy</1>."
+msgstr "Ek stem saam met die <0>Terme en Voorwaardes</0> en <1>Privacybeleid</1>."
+
+#: src/components/report/FormDescription.tsx:34
+msgid "I am experiencing..."
+msgstr "Ek ervaar..."
+
+#: src/navigation/modals/SubscriptionModal.tsx:133
+msgid "I need help with my subscription"
+msgstr "Ek het hulp nodig met my abonneering"
+
+#: src/lib/locales.ts:35
+msgid "Iceland"
+msgstr "IJsland"
+
+#: src/lib/locales.ts:35
+msgid "Icelandic"
+msgstr "Íslenska"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:33
+msgid "If this was unexpected, please contact us immediately at {CONTACT_EMAIL}"
+msgstr "As dit onverwacht was, kontak ons asseblief dadelik by {CONTACT_EMAIL}"
+
+#: src/navigation/screens/NotFoundScreen.tsx:30
+msgid ""
+"If you are currently experiencing an issue, please contact us at "
+"<0><1>{CONTACT_EMAIL}</1></0>"
+msgstr ""
+"As jy 'n probleme ondervind, kontak asseblief ons by "
+"<0><1>{CONTACT_EMAIL}</1></0>."
+
+#: src/components/quiz/WritingSettings.tsx:84
+msgid "Ignore special characters"
+msgstr "Verwyder"
+
+#: src/components/study-sets/ImportFlashcardsFormData.tsx:56
+#: src/components/study-sets/SetFormImportButton.tsx:17
+#: src/navigation/index.tsx:787
+msgid "Import flashcards"
+msgstr "Invoer flashkaarte"
+
+#: src/navigation/index.tsx:764
+msgid "Import options"
+msgstr "Invoeringopsies"
+
+#: src/components/ui/consent-analytics-checkbox.tsx:48
+msgid ""
+"Improve the application by automatically sharing crash reports and usage "
+"performance."
+msgstr ""
+"Verbeter die app deur outomaties ongelukkige rapporte en gebruiksprestasie "
+"te deel."
+
+#: src/navigation/modals/ExportDataModal.tsx:29
+msgid ""
+"In compliance with GDPR and our privacy policy, we can export all "
+"information associated with your account into a single file for you to "
+"review or download. We provide this feature to ensure total transparency "
+"regarding how your data is handled and stored!"
+msgstr ""
+"In ooreenstemming met GDPR en ons privaatheidsbeleid, kan ons alle "
+"inligting wat aan u rekening verbonde is, in 'n enkele lêer vir u uitvoer. "
+"Ons bied hierdie funksie aan om totale openheid oor hoe u data hanteer en "
+"gestoor word, te verseker!"
+
+#: src/lib/constants.ts:42
+msgid "Inappriopriate AI content"
+msgstr "Onangewese AI-inhouer"
+
+#: src/lib/locales.ts:11
+#: src/lib/locales.ts:28
+#: src/lib/locales.ts:30
+#: src/lib/locales.ts:41
+#: src/lib/locales.ts:46
+#: src/lib/locales.ts:48
+#: src/lib/locales.ts:53
+#: src/lib/locales.ts:55
+#: src/lib/locales.ts:66
+#: src/lib/locales.ts:67
+#: src/lib/locales.ts:71
+msgid "India"
+msgstr "Indië"
+
+#: src/lib/locales.ts:34
+msgid "Indonesia"
+msgstr "Indonesië"
+
+#: src/lib/locales.ts:34
+msgid "Indonesian"
+msgstr "Indonesisch"
+
+#: src/components/quiz/TopProgress.tsx:31
+msgid "Infinite ∞"
+msgstr "Onuitges"
+
+#: src/components/quiz/QuizWriting.tsx:38
+msgid "Input to translate the quiz question"
+msgstr "What is the capital of France?"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:23
+msgid "Instant AI flashcards"
+msgstr "Vinnige AI-flitskaartjies"
+
+#: src/lib/locales.ts:23
+msgid "Iran"
+msgstr "Iran"
+
+#: src/lib/locales.ts:26
+msgid "Ireland"
+msgstr "Irland"
+
+#: src/lib/locales.ts:26
+msgid "Irish"
+msgstr "Éireann"
+
+#: src/lib/locales.ts:29
+msgid "Israel"
+msgstr "Israel"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:44
+msgid "It's a great choice you won't regret. We're glad to see you here!"
+msgstr ""
+"Dit is 'n goeie keuse, jy sal dit nie jammer nie. Ons is daarvan versoen om "
+"jou hier te sien!"
+
+#: src/services/day-streaks/listenDayStreaks.tsx:50
+msgid "It's okay! You'll get it next time!"
+msgstr "Dit is in orde! Jy sal dit reg kry!"
+
+#: src/lib/locales.ts:36
+msgid "Italian"
+msgstr "Linkoglot"
+
+#: src/lib/locales.ts:36
+msgid "Italy"
+msgstr "Italië"
+
+#: src/components/study-sets/SetFormTitle.tsx:34
+msgid "Items in my room..."
+msgstr "Items in my kamer"
+
+#: src/lib/locales.ts:37
+msgid "Japan"
+msgstr "Japan"
+
+#: src/lib/locales.ts:37
+msgid "Japanese"
+msgstr "日本語"
+
+#: src/components/profile/AvatarInfo.tsx:51
+#. Joined the application (at e.g. 02.04.2026)
+msgid "Joined"
+msgstr "Aangesluit"
+
+#: src/lib/locales.ts:41
+msgid "Kannada"
+msgstr "ಕನ್ನಡ"
+
+#: src/lib/locales.ts:39
+msgid "Kazakh"
+msgstr "Қазақ"
+
+#: src/lib/locales.ts:39
+#: src/lib/locales.ts:59
+msgid "Kazakhstan"
+msgstr "Kazaakistan"
+
+#: src/components/day-streak/DayStreaksList.tsx:52
+msgid "Keep going!"
+msgstr "Hou daar!"
+
+#: src/lib/locales.ts:65
+msgid "Kenya"
+msgstr "Kenia"
+
+#: src/lib/locales.ts:40
+msgid "Khmer"
+msgstr "ខ្មែរ"
+
+#: src/lib/locales.ts:42
+msgid "Korean"
+msgstr "한국어"
+
+#: src/lib/locales.ts:62
+msgid "Kosovo"
+msgstr "Kosovo"
+
+#: src/components/onboarding/CongratulationsSlide.tsx:34
+msgid "Language learning made easy"
+msgstr "Leer 'n taal eenvoudig"
+
+#: src/components/feed/LastStudyActivity.tsx:52
+msgid "Last activity"
+msgstr "Laaste aktiwiteit"
+
+#: src/components/library/LibrarySort.tsx:73
+msgid "Latest"
+msgstr "Laast"
+
+#: src/lib/locales.ts:44
+msgid "Latvia"
+msgstr "Letland"
+
+#: src/lib/locales.ts:44
+msgid "Latvian"
+msgstr "Latviski"
+
+#: src/components/feed/StudySetCardOptions.tsx:127
+msgid "Learn"
+msgstr "Leer"
+
+#: src/components/feed/StudyPlanStepsList.tsx:17
+msgid "Learn 20 flashcards"
+msgstr "Leer 20 flashkaartjies"
+
+#: src/navigation/modals/DarkModeModal.tsx:32
+msgid ""
+"Learn anywhere, at any time! Dark mode is perfect for late evenings to give "
+"your eyes a better rest."
+msgstr ""
+"Leer oral, enige tyd! Donker modus is ideaal vir laat in die aand om jou oë "
+"'n beter rust te gee."
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:52
+msgid "Learn new words 🔥"
+msgstr "Leer nu nuwe woorde 🔥"
+
+#: src/navigation/index.tsx:416
+#: src/navigation/modals/SettingsModal.tsx:123
+#. The language which the user selected in the application's preferences settings as the target language for learning from flashcards
+msgid "Learning Language"
+msgstr "Leer 'n Taal"
+
+#: src/components/feed/LibraryListNothingCreated.tsx:29
+msgid "Let's create!"
+msgstr "Laat ons begin!"
+
+#: src/components/profile/StatisticsExperienceCard.tsx:82
+#. Gamified user's level based on XP
+msgid "Level"
+msgstr "Vlak"
+
+#: src/navigation/modals/SubscriptionModal.tsx:66
+msgid "Linkoglot — Real Studying with AI"
+msgstr "Linkoglot — Reële studie met AI"
+
+#: src/lib/locales.ts:43
+msgid "Lithuania"
+msgstr "Lithuwia"
+
+#: src/lib/locales.ts:43
+msgid "Lithuanian"
+msgstr "Lituviu"
+
+#: src/components/profile/LoadingAchievements.tsx:20
+msgid "Loading achievements"
+msgstr "Laai prestasieë op"
+
+#: src/navigation/screens/FlashcardsScreen.tsx:69
+msgid "Loading flashcards..."
+msgstr "Kaartjies word gelaai..."
+
+#: src/navigation/screens/QuizScreen.tsx:103
+msgid "Loading quiz..."
+msgstr "Quiz word..."
+
+#: src/components/profile/LoadingStatistics.tsx:16
+msgid "Loading statistics"
+msgstr "Laai statistiek"
+
+#: src/components/profile/LoadingWeeklyXP.tsx:16
+msgid "Loading XP"
+msgstr "XP word"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:64
+msgid "Looped"
+msgstr "In die lus"
+
+#: src/components/quiz-settings/AiPrompt.tsx:34
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, consectetur "
+"cumque sequi"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, consectetur "
+"cumque sequi"
+
+#: src/lib/locales.ts:45
+msgid "Macedonian"
+msgstr "Македонски"
+
+#: src/lib/locales.ts:49
+msgid "Malay"
+msgstr "Melayu"
+
+#: src/lib/locales.ts:46
+msgid "Malayalam"
+msgstr "മലയാളം"
+
+#: src/lib/locales.ts:49
+msgid "Malaysia"
+msgstr "Maleisië"
+
+#: src/lib/locales.ts:50
+msgid "Malta"
+msgstr "Malta"
+
+#: src/lib/locales.ts:50
+msgid "Maltese"
+msgstr "Maltese"
+
+#: src/lib/locales.ts:48
+msgid "Marathi"
+msgstr "मराठी"
+
+#: src/components/profile/ProfileRank.tsx:33
+msgid "Master"
+msgstr "Meester"
+
+#: src/lib/locales.ts:20
+msgid "Mexico"
+msgstr "Mexico"
+
+#: src/components/quests/Quests.tsx:37
+msgid "minute"
+msgstr "minuut"
+
+#: src/components/quests/Quests.tsx:38
+msgid "minutes"
+msgstr "minute"
+
+#: src/lib/constants.ts:46
+msgid "Misinformation"
+msgstr "Verkeerde inligting"
+
+#: src/components/study-sessions/FinishedStatistics.tsx:100
+#. Amount of missed words, as in got them incorrectly
+msgid "Misses"
+msgstr "Mislukkings"
+
+#: src/components/quiz/TopChangeMode.tsx:110
+msgid "Mode"
+msgstr "Modus"
+
+#: src/lib/locales.ts:58
+msgid "Moldova"
+msgstr "Moldova"
+
+#: src/lib/locales.ts:47
+msgid "Mongolia"
+msgstr "Mongolie"
+
+#: src/lib/locales.ts:47
+msgid "Mongolian"
+msgstr "Энд"
+
+#: src/navigation/modals/SubscriptionModal.tsx:37
+#. Per 1 month
+msgid "month"
+msgstr "maand"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:101
+msgid "Monthly"
+msgstr "Maandelik"
+
+#: src/lib/locales.ts:7
+msgid "Morocco"
+msgstr "Marokko"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:95
+msgid ""
+"Moving from another app? Paste your export data below. Only import content "
+"you own or have permission to use."
+msgstr ""
+"Kom van 'n ander app? Plaas jou uitvoerdata hieronder. Alleen inhoud wat jy "
+"besit of waarvoor jy toestemming het, teëneem."
+
+#: src/lib/locales.ts:57
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: src/components/quiz/TopChangeMode.tsx:37
+msgid "Multi-Choice"
+msgstr "Meervoudige keuse"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:43
+msgid "Multi-language support"
+msgstr "Ondersteuning vir versamelige tale"
+
+#: src/lib/locales.ts:51
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: src/components/settings/AccountFormName.tsx:31
+msgid "Name"
+msgstr "Naam"
+
+#: src/lib/locales.ts:6
+msgid "Namibia"
+msgstr "Namibia"
+
+#: src/lib/locales.ts:53
+msgid "Nepal"
+msgstr "Nepal"
+
+#: src/lib/locales.ts:53
+msgid "Nepali"
+msgstr "Nepali"
+
+#: src/lib/locales.ts:54
+msgid "Netherlands"
+msgstr "Nederlands"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:95
+msgid "New line"
+msgstr "Nuwe lyn"
+
+#: src/navigation/index.tsx:691
+msgid "New study set"
+msgstr "Nuwe studie stel"
+
+#: src/components/study-sets/SetFormTitle.tsx:35
+msgid "New study set title"
+msgstr "Nuwe studie stel titel"
+
+#: src/components/quiz/QuizCheckButton.tsx:40
+#: src/components/quiz/QuizResultButton.tsx:24
+msgid "Next"
+msgstr "Volgende"
+
+#: src/navigation/modals/SubscriptionModal.tsx:112
+msgid "Next charge"
+msgstr "Volgende afbetaling"
+
+#: src/components/quests/ChallengeEmpty.tsx:24
+msgid "No challenge here yet"
+msgstr "Nog geen uitdaging hier nie"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:23
+msgid "No package was found..."
+msgstr "Geen pakket is gevind."
+
+#: src/components/onboarding/SubscriptionFooter.tsx:52
+msgid "No payment due now"
+msgstr "Geen betaling nodig op môoment"
+
+#: src/navigation/modals/SubscriptionModal.tsx:117
+msgid "No upcoming renewals"
+msgstr "Geen komende hernuwe"
+
+#: src/navigation/index.tsx:699
+msgid "No, back to creating"
+msgstr "Nee, terug na die skep"
+
+#: src/navigation/index.tsx:724
+msgid "No, back to editing"
+msgstr "Nee, terug na redigeer"
+
+#: src/components/feed/QuizCardOptions.tsx:48
+#: src/components/feed/StudySetCardOptions.tsx:53
+#: src/components/study-sets/SetFormDeleteButton.tsx:55
+#: src/components/study-sets/StudySetDetailsHeader.tsx:55
+#: src/components/ui/warning-dialog.tsx:75
+msgid "No, cancel"
+msgstr "Nee, annuleer"
+
+#: src/navigation/index.tsx:460
+#: src/navigation/modals/SubscriptionCancelModal.tsx:46
+msgid "No, go back"
+msgstr "Nee, gaan terug"
+
+#: src/navigation/modals/DeleteAccountModal.tsx:54
+#: src/navigation/modals/SignOutModal.tsx:49
+msgid "No, let's go back!"
+msgstr "Nee, laat ons herbegin!"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:42
+msgid "No, resume"
+msgstr "Nee, CV"
+
+#: src/components/quiz-settings/Difficulty.tsx:28
+msgid "Normal"
+msgstr "Normaal"
+
+#: src/lib/locales.ts:42
+msgid "North Korea"
+msgstr "Noord-Korea"
+
+#: src/lib/locales.ts:45
+#: src/lib/locales.ts:62
+msgid "North Macedonia"
+msgstr "Noord-Makedonie"
+
+#: src/lib/locales.ts:52
+msgid "Norway"
+msgstr "Noorweë"
+
+#: src/lib/locales.ts:52
+msgid "Norwegian"
+msgstr "Norsk"
+
+#: src/components/feed/LibraryListNothingCreated.tsx:16
+msgid "Nothing's here yet..."
+msgstr "Nog nie iets nie..."
+
+#: src/navigation/index.tsx:353
+#: src/navigation/modals/SettingsModal.tsx:90
+msgid "Notifications"
+msgstr "Kennisgewings"
+
+#: src/components/onboarding/SubscriptionFooter.tsx:26
+msgid "Notifications for reminders"
+msgstr "Kennisgewings vir herinneringe"
+
+#: src/components/profile/ProfileRank.tsx:13
+msgid "Novice"
+msgstr "Beginner"
+
+#: src/hooks/utils/useConsent.ts:72
+#: src/hooks/utils/useConsent.ts:105
+msgid "Now you won't miss any new and fantastic opportunities!"
+msgstr "Nou sal jy nie meer miss nie!"
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:45
+msgid "Now you'll surely learn the language in no time!"
+msgstr "Nou, jy sal sekerlik die taal in geen tyd nie leer!"
+
+#: src/hooks/study-sets/useUpdateStudySet.ts:27
+msgid "Oh no, we couldn't update the this study set for you!"
+msgstr "O, nee, ons kon nie hierdie studie stel vir jou opdateer nie!"
+
+#: src/hooks/utils/useCopyToClipboard.ts:20
+msgid "Oh no! We couldn't copy the text to your clipboard!"
+msgstr "Oh nee! Ons kon die teks nie na jou blad nie!"
+
+#: src/hooks/study-sets/useCreateStudySet.ts:42
+msgid "Oh no! We couldn't create the study set for you..."
+msgstr "O, nee! Ons kon die studie stel nie vir jou skep nie..."
+
+#: src/hooks/quizes/useDeleteQuiz.ts:28
+msgid "Oh no! We couldn't delete this quiz for you..."
+msgstr "O nee! Ons kon nie hierdie quiz vir jou uitvee nie..."
+
+#: src/hooks/study-sets/useDeleteStudySet.ts:28
+msgid "Oh no! We couldn't delete this study set for you..."
+msgstr "O, nee! Ons kon hierdie studie stel nie vir jou verwyder nie..."
+
+#: src/hooks/study-sets/useEditStudySet.ts:30
+msgid "Oh no! We couldn't edit this study set for you..."
+msgstr "Oh nee! Ons kon nie hierdie studie stel vir jou redigeer nie..."
+
+#: src/hooks/operating-system/useSaveFile.ts:28
+msgid "Oh no! We couldn't save this file for you..."
+msgstr "Oh nee! Ons kon hierdie lêer nie vir jou red nie..."
+
+#: src/hooks/reports/useCreateReport.ts:45
+msgid "Oh no! We couldn't send the report."
+msgstr "Oh nee! Ons kon die verslag nie stuur nie."
+
+#: src/hooks/auth/useSignInViaApple.ts:38
+msgid "Oh no! We couldn't sign you in via Apple..."
+msgstr "O jee! Ons kon jou nie via Apple aanmeld nie..."
+
+#: src/hooks/auth/useSignInViaGoogle.ts:38
+msgid "Oh no! We couldn't sign you in via Google..."
+msgstr "O jee! Ons kon jou nie via Google aanmeld nie..."
+
+#: src/services/day-streaks/listenDayStreaks.tsx:49
+msgid "Oh no! You didn't manage to keep your day streak... 🙁"
+msgstr "Oh nee! Jy het jou dag se telling nie bewaar nie... 🙁"
+
+#: src/services/operating-system/saveFile.ts:90
+msgid ""
+"Oh no! Your device's platform is not supported for saving files. That's "
+"really sad..."
+msgstr ""
+"Oh nee! Jou toestel se platform word nie ondersteun om lêke te stoor nie. "
+"Dit is baie jammer..."
+
+#: src/services/operating-system/saveFile.ts:77
+#: src/services/operating-system/saveFile.ts:80
+#: src/services/operating-system/saveFile.ts:83
+msgid "Oh! File saving was cancelled!"
+msgstr "Oh! Die opslag is geannuleer!"
+
+#: src/services/auth/signInViaApple.ios.ts:32
+#: src/services/auth/signInViaApple.ts:62
+#: src/services/auth/signInViaGoogle.ts:73
+msgid "Oh! Signing in was cancelled!"
+msgstr "Oh! Aanmelding is geannuleer!"
+
+#: src/navigation/modals/ExportDataModal.tsx:53
+msgid "OK, download!"
+msgstr "OK, aflaai!"
+
+#: src/components/library/LibrarySort.tsx:85
+msgid "Oldest"
+msgstr "Ooudste"
+
+#: src/services/operating-system/shareText.ts:17
+msgid "Oops, sharing was cancelled!"
+msgstr "Oops, deel is geëindig!"
+
+#: src/hooks/pictures/useAnalyzePicture.ts:31
+msgid "Oops, we couldn't analyze this picture for you!"
+msgstr "Oops, ons kon hierdie prent nie vir jou analise nie!"
+
+#: src/hooks/quizes/useCreateQuiz.ts:99
+msgid "Oops, we couldn't create the quiz for you!"
+msgstr "Oops, ons kon die quiz nie vir jou skep nie!"
+
+#: src/hooks/profiles/useProfileExportData.ts:23
+msgid "Oops, we couldn't export your data!"
+msgstr "Oops, ons kon u data nie uitvoer nie!"
+
+#: src/services/study-sets/getStudySetById.ts:21
+msgid "Oops, we couldn't find this study set..."
+msgstr "Oops, ons kon hierdie studie nie vind nie..."
+
+#: src/hooks/pictures/useSavePicture.ts:18
+msgid "Oops, we couldn't save the picture to your device's storage!"
+msgstr "Oops, ons kon die prent nie na jou toestel se opslag stoor nie!"
+
+#: src/hooks/quizes/useUpdateQuiz.ts:27
+msgid "Oops, we couldn't update the quiz for you!"
+msgstr "Oops, ons kon die quiz nie vir jou opdateer nie!"
+
+#: src/hooks/camera/useCameraPermissions.ts:20
+msgid "Oops, we still didn't get the access!"
+msgstr "Oops, ons het nog steeds nie toegang gekry nie!"
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:28
+msgid "Oops, you have to submit consent first!"
+msgstr "Oops, jy moet eers toestemming gee!"
+
+#: src/services/auth/signInViaGoogle.ts:75
+msgid "Oops! Signing in is required!"
+msgstr "Oops! Om aan te meld is nodig!"
+
+#: src/services/auth/signInViaGoogle.ts:77
+msgid "Oops! Signing in was interrupted!"
+msgstr "Oeps! Die aanmelding is onderbroken!"
+
+#: src/components/quiz/WrongAnswerResult.tsx:44
+msgid "Oops! That wasn't the correct answer..."
+msgstr "Oops! Dat was nie die regte antwoord nie..."
+
+#: src/components/quiz/TimedOutAnswerResult.tsx:32
+msgid "Oops! Your time run out"
+msgstr "Oops! Jou tyd is op"
+
+#: src/components/ui/question-tooltip.tsx:23
+msgid "Open AI prompt tooltip"
+msgstr "Help om te verstaan"
+
+#: src/components/feed/QuizCardOptions.tsx:57
+msgid "Open quiz options"
+msgstr "Maak quiz-opsies oop"
+
+#: src/components/feed/StudySetCardOptions.tsx:62
+msgid "Open study set options"
+msgstr "Opsies vir studiegroepe"
+
+#: src/components/quiz/WritingSettings.tsx:42
+msgid "Open writing settings"
+msgstr "Maak skryfingsinstellings oop"
+
+#: src/lib/constants.ts:50
+msgid "Other"
+msgstr "Ander"
+
+#: src/navigation/index.tsx:541
+msgid "Page Not Found | 404"
+msgstr "Bladsy nie gevind | 404"
+
+#: src/lib/locales.ts:55
+#: src/lib/locales.ts:71
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: src/components/ui/login-email-form.tsx:42
+msgid "Password"
+msgstr "Wagwoord"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:69
+msgid "Paste text"
+msgstr "Plak teks"
+
+#: src/lib/locales.ts:23
+msgid "Persian"
+msgstr "فارسی"
+
+#: src/components/feed/QuizCard.tsx:76
+msgid "Personalized for you"
+msgstr "Gepersonaliseer vir jou"
+
+#: src/hooks/quizes/useCreateQuiz.ts:86
+msgid "Personalizing words..."
+msgstr "Personaliseer woorde..."
+
+#: src/components/onboarding/TopHeader.tsx:43
+msgid "Pick display language"
+msgstr "Kies vertoningsdialeg"
+
+#: src/navigation/index.tsx:513
+msgid "Picture"
+msgstr "Afbeeldie"
+
+#: src/components/profile/StatisticsStudySetsCard.tsx:103
+#: src/components/profile/StatisticsWordsCard.tsx:103
+msgid "Pictures"
+msgstr "Afbeeldings"
+
+#: src/components/feed/QuizCardOptions.tsx:108
+msgid "Play"
+msgstr "Speel"
+
+#: src/components/feed/StudyPlanStepsList.tsx:25
+msgid "Play 2 quizes"
+msgstr "Speel 2 quizte"
+
+#: src/components/feed/FeedBannersList.tsx:29
+msgid "Play a quiz and reinforce your memory"
+msgstr "Speel 'n quiz en versterk jou geheue"
+
+#: src/components/feed/StudyActivityCard.tsx:143
+msgid "Play again"
+msgstr "Speel weer"
+
+#: src/components/feed/FeedBannersList.tsx:30
+msgid "Play quiz"
+msgstr "Speel die quiz"
+
+#: src/services/pictures/savePicture.ts:55
+msgid "Please allow access to save photos!"
+msgstr "Laai foto's toe, asseblief"
+
+#: src/components/camera/RequestPermission.tsx:27
+msgid "Please allow camera access in order to take pictures"
+msgstr "Laai toestemming vir die kamera om foto's te neem"
+
+#: src/hooks/auth/useDeleteAccount.ts:24
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:31
+#: src/hooks/profiles/useUpdateProfile.ts:46
+#: src/hooks/reports/useCreateReport.ts:45
+#: src/hooks/subscription/useCancelSubscription.ts:27
+#: src/services/auth/signInViaApple.ios.ts:27
+#: src/services/auth/signInViaApple.ts:66
+#: src/services/auth/signInViaGoogle.ts:80
+#: src/services/auth/signInViaGoogle.ts:84
+#: src/services/documents/getLatestDocuments.ts:30
+#: src/services/profiles/profileExportData.ts:13
+msgid "Please contact us immediately at {CONTACT_EMAIL}"
+msgstr "Kontak ons dadelik by {CONTACT_EMAIL}"
+
+#: src/lib/zodSchemas.ts:159
+msgid "Please enter a valid email!"
+msgstr "Skryf asseblief 'n geldige e-posadres in."
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:32
+msgid "Please enter the data according to your format settings!"
+msgstr "Gee die data in volgens jou formaatinstruksies!"
+
+#: src/navigation/sheets/GenerateStudySetSheet.tsx:45
+msgid "Please give me words on..."
+msgstr "Gee, asse, graag"
+
+#: src/lib/locales.ts:56
+msgid "Poland"
+msgstr "Poleland"
+
+#: src/lib/locales.ts:56
+msgid "Polish"
+msgstr "Linkoglot"
+
+#: src/navigation/index.tsx:425
+#: src/navigation/modals/SettingsModal.tsx:132
+msgid "Pop-ups"
+msgstr "Pop-ups"
+
+#: src/lib/locales.ts:57
+msgid "Portugal"
+msgstr "Portugal"
+
+#: src/lib/locales.ts:57
+msgid "Portuguese"
+msgstr "Linkoglot"
+
+#: src/components/practice/PracticeTabPage.tsx:11
+msgid "Practice"
+msgstr "Oefen"
+
+#: src/components/profile/ProfileRank.tsx:21
+msgid "Practitioner"
+msgstr "Praktisyn"
+
+#: src/navigation/modals/SettingsModal.tsx:137
+msgid "Preferences"
+msgstr "Voorkeure"
+
+#: src/components/library/LibrarySearch.tsx:73
+msgid "Preparing..."
+msgstr "Voorberei..."
+
+#: src/navigation/modals/SettingsModal.tsx:72
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: src/components/profile/ProfileRank.tsx:25
+msgid "Professional"
+msgstr "Professioneel"
+
+#: src/navigation/index.tsx:244
+msgid "Profile"
+msgstr "Profiel"
+
+#: src/services/notifications/registerForNotifications.ts:70
+msgid "Project ID not found"
+msgstr "Projek-ID nie gevind nie"
+
+#: src/lib/zodSchemas.ts:59
+msgid "Prompt cannot be longer than {MAX_STUDY_SET_GENERATE_AI_LENGTH} characters"
+msgstr ""
+"Die teks mag nie meer as {MAX_STUDY_SET_GENERATE_AI_LENGTH} karakters wees "
+"nie."
+
+#: src/lib/zodSchemas.ts:51
+msgid "Prompt is missing!"
+msgstr "Die teks wat jy wil vertaal."
+
+#: src/lib/zodSchemas.ts:55
+msgid "Prompt should be at least {MIN_STUDY_SET_GENERATE_AI_LENGTH} characters long"
+msgstr "{MIN_STUDY_SET_GENERATE_AI_LENGTH}"
+
+#: src/lib/locales.ts:55
+msgid "Punjabi"
+msgstr "Punjabi"
+
+#: src/services/quests/listenQuests.tsx:61
+msgid "quest completed!"
+msgstr "quest voltooi!"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:66
+#: src/components/study-sessions/FinishedStatistics.tsx:124
+#. Total amount of questions answered
+msgid "Questions"
+msgstr "Vrae"
+
+#: src/components/quiz/TopChangeQuestionsLanguage.tsx:30
+msgid "Questions language"
+msgstr "Vrae taal"
+
+#: src/navigation/index.tsx:224
+msgid "Quests"
+msgstr "Quests"
+
+#: src/navigation/index.tsx:503
+msgid "Quick question!"
+msgstr "Vinnige vraag!"
+
+#: src/components/quiz/TopHeader.tsx:79
+#: src/components/study-sets/PlayingOptionsList.tsx:34
+msgid "Quiz"
+msgstr "Vraag"
+
+#: src/components/feed/QuizCardOptions.tsx:79
+#: src/navigation/index.tsx:579
+msgid "Quiz options"
+msgstr "Kies uit die opsies"
+
+#: src/components/library/LibraryFilters.tsx:25
+msgid "Quizes"
+msgstr "Quizze"
+
+#: src/components/profile/StatisticsStudySetsCard.tsx:61
+#: src/components/profile/StatisticsWordsCard.tsx:61
+msgid "Quizes played"
+msgstr "Toetsings wat voltooi is"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:19
+msgid "Quizlet"
+msgstr "Quizlet"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:78
+msgid "Recommended"
+msgstr "Aanbeurt"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:68
+msgid "Refresh study set creation"
+msgstr "Opdateer studie stel"
+
+#: src/components/flashcards/FlashcardsCarousel.tsx:150
+msgid "Remembered"
+msgstr "Genoë"
+
+#: src/components/ui/consent-marketing-checkbox.tsx:48
+msgid "Remind me to stay on track with my goals and enable push notifications."
+msgstr "Herinner my om op pad te bly met my doele, en aktiveer stootkennisgewings."
+
+#: src/navigation/modals/SubscriptionModal.tsx:76
+msgid "Reoccuring"
+msgstr "Herhalend"
+
+#: src/components/study-sets/EditableFlashcardCollapsedButtons.tsx:33
+msgid "Reorder flashcard down"
+msgstr "Herrangskik flashcard af"
+
+#: src/components/study-sets/EditableFlashcardCollapsedButtons.tsx:48
+msgid "Reorder flashcard up"
+msgstr "Herpret flashkaart"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:88
+#: src/components/quiz-settings/TimeLimit.tsx:90
+#: src/components/report/FormCategory.tsx:42
+msgid "Report category"
+msgstr "Kategorie vir verslag"
+
+#: src/components/report/FormDescription.tsx:35
+msgid "Report description"
+msgstr "Verslagbeskrywing"
+
+#: src/navigation/index.tsx:434
+#: src/navigation/modals/SettingsModal.tsx:159
+msgid "Report Issues"
+msgstr "Rapporteer probleme"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:159
+msgid "Restart cards"
+msgstr "Kaartjies herbegin"
+
+#: src/components/quiz-settings/StartButton.tsx:126
+msgid "Restart last quiz"
+msgstr "Begin met die laaste toets"
+
+#: src/components/quiz-settings/StartButton.tsx:128
+msgid "Resume last quiz"
+msgstr "Laaste toets voltooi"
+
+#: src/components/feed/StudyActivityCard.tsx:145
+msgid "Resume session"
+msgstr "Resuma-sessie"
+
+#: src/navigation/modals/SettingsModal.tsx:153
+msgid "Review"
+msgstr "Bekyk"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:40
+msgid "Review tough vocabulary 😣"
+msgstr "Bekyk moeilike woorde 😣"
+
+#: src/lib/locales.ts:58
+msgid "Romania"
+msgstr "Roemenië"
+
+#: src/lib/locales.ts:58
+msgid "Romanian"
+msgstr "Român"
+
+#: src/lib/locales.ts:59
+msgid "Russia"
+msgstr "Rusasi"
+
+#: src/lib/locales.ts:59
+msgid "Russian"
+msgstr "Русский"
+
+#: src/lib/locales.ts:7
+msgid "Saudi Arabia"
+msgstr "Saoedi-Arabië"
+
+#: src/components/taken-picture/SavePictureHeaderButton.tsx:32
+msgid "Save"
+msgstr "Stoor"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:83
+#. Paying only 80% of the original price for example, so you save 20% of it.
+msgid "Save {annuallySavingPercentageString}"
+msgstr "Spaar {annuallySavingPercentageString}"
+
+#: src/navigation/modals/AccountModal.tsx:104
+#: src/navigation/modals/AudioFeedbackModal.tsx:99
+#: src/navigation/modals/DarkModeModal.tsx:79
+#: src/navigation/modals/HapticsModal.tsx:78
+#: src/navigation/modals/NotificationsModal.tsx:162
+#: src/navigation/modals/PopUpsModal.tsx:94
+msgid "Save and go back!"
+msgstr "Stoor en gaan terug!"
+
+#: src/services/operating-system/saveFile.ts:63
+msgid "Save your data"
+msgstr "Stoor jou data"
+
+#: src/components/onboarding/SignInSlide.tsx:54
+msgid "Save your progress"
+msgstr "Stoor jou vordering"
+
+#: src/navigation/modals/DisplayLanguageModal.tsx:29
+#: src/navigation/modals/LearningLanguageModal.tsx:28
+msgid "Save!"
+msgstr "Stoor!"
+
+#: src/components/library/LibrarySearch.tsx:93
+#: src/components/settings/LanguagePicker.tsx:82
+msgid "Search..."
+msgstr "Soek..."
+
+#: src/components/quiz/TopTimeRemaining.tsx:31
+msgid "Sec"
+msgstr "Beveilig"
+
+#: src/hooks/utils/useSecretPress.ts:43
+msgid "Secret found!"
+msgstr "Geheime ontdek!"
+
+#: src/components/ui/login-email-form.tsx:31
+msgid "Secret password sign-in for testers"
+msgstr "Geheime wagwoord vir toetsers"
+
+#: src/components/profile/Achievements.tsx:51
+#: src/components/profile/LoadingAchievements.tsx:32
+msgid "See all"
+msgstr "Sien alles"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:93
+#: src/components/quiz-settings/TimeLimit.tsx:95
+#: src/components/report/FormCategory.tsx:47
+msgid "Select an issue category"
+msgstr "Kies 'n probleemkategorie"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:108
+msgid "Semicolon"
+msgstr "Semicolon"
+
+#: src/lib/zodSchemas.ts:143
+msgid "Separator between cards is missing!"
+msgstr "Die grens tussen kaarte is nie voorgekom nie!"
+
+#: src/lib/zodSchemas.ts:139
+msgid "Separator between terms and definitions is missing!"
+msgstr "Separator tussen terme en definisies is ontbreek!"
+
+#: src/navigation/modals/ExportFlashcardsFormModal.tsx:82
+#: src/navigation/modals/ImportFlashcardsModal.tsx:98
+msgid "Separator is missing!"
+msgstr "Die grens is nie teenwoordig nie!"
+
+#: src/navigation/modals/ExportFlashcardsFormModal.tsx:84
+#: src/navigation/modals/ImportFlashcardsModal.tsx:100
+msgid "Separators cannot be the exact same!"
+msgstr "Verdelers mag nie dieselfde wees nie!"
+
+#: src/lib/locales.ts:63
+msgid "Serbia"
+msgstr "Serwië"
+
+#: src/lib/locales.ts:63
+msgid "Serbian"
+msgstr "Српски"
+
+#: src/components/quests/GoalsTabPage.tsx:9
+msgid "Session goals"
+msgstr "Doel van die sessie"
+
+#: src/navigation/index.tsx:334
+msgid "Settings"
+msgstr "Instellings"
+
+#: src/components/study-sets/SetFormShareButton.tsx:17
+msgid "Share flashcards"
+msgstr "Deel flashkaarties"
+
+#: src/components/study-sets/StudySetDetailsHeader.tsx:69
+msgid "Share study set"
+msgstr "Deel studie"
+
+#: src/services/operating-system/shareText.ts:13
+msgid "Share via..."
+msgstr "Deel via..."
+
+#: src/hooks/operating-system/useShareText.ts:38
+msgid "Shared successfully! Hooray!"
+msgstr "Geraak suksesvol! Ongelukkig!"
+
+#: src/navigation/index.tsx:746
+msgid "Sharing options"
+msgstr "Deelopsies"
+
+#: src/components/study-sets/EditableFlashcardNativeExample.tsx:40
+msgid "She bit into a crisp, juicy apple."
+msgstr "Sy het in 'n knapper, sappige appel gebyt."
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:53
+msgid "Shuffled"
+msgstr "Verworsk"
+
+#: src/components/ui/login-email-form.tsx:63
+msgid "Sign in"
+msgstr "Aanlog"
+
+#: src/components/ui/login-connections.tsx:126
+msgid "Sign in via Apple"
+msgstr "Aanlog via Apple"
+
+#: src/components/ui/login-connections.tsx:98
+msgid "Sign in via Google"
+msgstr "Log in met Google"
+
+#: src/components/ui/login-connections.tsx:163
+msgid "Sign out"
+msgstr "Afmeld"
+
+#: src/navigation/index.tsx:476
+#: src/navigation/modals/SettingsModal.tsx:175
+msgid "Sign Out"
+msgstr "Afsluit"
+
+#: src/components/ui/login-connections.tsx:138
+msgid "Signed in"
+msgstr "Aanlog"
+
+#: src/services/auth/signInViaGoogle.ts:34
+msgid "Signing in was cancelled"
+msgstr "Ingaan is geannuleer"
+
+#: src/lib/locales.ts:49
+#: src/lib/locales.ts:66
+#: src/lib/locales.ts:74
+msgid "Singapore"
+msgstr "Singapura"
+
+#: src/lib/locales.ts:60
+msgid "Slovak"
+msgstr "Slovenský"
+
+#: src/lib/locales.ts:60
+msgid "Slovakia"
+msgstr "Slowakie"
+
+#: src/lib/locales.ts:61
+msgid "Slovenia"
+msgstr "Slovenië"
+
+#: src/lib/locales.ts:61
+msgid "Slovenian"
+msgstr "Sloveens"
+
+#: src/hooks/auth/useSignInViaPassword.ts:25
+msgid ""
+"Something went wrong whilst trying to sign in with a password. Are your "
+"credentials valid?"
+msgstr ""
+"Iets het verkeerd geloop tydens die aansoek om met 'n wagwoord in te teken. "
+"Is jou inligting korrek?"
+
+#: src/services/auth/signInViaGoogle.ts:65
+msgid "Something went wrong with inspecting your profile. Please try again!"
+msgstr ""
+"Iets het verkeerd geloop met die insage van jou profiel. Probeer asseblief "
+"weer!"
+
+#: src/components/library/LibrarySort.tsx:177
+msgid "Sort by"
+msgstr "Sort per"
+
+#: src/components/library/LibrarySort.tsx:162
+msgid "Sort library search"
+msgstr "Soekbibli teël"
+
+#: src/lib/locales.ts:6
+#: src/lib/locales.ts:75
+msgid "South Africa"
+msgstr "Suid-Afrika"
+
+#: src/lib/locales.ts:42
+msgid "South Korea"
+msgstr "Suid-Korea"
+
+#: src/lib/locales.ts:13
+#: src/lib/locales.ts:20
+#: src/lib/locales.ts:22
+#: src/lib/locales.ts:27
+msgid "Spain"
+msgstr "Spanie"
+
+#: src/lib/locales.ts:20
+msgid "Spanish"
+msgstr "Linkoglot"
+
+#: src/components/feed/StudyPlanStepsList.tsx:21
+msgid "Spend 10 minutes"
+msgstr "Bestee 10 minute"
+
+#: src/components/profile/StatisticsExperienceCard.tsx:59
+#. Total time spent
+msgid "Spent"
+msgstr "Besteding"
+
+#: src/lib/locales.ts:66
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: src/contexts/OnboardingContext.tsx:154
+msgid "Start 1-week free trial"
+msgstr "Begin 1-week gratis proefperiode"
+
+#: src/components/quiz-settings/StartButton.tsx:106
+msgid "Start!"
+msgstr "Laai af."
+
+#: src/components/profile/Statistics.tsx:23
+msgid "Statistics"
+msgstr "Statistiek"
+
+#: src/components/day-streak/DayStreaksList.tsx:40
+msgid "Streak is <0>{currentDayStreak}</0>."
+msgstr "Streak is <0>{currentDayStreak}</0>."
+
+#: src/components/profile/StatisticsExperienceCard.tsx:38
+#. Day streak in a row
+msgid "Streak record"
+msgstr "Streeprekord"
+
+#: src/components/profile/NameInfo.tsx:38
+msgid ""
+"Study\n"
+"sets"
+msgstr ""
+"Studeer\n"
+"stel"
+
+#: src/components/feed/StudyActivityCard.tsx:140
+msgid "Study again"
+msgstr "Studieer weer"
+
+#: src/navigation/index.tsx:589
+msgid "Study set"
+msgstr "Studie stel"
+
+#: src/components/feed/StudySetCardOptions.tsx:82
+msgid "Study set options"
+msgstr "Studie stel opsies"
+
+#: src/components/library/LibraryFilters.tsx:21
+#: src/components/profile/StatisticsStudySetsCard.tsx:40
+#: src/components/profile/StatisticsWordsCard.tsx:40
+msgid "Study sets"
+msgstr "Stude se"
+
+#: src/navigation/index.tsx:371
+#: src/navigation/modals/SettingsModal.tsx:67
+msgid "Subscription"
+msgstr "Abonnement"
+
+#: src/navigation/modals/SubscriptionModal.tsx:85
+msgid "Subscription information"
+msgstr "Inligting oor abonneering"
+
+#: src/lib/constants.ts:38
+msgid "Suggestions"
+msgstr "Voorstelle"
+
+#: src/navigation/modals/SettingsModal.tsx:187
+msgid "Support"
+msgstr "Hulpe"
+
+#: src/lib/locales.ts:54
+msgid "Suriname"
+msgstr "Suriname"
+
+#: src/lib/locales.ts:65
+msgid "Swahili"
+msgstr "Swahili"
+
+#: src/components/study-sets/EditableFlashcardCollapsedButtons.tsx:62
+msgid "Swap flashcard terms and definitions"
+msgstr "Wissel flashkaart-woorde en definisies"
+
+#: src/lib/locales.ts:64
+msgid "Sweden"
+msgstr "Swede"
+
+#: src/lib/locales.ts:64
+msgid "Swedish"
+msgstr "Om du vill, kan du stänga av notifikationer."
+
+#: src/lib/locales.ts:17
+#: src/lib/locales.ts:25
+#: src/lib/locales.ts:36
+msgid "Switzerland"
+msgstr "Switserland"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:49
+#. The Tab keyboard character
+msgid "Tab"
+msgstr "Tab"
+
+#: src/lib/locales.ts:74
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: src/lib/locales.ts:23
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+#: src/lib/locales.ts:66
+msgid "Tamil"
+msgstr "தமிழ்"
+
+#: src/lib/locales.ts:65
+msgid "Tanzania"
+msgstr "Tansania"
+
+#: src/lib/constants.ts:34
+msgid "Technical issues"
+msgstr "Teikniese probleme"
+
+#: src/lib/locales.ts:67
+msgid "Telugu"
+msgstr "తెలుగు"
+
+#: src/components/study-sets/EditableFlashcardNativeMsg.tsx:32
+msgid "Term"
+msgstr "Term"
+
+#: src/components/study-sets/ImportFlashcardsFormData.tsx:55
+msgid ""
+"Term 1{termsSeparator}Definition 1{cardsSeparator}Term "
+"2{termsSeparator}Definition 2{cardsSeparator}Term "
+"3{termsSeparator}Definition 3"
+msgstr ""
+"Term 1{termsSeparator}Definition 1{cardsSeparator}Term "
+"2{termsSeparator}Definition 2{cardsSeparator}Term "
+"3{termsSeparator}Definition 3"
+
+#: src/lib/zodSchemas.ts:75
+msgid "Term cannot be longer than {MAX_FLASHCARD_NATIVE_MSG_LENGTH} characters"
+msgstr "Term kan nie langer wees as {MAX_FLASHCARD_NATIVE_MSG_LENGTH} karakters nie"
+
+#: src/lib/zodSchemas.ts:67
+msgid "Term is missing!"
+msgstr "Term is ontstig!"
+
+#: src/lib/zodSchemas.ts:71
+msgid "Term should be at least {MIN_FLASHCARD_NATIVE_MSG_LENGTH} characters long"
+msgstr "Term moet ten minste {MIN_FLASHCARD_NATIVE_MSG_LENGTH} karakters wees"
+
+#: src/navigation/modals/SettingsModal.tsx:77
+msgid "Terms & Conditions"
+msgstr "Terme en Voorwaardes"
+
+#: src/components/feed/FeedBannersList.tsx:28
+msgid "Test knowledge!"
+msgstr "Toets jou kennis!"
+
+#: src/components/quests/ChallengeHeader.tsx:21
+msgid "Test your knowledge with a quiz we've built just for you!"
+msgstr "Maak 'n toets om jou kennis te toets!"
+
+#: src/lib/locales.ts:68
+msgid "Thai"
+msgstr "ไทย"
+
+#: src/lib/locales.ts:68
+msgid "Thailand"
+msgstr "Thailand"
+
+#: src/components/study-sets/EditableFlashcardNativeMsg.tsx:40
+msgid "The apple"
+msgstr "Die appel"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:41
+msgid "This action cannot be undone. The data for this new study set will be lost"
+msgstr ""
+"Hierdie aksie kan nie teruggetrek word nie. Die data vir hierdie nuwe "
+"studie sal verdwyn."
+
+#: src/navigation/modals/DeleteAccountModal.tsx:37
+msgid ""
+"This action cannot be undone. You will loose all of your flashcards, "
+"profile experience, and your subscription will be cancelled automatically. "
+"We'll most definitely miss you!"
+msgstr ""
+"Hierdie aksie kan nie teruggedra nie. Jy sal al jou flashkaarte, "
+"profiel-ervaring en jou abonnement sal outomaties geëindig word. Ons sal "
+"jou jammer wees!"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:54
+msgid "This action cannot be undone. Your flashcards will be lost"
+msgstr "Hierdie aksie kan nie teruggetrek word nie. Jou flashkaarte sal verdwyn."
+
+#: src/services/live-notifications/listenLiveNotifications.ts:38
+msgid "This was sent to you by a Linkoglot administrator 👀"
+msgstr "Dit is gestuur deur 'n Linkoglot-administrator 👀"
+
+#: src/components/day-streak/DayStreaksList.tsx:58
+msgid "This week"
+msgstr "Hierdie week"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:17
+msgid "Thorough pictures analysis"
+msgstr "Grondige beeldanalise"
+
+#: src/components/quiz-settings/TimeLimit.tsx:68
+msgid "Time limit"
+msgstr "Tydslimiet"
+
+#: src/components/study-sessions/FinishedStatistics.tsx:76
+#. Total time spent
+msgid "Time spent"
+msgstr "Tyd spandeer"
+
+#: src/components/quiz-settings/TimeLimit.tsx:101
+msgid "Time to answer each question"
+msgstr "Tyd om elke vraag te beantwoord"
+
+#: src/components/quiz/TimedOutAnswerResult.tsx:29
+msgid "Timed out"
+msgstr "Tydelik"
+
+#: src/components/study-sets/SetFormTitle.tsx:26
+msgid "Title"
+msgstr "Titel"
+
+#: src/components/library/LibrarySort.tsx:49
+msgid "Title A to Z"
+msgstr "Titel van A tot Z"
+
+#: src/lib/zodSchemas.ts:43
+msgid "Title cannot be longer than {MAX_STUDY_SET_TITLE_LENGTH} characters"
+msgstr "Titel mag nie meer as {MAX_STUDY_SET_TITLE_LENGTH} karakters wees nie"
+
+#: src/lib/zodSchemas.ts:35
+msgid "Title is missing!"
+msgstr "Titel is ontbreek!"
+
+#: src/lib/zodSchemas.ts:39
+msgid "Title should be at least {MIN_STUDY_SET_TITLE_LENGTH} characters long"
+msgstr "Titel moet minstens {MIN_STUDY_SET_TITLE_LENGTH} karakters wees"
+
+#: src/components/library/LibrarySort.tsx:61
+msgid "Title Z to A"
+msgstr "Titel van A tot Z"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:87
+msgid "Toggle audio feedback for "
+msgstr "Wissel oudio-terugvoer vir "
+
+#: src/navigation/modals/DarkModeModal.tsx:29
+msgid "Toggle dark mode"
+msgstr "Skakel donker modus in"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:113
+msgid "Toggle example sentence for "
+msgstr "Voorbeeld van die skakelaar "
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:132
+msgid "Toggle explanation sentence for "
+msgstr "Aktive uitleg "
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:70
+msgid "Toggle front language as "
+msgstr "Skakel voorste taal o "
+
+#: src/navigation/modals/HapticsModal.tsx:31
+msgid "Toggle haptic feedback"
+msgstr "Aktiveer haptiese terugvoer"
+
+#: src/navigation/modals/NotificationsModal.tsx:94
+msgid "Toggle notifications"
+msgstr "Aktiveer/Deaktiveer kennisgewings"
+
+#: src/navigation/modals/PopUpsModal.tsx:48
+msgid "Toggle pop-ups"
+msgstr "Skakel pop-ups aan/uit"
+
+#: src/components/quiz/TopChangeQuestionsLanguage.tsx:35
+msgid "Toggle questions language to {displayLanguageLabel}"
+msgstr "Skakel die taal van die vrae opsy na {displayLanguageLabel}"
+
+#: src/components/quiz/TopChangeQuestionsLanguage.tsx:48
+msgid "Toggle questions language to {learningLanguageLabel}"
+msgstr "Skakel die taal van die vrae na {learningLanguageLabel}"
+
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:44
+msgid "Toggle them back to not miss any opportunities to earn money!"
+msgstr "Skakel dit weer aan om nie enige geleenthede om geld te verdien nie te mis!"
+
+#: src/components/onboarding/CongratulationsTopButtons.tsx:73
+msgid "Toggle theme"
+msgstr "Tema skakel"
+
+#: src/components/profile/StatisticsExperienceCard.tsx:101
+#. Total experience points (XP)
+msgid "Total XP"
+msgstr "Totale XP"
+
+#: src/components/quiz/QuizWriting.tsx:37
+msgid "Translate the sentence..."
+msgstr "Vertaal die sin..."
+
+#: src/lib/locales.ts:69
+msgid "Turkey"
+msgstr "Turkye"
+
+#: src/lib/locales.ts:69
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: src/lib/locales.ts:65
+msgid "Uganda"
+msgstr "Oeganda"
+
+#: src/services/auth/signInViaGoogle.ts:80
+msgid "Uh oh, Google Play Services are currently not available."
+msgstr "Oeps, Google Play Services is tans nie beskikbaar nie."
+
+#: src/services/operating-system/storeReview.ts:34
+msgid "Uh oh, it seems that your system is not supported for this feature..."
+msgstr "Oeps, dit lyk of jou stelsel nie ondersteun word vir hierdie funksie nie..."
+
+#: src/hooks/auth/useSetSession.ts:21
+msgid "Uh oh, smething went wrong while trying to sign you in..."
+msgstr "Oeps, daar is iets verkeerd gegaan tydens die inlogproses..."
+
+#: src/hooks/subscription/useCancelSubscription.ts:26
+msgid "Uh oh, something went wrong while trying to cancel your subscription..."
+msgstr ""
+"Oeps, daar is iets verkeerd geloop tydens die kanselling van jou "
+"abonneering..."
+
+#: src/hooks/notifications/useOpenNotificationSettings.ts:20
+msgid "Uh oh, something went wrong while trying to open your device settings..."
+msgstr ""
+"Oeps, daar is 'n fout opgetel tydens die probeer om jou toestelinstellinge "
+"oop te maak..."
+
+#: src/services/documents/getLatestDocuments.ts:30
+msgid ""
+"Uh oh, something went wrong while trying to retrieve the latest legal "
+"documents."
+msgstr ""
+"Oeps, daar is iets verkeerd geloop tydens die poging om die nuutste "
+"dokumente op te haal."
+
+#: src/services/auth/signInViaApple.ios.ts:27
+#: src/services/auth/signInViaApple.ios.ts:36
+#: src/services/auth/signInViaApple.ts:66
+msgid "Uh oh, something went wrong while trying to sign in via Apple."
+msgstr "Oeps, daar is iets verkeerd gegaan tydens die aansoek via Apple."
+
+#: src/services/auth/signInViaGoogle.ts:84
+msgid "Uh oh, something went wrong while trying to sign in via Google"
+msgstr "Oeps, daar is iets verkeerd gegaan tydens die aansoek via Google"
+
+#: src/hooks/auth/useCreateSessionFromURL.ts:26
+msgid "Uh oh, something went wrong while trying to sign you in..."
+msgstr "Oeps, daar is iets verkeerd gegaan tydens die inlogproses..."
+
+#: src/hooks/auth/useSignOut.ts:23
+msgid "Uh oh, something went wrong while trying to sign you out..."
+msgstr "Oeps, daar is iets verkeerd gegaan tydens die poging om jou af te sluit..."
+
+#: src/hooks/profiles/useUpdateProfile.ts:46
+msgid "Uh oh, something went wrong while trying to update your profile."
+msgstr "Oeps, daar is 'n fout opgekom tydens die opdatering van jou profiel."
+
+#: src/services/profiles/profileExportData.ts:13
+msgid "Uh oh, something went wrong whilst trying to export your data."
+msgstr "Oeps, daar is iets verkeerd gegaan tydens die uitvoer van jou data."
+
+#: src/hooks/operating-system/useStoreReview.ts:20
+msgid "Uh oh, something went wrong..."
+msgstr "Oeps, iets het verkeerd geloop..."
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:32
+msgid "Uh oh, subscription was not purchased yet!"
+msgstr "Oeps, die abonnementskwas is nog nie voltooi nie!"
+
+#: src/hooks/camera/useCameraTakePicture.ts:16
+msgid "Uh oh, the camera is not ready yet..."
+msgstr "Oeps, die kamera is nog nie gereed nie..."
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:24
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:20
+#: src/hooks/pictures/useAnalyzePicture.ts:20
+#: src/hooks/profiles/useUpdateProfile.ts:31
+#: src/hooks/quizes/useCreateQuiz.ts:74
+#: src/hooks/reports/useCreateReport.ts:29
+#: src/hooks/study-sessions/useCreateStudySession.ts:24
+#: src/hooks/study-sets/useCreateStudySet.ts:29
+#: src/hooks/subscription/useGetSubscription.ts:22
+msgid "Uh oh, you are not signed in yet!"
+msgstr "Oeps, jy is nog nie ingelog nie!"
+
+#: src/lib/locales.ts:70
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: src/lib/locales.ts:70
+msgid "Ukrainian"
+msgstr ""
+"Ось переклад на африкаанс:\n"
+"\n"
+"Українська"
+
+#: src/components/feed/QuizCardFinishedBadge.tsx:49
+msgid "Unfinished"
+msgstr "Onvoltooid"
+
+#: src/lib/locales.ts:7
+msgid "United Arab Emirates"
+msgstr "Verenigde Arabische Emiraten"
+
+#: src/lib/locales.ts:19
+msgid "United Kingdom"
+msgstr "Verenigd Koninkrijk"
+
+#: src/lib/locales.ts:19
+msgid "United States"
+msgstr "Verenigde State"
+
+#: src/components/onboarding/SubscriptionSlide.tsx:56
+msgid "Unlock your potential and reach goals"
+msgstr "Ontslip en bereik jou doeleindes"
+
+#: src/lib/locales.ts:71
+msgid "Urdu"
+msgstr "اردو"
+
+#: src/lib/locales.ts:72
+msgid "Uzbek"
+msgstr "Узбек"
+
+#: src/lib/locales.ts:72
+msgid "Uzbekistan"
+msgstr "Oesbees"
+
+#: src/lib/locales.ts:73
+msgid "Vietnam"
+msgstr "Vietname"
+
+#: src/lib/locales.ts:73
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+#: src/lib/locales.ts:15
+msgid "Wales"
+msgstr "Wales"
+
+#: src/components/ui/consent-dialog.tsx:92
+msgid ""
+"We are fully transparent about our data usage and general functionality, so "
+"to view the documents, simply click on the orange links below."
+msgstr ""
+"Ons is volledig openlik oor hoe ons data gebruik en hoe die funksionaliteit "
+"werk, so om die dokumente te sien, klik eenvoudig op die oranje koerante "
+"hieronder."
+
+#: src/hooks/auth/useDeleteAccount.ts:24
+msgid "We couldn't delete your account right now."
+msgstr "Ons kon u rekening op daargeslaan nie op daargeslaan."
+
+#: src/components/feed/LibraryListNotFound.tsx:19
+msgid "We couldn't find any results. Modify your search and try again!"
+msgstr "Ons kon nie enkele resultate vind nie. Wysig jou soektog en probeer weer!"
+
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:31
+msgid "We couldn't unregister you from notifications right now."
+msgstr "Ons kon jou nie op die môment uitskakel nie."
+
+#: src/components/ui/consent-dialog.tsx:70
+msgid "We need your consent!"
+msgstr "Ons moet jou toestemming hê!"
+
+#: src/services/operating-system/saveFile.ts:30
+msgid "We need your permission to save the file!"
+msgstr "Ons moet jou toestemming hê om die lêer te red!"
+
+#: src/components/camera/RequestPermission.tsx:24
+msgid "We need your permission!"
+msgstr "Ons benodig jou toestemming!"
+
+#: src/navigation/modals/NotificationsModal.tsx:97
+msgid ""
+"We use push notifications to remind you to stick to your goals! Enable them "
+"to never loose your study streak."
+msgstr ""
+"Ons gebruik push-kennisgewings om jou te herinner om aan jou doeleindes te "
+"hou! Aktiveer dit om nooit jou studie-streep te verloor nie."
+
+#: src/navigation/modals/AudioFeedbackModal.tsx:60
+#: src/navigation/modals/PopUpsModal.tsx:51
+msgid ""
+"We use them to enhance your experience and provide guidance. If they don't "
+"feel convenient, simply switch them off!"
+msgstr ""
+"Ons gebruik dit om u ervaring te verbeter en gids te bied. As dit nie "
+"handig is nie, kan u dit eenvoudig uitschakel!"
+
+#: src/components/quests/ChallengeEmpty.tsx:29
+msgid "We will notify you when we prepared a new one for you!"
+msgstr "Ons sal jou inlig wanneer ons 'n nuwe een vir jou voorberei het!"
+
+#: src/components/onboarding/SignInSlide.tsx:55
+msgid "We'll log you in or create an account automatically."
+msgstr "Ons sal jou outomaties aanmeld of 'n rekening skep."
+
+#: src/hooks/auth/useSignOut.ts:34
+msgid "We'll miss you! Come back soon!"
+msgstr "Ons sal jou miss! Kom weer!"
+
+#: src/hooks/auth/useDeleteAccount.ts:34
+msgid "We've deleted your account and all of your data!"
+msgstr "Ons het u rekening en u data verwyder!"
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:51
+msgid ""
+"We've detected problems in your data structure. That's okay, just be sure "
+"to check out your terms and definitions."
+msgstr ""
+"Ons het probleme in u datastruktuur gedetecteer. Dit is in orde, maar maak "
+"seker dat u die terme en definisies nagaan."
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:44
+msgid "We've successfully enabled notifications for you!"
+msgstr "Ons het suksesvol kennisgewings vir jou geaktiveer!"
+
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:42
+msgid "We've unregistered you from all notifications."
+msgstr "Jy is van alle kennisgewings afgeskakel."
+
+#: src/components/ui/consent-dialog.tsx:68
+msgid "We've updated our documents!"
+msgstr "Ons het ons dokumente opgedateer!"
+
+#: src/services/quests/listenQuests.tsx:61
+msgid "Weekly"
+msgstr "Elke week"
+
+#: src/components/quests/QuestsTabPage.tsx:58
+msgid "Weekly Quests"
+msgstr "Weklikse Quêtes"
+
+#: src/components/profile/WeeklyXP.tsx:25
+msgid "Weekly XP"
+msgstr "Weeklikse XP"
+
+#: src/hooks/auth/useSignInViaPassword.ts:37
+msgid "Welcome to my app!"
+msgstr "Welkom by my app!"
+
+#: src/lib/locales.ts:15
+msgid "Welsh"
+msgstr "Welsh"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:34
+msgid "What are your goals for this session?"
+msgstr "Watter is jou doel vir hierdie sessie?"
+
+#: src/components/flashcards/FlashcardsCarousel.tsx:188
+msgid "What did you need the hint for then? 😉"
+msgstr "Wat het jy nodig gehad vir die hulp? 😉"
+
+#: src/components/onboarding/LearningLanguageSlide.tsx:27
+msgid "What language are you trying to learn?"
+msgstr "Watter taal probeer jy te leer?"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:63
+msgid "What's included"
+msgstr "Wat is ingesluit"
+
+#: src/components/feed/LibraryListNotFound.tsx:15
+msgid "Whoops!"
+msgstr "Oops!"
+
+#: src/components/profile/NameInfo.tsx:47
+msgid ""
+"Words\n"
+"mastered"
+msgstr "beheers"
+
+#: src/components/quiz/CorrectAnswerResult.tsx:33
+msgid "Wow! That was absolutely correct."
+msgstr "Wauw! Dit was absoluut reg!"
+
+#: src/components/quiz/TopChangeMode.tsx:45
+msgid "Writing"
+msgstr "Skryf"
+
+#: src/components/quiz/WrongAnswerResult.tsx:41
+msgid "Wrong Answer"
+msgstr "Fout."
+
+#: src/navigation/modals/SubscriptionModal.tsx:36
+#. Per 1 year
+msgid "year"
+msgstr "jaar"
+
+#: src/navigation/modals/SubscriptionCancelModal.tsx:56
+msgid "Yes, cancel now"
+msgstr "Ja, annuleer nou"
+
+#: src/components/ui/warning-dialog.tsx:90
+msgid "Yes, continue"
+msgstr "Ja, voortgaan"
+
+#: src/components/feed/QuizCardOptions.tsx:49
+#: src/components/feed/StudySetCardOptions.tsx:54
+#: src/components/study-sets/SetFormDeleteButton.tsx:56
+#: src/components/study-sets/StudySetDetailsHeader.tsx:56
+msgid "Yes, delete"
+msgstr "Ja, verwyder"
+
+#: src/navigation/modals/DeleteAccountModal.tsx:66
+msgid "Yes, delete permanently..."
+msgstr "Ja, verwys"
+
+#: src/navigation/index.tsx:461
+#: src/navigation/index.tsx:725
+msgid "Yes, discard changes"
+msgstr "Ja, verwerp veranderinge"
+
+#: src/navigation/index.tsx:700
+msgid "Yes, go home"
+msgstr "Ja, gaan huis toe"
+
+#: src/navigation/modals/SignOutModal.tsx:63
+msgid "Yes, sign out..."
+msgstr "Ja, teken af"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:43
+msgid "Yes, start from beginning"
+msgstr "Ja, begin met die beging"
+
+#: src/hooks/achievements/useCompleteAchievement.ts:27
+msgid "You already have this achievement!"
+msgstr "Jy het hierdie prestasie al!"
+
+#: src/hooks/operating-system/useStoreReview.ts:21
+msgid "You can always submit a review by going to the store yourself though!"
+msgstr "Jy kan altyd 'n res stuur deur self na die winkel te gaan!"
+
+#: src/components/study-sets/FlashcardsHorizontalPreviewCarousel.tsx:38
+msgid "You don't have any flashcards here yet!"
+msgstr "Jy het nog geen flashkaarte!"
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:50
+msgid ""
+"You have successfully imported the flashcards, however there are some "
+"issues..."
+msgstr ""
+"Jy het die flashkaarte suksesvol geïmporteer, maar daar is 'n paar "
+"probleme..."
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:56
+msgid "You have successfully imported the flashcards! Hooray!"
+msgstr "Jy het die flashkaarte suksesvol geïmporteer! Ongelukkig!"
+
+#: src/services/notifications/registerForNotifications.ts:89
+msgid "You must use a physical device for push notifications"
+msgstr "Jy moet 'n fisiese toestel gebruik vir kennisgewings"
+
+#: src/components/ui/consent-dialog.tsx:79
+msgid "You need to agree to our conditions. Read more about "
+msgstr "Jy moet die voorwaardes van ons ooreenkoms aanvaar. Lees meer oor "
+
+#: src/components/ui/consent-dialog.tsx:75
+msgid "You need to re-consent to our conditions. Read more about "
+msgstr "Jy moet ons voorwaardes weer bevestig. Lees meer oor "
+
+#: src/components/feed/StudySetCardOptions.tsx:52
+#: src/components/study-sets/StudySetDetailsHeader.tsx:54
+msgid ""
+"You will loose a part of your vocabulary collection. This action cannot be "
+"undone."
+msgstr ""
+"Jy sal 'n deel van jou vokabulie verloor. Hierdie aksie kan nie "
+"teruggedraai word nie."
+
+#: src/components/feed/QuizCardOptions.tsx:47
+msgid ""
+"You will no longer be able to play this particular one, however you can "
+"always generate more!"
+msgstr ""
+"Jy sal nie meer hierdie spesifieke een kan speel nie, maar jy kan altyd "
+"meer genereer!"
+
+#: src/navigation/modals/SubscriptionCancelModal.tsx:32
+msgid ""
+"You're about to cancel your subscription and loose access to the "
+"application. You won't be able to effectively study with AI in Linkoglot. "
+"Don't give up!"
+msgstr ""
+"Jy gaan jou abonnement opga, en sal nie meer toegang hê nie. Jy sal nie in "
+"staat wees om op effektiewe manier met AI in Linkoglot te studieer nie. "
+"Moedig op!"
+
+#: src/navigation/modals/SignOutModal.tsx:33
+msgid ""
+"You're about to risk loosing your streak and staying committed to your "
+"goals! Remember, always keep grinding!"
+msgstr ""
+"Jy gaan dalk jou streep verloor en nie aan jou doeleindes vasblyf nie! "
+"Onthou, bly altyd hard werk!"
+
+#: src/hooks/study-sets/useCreateStudySet.ts:53
+msgid "You've created a new study set!"
+msgstr "Jy het 'n nuwe studie stel geskep!"
+
+#: src/hooks/quizes/useDeleteQuiz.ts:38
+msgid "You've deleted the quiz!"
+msgstr "Jy het die quiz uitgevee!"
+
+#: src/hooks/study-sets/useDeleteStudySet.ts:38
+msgid "You've deleted the study set!"
+msgstr "Jy het die studie stel verwyder!"
+
+#: src/hooks/study-sets/useEditStudySet.ts:40
+msgid "You've edited the study set!"
+msgstr "Jy het die studie stel gesken!"
+
+#: src/services/quests/listenQuests.tsx:62
+msgid "You've just finished \"{title}\""
+msgstr "Jy het net voltooi \"{title}"
+
+#: src/hooks/reports/useCreateReport.ts:56
+msgid "You've just helped us improve! Thank you!"
+msgstr "Jy het ons gehelp! Dankie!"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:43
+msgid "You've successfully invested money into your language learning aspirations!"
+msgstr "Jy het suksesvol geld in jou aspirasies om 'n taal te leer geïnvesteer!"
+
+#: src/components/study-sets/ImportFlashcardsFormData.tsx:44
+msgid "Your data"
+msgstr "Jou data"
+
+#: src/hooks/profiles/useProfileExportData.ts:33
+msgid "Your data has been exported!"
+msgstr "U JOUW DATA HET GEëXPORT!"
+
+#: src/hooks/operating-system/useSaveFile.ts:41
+msgid "Your file has been copied!"
+msgstr "Jou lêer is gekopieer!"
+
+#: src/hooks/operating-system/useSaveFile.ts:57
+msgid "Your file has been saved!"
+msgstr "Jou lêer is gestoor!"
+
+#: src/hooks/operating-system/useSaveFile.ts:49
+msgid "Your file has been shared!"
+msgstr "Jou lêer is gedeel!"
+
+#: src/lib/zodSchemas.ts:177
+msgid "Your name cannot be longer than {MAX_USERNAME_LENGTH} characters"
+msgstr "U name mag nie meer as {MAX_USERNAME_LENGTH} karakters wees nie"
+
+#: src/lib/zodSchemas.ts:173
+msgid "Your name should be at least {MIN_USERNAME_LENGTH} characters long"
+msgstr "My naam moet minstens {MIN_USERNAME_LENGTH} karakters wees"
+
+#: src/navigation/index.tsx:459
+msgid "Your new audio configuration won't be saved!"
+msgstr "Jie nuwe oudio-konfigurasie sal nie gestoor word nie!"
+
+#: src/hooks/profiles/useUpdateProfile.ts:60
+msgid "Your new settings got saved! Nice!"
+msgstr "Jou nuwe instellings is gestoor! Lekker!"
+
+#: src/hooks/pictures/useSavePicture.ts:26
+msgid "Your picture has been saved!"
+msgstr "Jou foto is gestoor!"
+
+#: src/components/profile/Avatar.tsx:38
+msgid "Your profile picture"
+msgstr "Jou profielfoto"
+
+#: src/navigation/index.tsx:723
+msgid "Your progress will be lost"
+msgstr "Jou vordering sal verlies"
+
+#: src/navigation/index.tsx:698
+msgid "Your progress will be saved up until you try editing an another study set"
+msgstr ""
+"Jy sal voortgaan om jou vordering te bewys totdat jy 'n ander studie stel "
+"redigeer"
+
+#: src/components/feed/StudyPlanStepsList.tsx:33
+msgid "Your study plan today (2/3)"
+msgstr "Jy studieplan vir vandag (2/3)"
+
+#: src/components/settings/AccountFormName.tsx:41
+msgid "Your username"
+msgstr "Jou gebruikersnaam"
+
+#: src/lib/locales.ts:75
+msgid "Zulu"
+msgstr "Zulu"
+
+#: src/navigation/tabs/HomeTab.tsx:24
+#. The page which inludes the recommended flashcards, recent sessions, day streak etc. Kind of like For You or Feed or Home (but Home is already used elsewhere actually).
+msgctxt ""
+"Make sure to not make this word much longer (like 9 letters MAXIMUM) or "
+"else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Feed"
+msgstr "Voer"
+
+#: src/navigation/tabs/HomeTab.tsx:58
+msgctxt ""
+"Make sure to not make this word much longer (like 9 letters MAXIMUM) or "
+"else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Library"
+msgstr "Biblioteek"
+
+#: src/navigation/tabs/HomeTab.tsx:41
+#. The page which inludes the recommended flashcards, recent sessions, day streak etc. Kind of like For You or Feed or Home (but Home is already used elsewhere actually).
+msgctxt ""
+"Make sure to not make this word much longer (like 9 letters MAXIMUM) or "
+"else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Practice"
+msgstr "Oefen"
+
+#: src/navigation/tabs/QuestsTab.tsx:19
+msgctxt ""
+"Make sure to not make this word much longer (like 9 letters MAXIMUM) or "
+"else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Quests"
+msgstr "Queste"

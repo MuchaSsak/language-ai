@@ -1,0 +1,3176 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-02-03 11:41+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/services/study-sessions/getWeeklyXP.ts:20
+msgid "Sunday"
+msgstr "Sunday"
+
+#. js-lingui-explicit-id
+#: src/services/study-sessions/getWeeklyXP.ts:21
+msgid "Monday"
+msgstr "Monday"
+
+#. js-lingui-explicit-id
+#: src/services/study-sessions/getWeeklyXP.ts:22
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#. js-lingui-explicit-id
+#: src/services/study-sessions/getWeeklyXP.ts:23
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#. js-lingui-explicit-id
+#: src/services/study-sessions/getWeeklyXP.ts:24
+msgid "Thursday"
+msgstr "Thursday"
+
+#. js-lingui-explicit-id
+#: src/services/study-sessions/getWeeklyXP.ts:25
+msgid "Friday"
+msgstr "Friday"
+
+#. js-lingui-explicit-id
+#: src/services/study-sessions/getWeeklyXP.ts:26
+msgid "Saturday"
+msgstr "Saturday"
+
+#. 2-letter abbreviation from 'month'
+#: src/components/onboarding/SubscriptionPlanButton.tsx:118
+msgid " / MO"
+msgstr " / MO"
+
+#. 2-letter abbreviation from 'year'
+#: src/components/onboarding/SubscriptionPlanButton.tsx:123
+msgid " / YR"
+msgstr " / YR"
+
+#: src/services/auth/signInViaApple.ios.ts:37
+msgid " Please contact us immediately at {CONTACT_EMAIL}"
+msgstr " Please contact us immediately at {CONTACT_EMAIL}"
+
+#: src/navigation/modals/DarkModeModal.tsx:69
+#: src/navigation/modals/HapticsModal.tsx:68
+#: src/navigation/modals/PopUpsModal.tsx:84
+msgid "(Currently turned off)"
+msgstr "(Currently turned off)"
+
+#: src/navigation/modals/DarkModeModal.tsx:61
+#: src/navigation/modals/HapticsModal.tsx:60
+#: src/navigation/modals/PopUpsModal.tsx:76
+msgid "(Currently turned on)"
+msgstr "(Currently turned on)"
+
+#: src/services/day-streaks/listenDayStreaks.tsx:41
+msgid "{dayStreak} day streak and counting! Keep it up!"
+msgstr "{dayStreak} day streak and counting! Keep it up!"
+
+#: src/components/quests/ChallengeBadges.tsx:46
+#: src/components/quiz-settings/StartButton.tsx:85
+msgid "{estimatedTimeMinutes} mins"
+msgstr "{estimatedTimeMinutes} mins"
+
+#. (Language) voices, e.g. English voices, French voices etc.
+#: src/components/settings/VoicesPicker.tsx:40
+#: src/components/settings/VoicesPicker.tsx:74
+#: src/components/settings/VoicesPicker.tsx:75
+msgid "{languageLabel} voices"
+msgstr "{languageLabel} voices"
+
+#: src/components/feed/QuizCardQuestionsCount.tsx:28
+msgid "{questionsCount} questions"
+msgstr "{questionsCount} questions"
+
+#: src/components/feed/QuizCardEstimatedTime.tsx:26
+msgid "{timeMinutes} minutes"
+msgstr "{timeMinutes} minutes"
+
+#: src/components/profile/TotalTimeSpent.tsx:29
+msgid "{value} min"
+msgstr "{value} min"
+
+#: src/components/profile/TotalTimeSpent.tsx:31
+msgid "{value} mins"
+msgstr "{value} mins"
+
+#: src/components/profile/TotalTimeSpent.tsx:35
+msgid "{value}h"
+msgstr "{value}h"
+
+#: src/components/profile/TotalTimeSpent.tsx:25
+msgid "{value}s"
+msgstr "{value}s"
+
+#: src/components/feed/StudySetCardWordsCount.tsx:28
+#: src/components/quests/ChallengeBadges.tsx:35
+msgid "{wordsCount} words"
+msgstr "{wordsCount} words"
+
+#: src/components/profile/TotalTimeSpent.tsx:23
+msgid "< 1s"
+msgstr "< 1s"
+
+#: src/components/quests/ChallengeBadges.tsx:43
+#: src/components/quiz-settings/StartButton.tsx:82
+msgid "<1 min"
+msgstr "<1 min"
+
+#: src/components/quiz-settings/TimeLimit.tsx:25
+msgid "∞  Unlimited"
+msgstr "∞  Unlimited"
+
+#: src/components/quests/ChallengeBadges.tsx:44
+#: src/components/quiz-settings/StartButton.tsx:83
+msgid "1 min"
+msgstr "1 min"
+
+#: src/components/feed/QuizCardEstimatedTime.tsx:24
+msgid "1 minute"
+msgstr "1 minute"
+
+#: src/components/feed/QuizCardQuestionsCount.tsx:26
+msgid "1 question"
+msgstr "1 question"
+
+#: src/components/feed/StudySetCardWordsCount.tsx:26
+#: src/components/quests/ChallengeBadges.tsx:33
+msgid "1 word"
+msgstr "1 word"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:31
+msgid "10 questions"
+msgstr "10 questions"
+
+#: src/components/quiz-settings/TimeLimit.tsx:33
+msgid "15 seconds"
+msgstr "15 seconds"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:35
+msgid "20 questions"
+msgstr "20 questions"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:39
+msgid "30 questions"
+msgstr "30 questions"
+
+#: src/components/quiz-settings/TimeLimit.tsx:37
+msgid "30 seconds"
+msgstr "30 seconds"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:27
+msgid "5 questions"
+msgstr "5 questions"
+
+#: src/components/quiz-settings/TimeLimit.tsx:29
+msgid "5 seconds"
+msgstr "5 seconds"
+
+#: src/components/quiz-settings/TimeLimit.tsx:41
+msgid "60 seconds"
+msgstr "60 seconds"
+
+#: src/components/quests/ChallengeHeader.tsx:18
+msgid "A challenge is ready!"
+msgstr "A challenge is ready!"
+
+#: src/navigation/index.tsx:362
+#: src/navigation/modals/SettingsModal.tsx:53
+msgid "Account"
+msgstr "Account"
+
+#. Accuracy of correct answers
+#: src/components/study-sessions/FinishedStatistics.tsx:52
+msgid "Accuracy"
+msgstr "Accuracy"
+
+#: src/components/profile/Achievements.tsx:35
+#: src/navigation/index.tsx:343
+msgid "Achievements"
+msgstr "Achievements"
+
+#: src/components/library/LibrarySearch.tsx:120
+msgid "Add"
+msgstr "Add"
+
+#: src/components/study-sets/AddFlashcardButton.tsx:19
+msgid "Add another"
+msgstr "Add another"
+
+#: src/components/study-sets/EditableFlashcardAddButton.tsx:22
+msgid "Add new flashcard"
+msgstr "Add new flashcard"
+
+#: src/lib/locales.ts:23
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: src/lib/locales.ts:6
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#. Enhanced by artificial intelligence
+#: src/components/feed/StudySetCard.tsx:50
+msgid "AI enhanced"
+msgstr "AI enhanced"
+
+#: src/components/quiz-settings/AiPrompt.tsx:29
+#: src/components/quiz-settings/AiPrompt.tsx:45
+msgid "AI prompt"
+msgstr "AI prompt"
+
+#: src/navigation/index.tsx:802
+msgid "AI Prompt"
+msgstr "AI Prompt"
+
+#: src/lib/locales.ts:62
+msgid "Albania"
+msgstr "Albania"
+
+#: src/lib/locales.ts:62
+msgid "Albanian"
+msgstr "Albanian"
+
+#: src/navigation/modals/ExportDataModal.tsx:26
+msgid "All the information Linkoglot stores about you"
+msgstr "All the information Linkoglot stores about you"
+
+#: src/components/onboarding/CongratulationsFooter.tsx:25
+msgid "Already have an account? <0>Sign in</0>"
+msgstr "Already have an account? <0>Sign in</0>"
+
+#: src/components/onboarding/SubscriptionFooter.tsx:41
+msgid "Already subscribed"
+msgstr "Already subscribed"
+
+#: src/navigation/modals/SubscriptionModal.tsx:95
+msgid "Amount due"
+msgstr "Amount due"
+
+#: src/navigation/modals/ImportFlashcardsModal.tsx:108
+msgid "Amount of flashcards detected: {detectedFlashcardsCount}"
+msgstr "Amount of flashcards detected: {detectedFlashcardsCount}"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:99
+msgid "Amount of total questions"
+msgstr "Amount of total questions"
+
+#: src/navigation/screens/ChallengeFinishedScreen.tsx:58
+#: src/navigation/screens/QuizFinishedScreen.tsx:50
+msgid "An another session of learning in the books. Be proud!"
+msgstr "An another session of learning in the books. Be proud!"
+
+#: src/components/study-sets/EditableFlashcardNativeExplanation.tsx:40
+msgid "An object or round fruit (noun)."
+msgstr "An object or round fruit (noun)."
+
+#: src/components/taken-picture/AnalyzeButton.tsx:25
+msgid "Analyze"
+msgstr "Analyze"
+
+#: src/navigation/index.tsx:525
+msgid "Analyzed Picture"
+msgstr "Analyzed Picture"
+
+#: src/lib/locales.ts:13
+msgid "Andorra"
+msgstr "Andorra"
+
+#: src/lib/locales.ts:57
+msgid "Angola"
+msgstr "Angola"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:36
+msgid "Anki"
+msgstr "Anki"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:103
+msgid "Annually"
+msgstr "Annually"
+
+#: src/components/profile/Avatar.tsx:47
+#: src/components/profile/NameInfo.tsx:28
+#: src/components/study-sets/StudySetDetailsHeader.tsx:108
+msgid "Anonymous"
+msgstr "Anonymous"
+
+#: src/components/quiz/TopChangeMode.tsx:96
+#: src/components/quiz/TopChangeMode.tsx:122
+msgid "Answering mode"
+msgstr "Answering mode"
+
+#: src/components/profile/ProfileRank.tsx:17
+msgid "Apprentice"
+msgstr "Apprentice"
+
+#: src/lib/locales.ts:7
+msgid "Arabic"
+msgstr "Arabic"
+
+#: src/navigation/index.tsx:722
+msgid "Are you sure you want to cancel this edit?"
+msgstr "Are you sure you want to cancel this edit?"
+
+#: src/components/feed/QuizCardOptions.tsx:46
+msgid "Are you sure you want to delete this quiz?"
+msgstr "Are you sure you want to delete this quiz?"
+
+#: src/components/feed/StudySetCardOptions.tsx:51
+#: src/components/study-sets/SetFormDeleteButton.tsx:53
+#: src/components/study-sets/StudySetDetailsHeader.tsx:53
+msgid "Are you sure you want to delete this study set?"
+msgstr "Are you sure you want to delete this study set?"
+
+#: src/navigation/modals/DeleteAccountModal.tsx:34
+msgid "Are you sure you want to delete your account?"
+msgstr "Are you sure you want to delete your account?"
+
+#: src/navigation/index.tsx:458
+msgid "Are you sure you want to discard your changes?"
+msgstr "Are you sure you want to discard your changes?"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:40
+msgid "Are you sure you want to erase your progress?"
+msgstr "Are you sure you want to erase your progress?"
+
+#: src/navigation/modals/SignOutModal.tsx:30
+msgid "Are you sure you want to sign out?"
+msgstr "Are you sure you want to sign out?"
+
+#: src/navigation/modals/SubscriptionCancelModal.tsx:29
+msgid "Are you sure you want to stop learning?"
+msgstr "Are you sure you want to stop learning?"
+
+#: src/lib/locales.ts:20
+msgid "Argentina"
+msgstr "Argentina"
+
+#: src/lib/locales.ts:33
+msgid "Armenia"
+msgstr "Armenia"
+
+#: src/lib/locales.ts:33
+msgid "Armenian"
+msgstr "Armenian"
+
+#: src/navigation/modals/SettingsModal.tsx:102
+msgid "Audio"
+msgstr "Audio"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:33
+#: src/navigation/modals/AudioFeedbackModal.tsx:57
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:107
+msgid "Audio feedback"
+msgstr "Audio feedback"
+
+#: src/navigation/index.tsx:452
+msgid "Audio Feedback"
+msgstr "Audio Feedback"
+
+#: src/lib/locales.ts:19
+msgid "Australia"
+msgstr "Australia"
+
+#: src/lib/locales.ts:17
+msgid "Austria"
+msgstr "Austria"
+
+#: src/lib/locales.ts:8
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: src/lib/locales.ts:8
+msgid "Azerbaijani"
+msgstr "Azerbaijani"
+
+#: src/lib/locales.ts:11
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: src/lib/locales.ts:22
+msgid "Basque"
+msgstr "Basque"
+
+#: src/components/feed/QuizCardFinishedBadge.tsx:47
+msgid "Beat"
+msgstr "Beat"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:46
+msgid "Beat a challenge ⚔️"
+msgstr "Beat a challenge ⚔️"
+
+#: src/components/quests/Challenge.tsx:43
+msgid "Beat it!"
+msgstr "Beat it!"
+
+#: src/lib/locales.ts:9
+#: src/lib/locales.ts:59
+msgid "Belarus"
+msgstr "Belarus"
+
+#: src/lib/locales.ts:9
+msgid "Belarusian"
+msgstr "Belarusian"
+
+#: src/lib/locales.ts:25
+#: src/lib/locales.ts:54
+msgid "Belgium"
+msgstr "Belgium"
+
+#: src/lib/locales.ts:11
+msgid "Bengali"
+msgstr "Bengali"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:78
+msgid "Between cards"
+msgstr "Between cards"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:32
+msgid "Between terms and definitions"
+msgstr "Between terms and definitions"
+
+#: src/lib/locales.ts:12
+#: src/lib/locales.ts:63
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnia and Herzegovina"
+
+#: src/lib/locales.ts:12
+msgid "Bosnian"
+msgstr "Bosnian"
+
+#: src/lib/locales.ts:57
+msgid "Brazil"
+msgstr "Brazil"
+
+#: src/lib/locales.ts:49
+msgid "Brunei"
+msgstr "Brunei"
+
+#: src/lib/locales.ts:10
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+#: src/lib/locales.ts:10
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+#: src/lib/locales.ts:51
+msgid "Burmese"
+msgstr "Burmese"
+
+#: src/lib/locales.ts:40
+msgid "Cambodia"
+msgstr "Cambodia"
+
+#: src/navigation/index.tsx:184
+msgid "Camera"
+msgstr "Camera"
+
+#: src/lib/locales.ts:19
+#: src/lib/locales.ts:25
+msgid "Canada"
+msgstr "Canada"
+
+#: src/components/ui/consent-dialog.tsx:163
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/components/onboarding/SubscriptionFooter.tsx:33
+msgid "Cancel anytime"
+msgstr "Cancel anytime"
+
+#: src/navigation/modals/SubscriptionModal.tsx:165
+msgid "Cancel subscription"
+msgstr "Cancel subscription"
+
+#: src/navigation/index.tsx:380
+msgid "Cancel Subscription"
+msgstr "Cancel Subscription"
+
+#: src/lib/locales.ts:13
+msgid "Catalan"
+msgstr "Catalan"
+
+#: src/components/report/FormCategory.tsx:33
+#: src/components/report/FormCategory.tsx:59
+msgid "Category"
+msgstr "Category"
+
+#: src/components/quiz/TopHeader.tsx:79
+msgid "Challenge"
+msgstr "Challenge"
+
+#: src/components/feed/QuizCardOptions.tsx:77
+msgid "Challenge options"
+msgstr "Challenge options"
+
+#: src/components/library/LibraryFilters.tsx:29
+msgid "Challenges"
+msgstr "Challenges"
+
+#: src/components/profile/StatisticsStudySetsCard.tsx:84
+#: src/components/profile/StatisticsWordsCard.tsx:84
+msgid "Challenges beat"
+msgstr "Challenges beat"
+
+#: src/navigation/modals/SubscriptionChangePlanModal.tsx:122
+#: src/navigation/modals/SubscriptionModal.tsx:152
+msgid "Change plan"
+msgstr "Change plan"
+
+#: src/navigation/index.tsx:389
+msgid "Change Subscription"
+msgstr "Change Subscription"
+
+#: src/components/quiz/QuizCheckButton.tsx:30
+msgid "Check!"
+msgstr "Check!"
+
+#: src/lib/locales.ts:74
+msgid "China"
+msgstr "China"
+
+#: src/lib/locales.ts:74
+msgid "Chinese"
+msgstr "Chinese"
+
+#: src/navigation/sheets/ShareFlashcardsOptionsSheet.tsx:76
+msgid "Choose to message your friends or download a file with your flashcards!"
+msgstr "Choose to message your friends or download a file with your flashcards!"
+
+#: src/components/onboarding/CongratulationsTopButtons.tsx:48
+msgid "Clear all settings"
+msgstr "Clear all settings"
+
+#: src/components/onboarding/CongratulationsTopButtons.tsx:58
+msgid "Cleared all settings and signed out!"
+msgstr "Cleared all settings and signed out!"
+
+#: src/components/quiz/TopQuitButton.tsx:19
+msgid "Close quiz"
+msgstr "Close quiz"
+
+#: src/components/library/LibrarySort.tsx:97
+msgid "Closest to mastery"
+msgstr "Closest to mastery"
+
+#: src/components/study-sets/EditableFlashcardCollapseButton.tsx:21
+msgid "Collapse extra flashcard options"
+msgstr "Collapse extra flashcard options"
+
+#: src/lib/locales.ts:20
+msgid "Colombia"
+msgstr "Colombia"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:62
+msgid "Comma"
+msgstr "Comma"
+
+#: src/components/ui/consent-dialog.tsx:150
+msgid "Confirm and continue"
+msgstr "Confirm and continue"
+
+#: src/hooks/utils/useConsent.ts:104
+msgid "Congratulations! You have successfully signed up for our analytics lol!"
+msgstr "Congratulations! You have successfully signed up for our analytics lol!"
+
+#: src/hooks/utils/useConsent.ts:71
+msgid "Congratulations! You have successfully signed up for our promotional marketing!"
+msgstr "Congratulations! You have successfully signed up for our promotional marketing!"
+
+#: src/navigation/screens/ChallengeFinishedScreen.tsx:53
+msgid "Congratulations! You've finished the challenge!"
+msgstr "Congratulations! You've finished the challenge!"
+
+#: src/navigation/screens/QuizFinishedScreen.tsx:47
+msgid "Congratulations! You've finished the quiz!"
+msgstr "Congratulations! You've finished the quiz!"
+
+#: src/services/achievements/listenAchievements.ts:55
+msgid "Congratulations! You've just earned the \"{title}\" achievement!"
+msgstr "Congratulations! You've just earned the \"{title}\" achievement!"
+
+#: src/components/ui/consent-analytics-checkbox.tsx:31
+msgid "Consent to optional analytics checkbox"
+msgstr "Consent to optional analytics checkbox"
+
+#: src/components/ui/consent-marketing-checkbox.tsx:31
+msgid "Consent to optional marketing checkbox"
+msgstr "Consent to optional marketing checkbox"
+
+#: src/components/ui/consent-required-checkbox.tsx:34
+msgid "Consent to required checkbox"
+msgstr "Consent to required checkbox"
+
+#: src/components/settings/AccountOptionalConsent.tsx:18
+msgid "Consentual agreements"
+msgstr "Consentual agreements"
+
+#: src/hooks/utils/useConsent.ts:78
+#: src/hooks/utils/useConsent.ts:111
+msgid "Consider consenting to our promotional marketing again to always be up to date!"
+msgstr "Consider consenting to our promotional marketing again to always be up to date!"
+
+#: src/hooks/auth/useDeleteAccount.ts:35
+msgid "Consider signing up again to reach your goals in language learning!"
+msgstr "Consider signing up again to reach your goals in language learning!"
+
+#: src/navigation/modals/SettingsModal.tsx:148
+#: src/navigation/screens/NotFoundScreen.tsx:37
+msgid "Contact Request"
+msgstr "Contact Request"
+
+#: src/navigation/modals/SettingsModal.tsx:145
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: src/components/onboarding/BottomButtons.tsx:43
+#: src/contexts/OnboardingContext.tsx:145
+#: src/contexts/OnboardingContext.tsx:153
+msgid "Continue"
+msgstr "Continue"
+
+#: src/hooks/utils/useCopyToClipboard.ts:30
+msgid "Copied the text to your clipboard!"
+msgstr "Copied the text to your clipboard!"
+
+#: src/navigation/sheets/ShareFlashcardsOptionsSheet.tsx:36
+msgid "Copy or send"
+msgstr "Copy or send"
+
+#: src/components/quiz/CorrectAnswerResult.tsx:30
+msgid "Correct Answer"
+msgstr "Correct Answer"
+
+#: src/components/quiz/WrongAnswerResult.tsx:49
+msgid "Correct: {correctAnswer}"
+msgstr "Correct: {correctAnswer}"
+
+#: src/navigation/modals/SubscriptionModal.tsx:102
+msgid "Couldn't retrieve the billing..."
+msgstr "Couldn't retrieve the billing..."
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:64
+msgid "Create flashcards!"
+msgstr "Create flashcards!"
+
+#: src/components/study-sets/SetFormSubmit.tsx:76
+msgid "Create study set!"
+msgstr "Create study set!"
+
+#: src/components/feed/LibraryListNothingCreated.tsx:20
+msgid "Create your personalized study sets and expand on your vocabulary right now!"
+msgstr "Create your personalized study sets and expand on your vocabulary right now!"
+
+#: src/lib/locales.ts:31
+msgid "Croatia"
+msgstr "Croatia"
+
+#: src/lib/locales.ts:31
+msgid "Croatian"
+msgstr "Croatian"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:53
+msgid "CSV"
+msgstr "CSV"
+
+#: src/navigation/modals/SubscriptionChangePlanModal.tsx:84
+msgid "Current"
+msgstr "Current"
+
+#: src/navigation/modals/NotificationsModal.tsx:123
+msgid "Currently turned off"
+msgstr "Currently turned off"
+
+#: src/navigation/modals/NotificationsModal.tsx:121
+msgid "Currently turned on"
+msgstr "Currently turned on"
+
+#: src/components/study-sets/ImportFlashcardsFormCustomSeparator.tsx:36
+msgid "Custom..."
+msgstr "Custom..."
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:49
+msgid "Customizable AI quizes and study sets"
+msgstr "Customizable AI quizes and study sets"
+
+#: src/lib/locales.ts:18
+#: src/lib/locales.ts:69
+msgid "Cyprus"
+msgstr "Cyprus"
+
+#: src/lib/locales.ts:14
+msgid "Czech"
+msgstr "Czech"
+
+#: src/lib/locales.ts:14
+msgid "Czech Republic"
+msgstr "Czech Republic"
+
+#: src/services/quests/listenQuests.tsx:61
+msgid "Daily"
+msgstr "Daily"
+
+#: src/components/quests/QuestsTabPage.tsx:54
+msgid "Daily Quests"
+msgstr "Daily Quests"
+
+#: src/lib/locales.ts:16
+msgid "Danish"
+msgstr "Danish"
+
+#: src/navigation/index.tsx:407
+#: src/navigation/modals/SettingsModal.tsx:112
+msgid "Dark Mode"
+msgstr "Dark Mode"
+
+#: src/lib/zodSchemas.ts:135
+msgid "Data cannot be longer than {MAX_IMPORT_FLASHCARDS_DATA_LENGTH} characters"
+msgstr "Data cannot be longer than {MAX_IMPORT_FLASHCARDS_DATA_LENGTH} characters"
+
+#: src/lib/zodSchemas.ts:128
+msgid "Data is missing!"
+msgstr "Data is missing!"
+
+#: src/lib/zodSchemas.ts:131
+msgid "Data should be at least {MIN_IMPORT_FLASHCARDS_DATA_LENGTH} characters long"
+msgstr "Data should be at least {MIN_IMPORT_FLASHCARDS_DATA_LENGTH} characters long"
+
+#: src/components/quests/Quests.tsx:34
+msgid "day"
+msgstr "day"
+
+#: src/components/day-streak/DayStreaksList.tsx:33
+msgid "Day streak"
+msgstr "Day streak"
+
+#: src/components/quests/Quests.tsx:35
+msgid "days"
+msgstr "days"
+
+#: src/components/study-sets/EditableFlashcardForeignMsg.tsx:32
+msgid "Definition"
+msgstr "Definition"
+
+#: src/lib/zodSchemas.ts:87
+msgid "Definition cannot be longer than {MAX_FLASHCARD_FOREIGN_MSG_LENGTH} characters"
+msgstr "Definition cannot be longer than {MAX_FLASHCARD_FOREIGN_MSG_LENGTH} characters"
+
+#: src/lib/zodSchemas.ts:79
+msgid "Definition is missing!"
+msgstr "Definition is missing!"
+
+#: src/lib/zodSchemas.ts:83
+msgid "Definition should be at least {MIN_FLASHCARD_FOREIGN_MSG_LENGTH} characters long"
+msgstr "Definition should be at least {MIN_FLASHCARD_FOREIGN_MSG_LENGTH} characters long"
+
+#: src/components/feed/QuizCardOptions.tsx:94
+#: src/components/feed/StudySetCardOptions.tsx:97
+msgid "Delete"
+msgstr "Delete"
+
+#: src/navigation/index.tsx:494
+#: src/navigation/modals/SettingsModal.tsx:181
+msgid "Delete Account"
+msgstr "Delete Account"
+
+#: src/components/study-sets/EditableFlashcardDeleteButton.tsx:22
+msgid "Delete flashcard"
+msgstr "Delete flashcard"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:68
+#: src/components/study-sets/StudySetDetailsHeader.tsx:95
+msgid "Delete study set"
+msgstr "Delete study set"
+
+#: src/lib/locales.ts:16
+msgid "Denmark"
+msgstr "Denmark"
+
+#: src/components/report/FormDescription.tsx:26
+msgid "Description"
+msgstr "Description"
+
+#: src/lib/zodSchemas.ts:212
+msgid "Description cannot be longer than {MAX_REPORT_DESCRIPTION_LENGTH} characters"
+msgstr "Description cannot be longer than {MAX_REPORT_DESCRIPTION_LENGTH} characters"
+
+#: src/lib/zodSchemas.ts:204
+msgid "Description is missing!"
+msgstr "Description is missing!"
+
+#: src/lib/zodSchemas.ts:208
+msgid "Description should be at least {MIN_REPORT_DESCRIPTION_LENGTH} characters long"
+msgstr "Description should be at least {MIN_REPORT_DESCRIPTION_LENGTH} characters long"
+
+#: src/navigation/index.tsx:485
+#: src/navigation/modals/SettingsModal.tsx:169
+msgid "Developer Debug"
+msgstr "Developer Debug"
+
+#: src/components/flashcards/FlashcardsCarousel.tsx:126
+msgid "Didn't remember"
+msgstr "Didn't remember"
+
+#: src/components/quiz-settings/Difficulty.tsx:59
+msgid "Difficulty"
+msgstr "Difficulty"
+
+#: src/navigation/modals/DarkModeModal.tsx:58
+#: src/navigation/modals/HapticsModal.tsx:57
+#: src/navigation/modals/PopUpsModal.tsx:73
+msgid "Disable "
+msgstr "Disable "
+
+#. The application's display language
+#: src/navigation/index.tsx:551
+#: src/navigation/modals/SettingsModal.tsx:59
+msgid "Display Language"
+msgstr "Display Language"
+
+#: src/navigation/index.tsx:697
+msgid "Do you want to stop creating this study set?"
+msgstr "Do you want to stop creating this study set?"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:65
+msgid "Don't show again"
+msgstr "Don't show again"
+
+#: src/components/study-sets/ExportFlashcardsFormSubmit.tsx:45
+msgid "Download file!"
+msgstr "Download file!"
+
+#: src/lib/locales.ts:54
+msgid "Dutch"
+msgstr "Dutch"
+
+#: src/components/settings/AccountFormName.tsx:40
+msgid "e.g. Matthew"
+msgstr "e.g. Matthew"
+
+#: src/components/quiz-settings/Difficulty.tsx:22
+msgid "Easy"
+msgstr "Easy"
+
+#: src/components/feed/StudySetCardOptions.tsx:112
+msgid "Edit"
+msgstr "Edit"
+
+#: src/components/study-sets/SetFormSubmit.tsx:78
+#: src/components/study-sets/StudySetDetailsHeader.tsx:84
+#: src/navigation/index.tsx:716
+msgid "Edit study set"
+msgstr "Edit study set"
+
+#: src/lib/locales.ts:7
+msgid "Egypt"
+msgstr "Egypt"
+
+#: src/components/ui/login-email-form.tsx:35
+msgid "Email"
+msgstr "Email"
+
+#: src/navigation/modals/DarkModeModal.tsx:66
+#: src/navigation/modals/HapticsModal.tsx:65
+#: src/navigation/modals/PopUpsModal.tsx:81
+msgid "Enable "
+msgstr "Enable "
+
+#: src/components/camera/RequestPermission.tsx:37
+msgid "Enable camera"
+msgstr "Enable camera"
+
+#: src/components/quests/ChallengeEmpty.tsx:33
+msgid "Enable notifications in the settings to not miss it when it's created!"
+msgstr "Enable notifications in the settings to not miss it when it's created!"
+
+#: src/components/quiz/TopToggleTTS.tsx:37
+msgid "Enable Text to Speech"
+msgstr "Enable Text to Speech"
+
+#: src/lib/locales.ts:19
+msgid "English"
+msgstr "English"
+
+#: src/lib/locales.ts:21
+msgid "Estonia"
+msgstr "Estonia"
+
+#: src/lib/locales.ts:21
+msgid "Estonian"
+msgstr "Estonian"
+
+#: src/components/study-sets/EditableFlashcardForeignExample.tsx:32
+#: src/components/study-sets/EditableFlashcardNativeExample.tsx:32
+msgid "Example"
+msgstr "Example"
+
+#: src/lib/zodSchemas.ts:113
+msgid "Example cannot be longer than {MAX_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} characters"
+msgstr "Example cannot be longer than {MAX_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} characters"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:126
+msgid "Example sentence"
+msgstr "Example sentence"
+
+#: src/lib/zodSchemas.ts:109
+msgid "Example should be at least {MIN_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} characters long"
+msgstr "Example should be at least {MIN_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} characters long"
+
+#: src/components/profile/ProfileRank.tsx:29
+msgid "Expert"
+msgstr "Expert"
+
+#: src/components/study-sets/EditableFlashcardForeignExplanation.tsx:32
+#: src/components/study-sets/EditableFlashcardNativeExplanation.tsx:32
+msgid "Explanation"
+msgstr "Explanation"
+
+#: src/lib/zodSchemas.ts:99
+msgid "Explanation cannot be longer than {MAX_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} characters"
+msgstr "Explanation cannot be longer than {MAX_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} characters"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:147
+msgid "Explanation sentence"
+msgstr "Explanation sentence"
+
+#: src/lib/zodSchemas.ts:95
+msgid "Explanation should be at least {MIN_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} characters long"
+msgstr "Explanation should be at least {MIN_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} characters long"
+
+#: src/navigation/sheets/ShareFlashcardsOptionsSheet.tsx:55
+msgid "Export as file"
+msgstr "Export as file"
+
+#: src/navigation/index.tsx:443
+#: src/navigation/modals/SettingsModal.tsx:164
+msgid "Export Data"
+msgstr "Export Data"
+
+#: src/navigation/index.tsx:777
+msgid "Export flashcards"
+msgstr "Export flashcards"
+
+#: src/services/operating-system/saveFile.ts:20
+msgid "exported data"
+msgstr "exported data"
+
+#. The page which inludes the recommended flashcards, recent sessions, day streak etc. Kind of like For You or Feed or Home (but Home is already used elsewhere actually).
+#: src/navigation/tabs/HomeTab.tsx:24
+msgctxt "Make sure to not make this word much longer (like 9 letters MAXIMUM) or else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Feed"
+msgstr "Feed"
+
+#: src/hooks/quizes/useCreateQuiz.ts:87
+msgid "Fine-tuning diffculty..."
+msgstr "Fine-tuning diffculty..."
+
+#: src/components/onboarding/FinishSlide.tsx:36
+#: src/components/quiz/QuizCheckButton.tsx:35
+#: src/components/quiz/QuizResultButton.tsx:24
+#: src/contexts/OnboardingContext.tsx:172
+msgid "Finish"
+msgstr "Finish"
+
+#: src/components/feed/QuizCardFinishedBadge.tsx:48
+msgid "Finished"
+msgstr "Finished"
+
+#: src/navigation/index.tsx:669
+msgid "Finished challenge"
+msgstr "Finished challenge"
+
+#: src/navigation/index.tsx:646
+msgid "Finished quiz"
+msgstr "Finished quiz"
+
+#: src/lib/locales.ts:24
+#: src/lib/locales.ts:64
+msgid "Finland"
+msgstr "Finland"
+
+#: src/lib/locales.ts:24
+msgid "Finnish"
+msgstr "Finnish"
+
+#: src/components/study-sets/EditableFlashcardForeignMsg.tsx:41
+msgid "Flashcard definition in {learningLanguageLabel}"
+msgstr "Flashcard definition in {learningLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardNativeExample.tsx:41
+msgid "Flashcard example for {displayLanguageLabel}"
+msgstr "Flashcard example for {displayLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardForeignExample.tsx:41
+msgid "Flashcard example for {learningLanguageLabel}"
+msgstr "Flashcard example for {learningLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardNativeExplanation.tsx:41
+msgid "Flashcard explanation for {displayLanguageLabel}"
+msgstr "Flashcard explanation for {displayLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardForeignExplanation.tsx:41
+msgid "Flashcard explanation for {learningLanguageLabel}"
+msgstr "Flashcard explanation for {learningLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardNativeMsg.tsx:41
+msgid "Flashcard term in {displayLanguageLabel}"
+msgstr "Flashcard term in {displayLanguageLabel}"
+
+#: src/components/study-sets/ExportFlashcardsFormSubmit.tsx:33
+#: src/components/study-sets/PlayingOptionsList.tsx:25
+msgid "Flashcards"
+msgstr "Flashcards"
+
+#: src/navigation/index.tsx:569
+msgid "Flashcards experience"
+msgstr "Flashcards experience"
+
+#: src/components/study-sets/FlashcardsHorizontalPreviewCarousel.tsx:46
+msgid "Flashcards preview"
+msgstr "Flashcards preview"
+
+#: src/components/quiz-settings/AiPrompt.tsx:44
+msgid "Focus on the verbs which..."
+msgstr "Focus on the verbs which..."
+
+#: src/lib/locales.ts:22
+#: src/lib/locales.ts:25
+msgid "France"
+msgstr "France"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:58
+msgid "Freeplay 😎"
+msgstr "Freeplay 😎"
+
+#: src/lib/locales.ts:25
+msgid "French"
+msgstr "French"
+
+#: src/lib/constants.ts:24
+msgid "Friday"
+msgstr "Friday"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:81
+msgid "Front language"
+msgstr "Front language"
+
+#: src/components/library/LibrarySort.tsx:110
+msgid "Furthest away to mastery"
+msgstr "Furthest away to mastery"
+
+#: src/lib/locales.ts:27
+msgid "Galician"
+msgstr "Galician"
+
+#: src/navigation/modals/SettingsModal.tsx:82
+msgid "General"
+msgstr "General"
+
+#: src/components/ui/consent-dialog.tsx:88
+msgid ""
+"General Data Protection Regulation (GDPR) here.\n"
+""
+msgstr ""
+"General Data Protection Regulation (GDPR) here.\n"
+""
+
+#. Generate flashcards with artificial intelligence
+#: src/components/study-sets/SetFormGenerateButton.tsx:40
+#: src/navigation/sheets/GenerateStudySetSheet.tsx:74
+msgid "Generate"
+msgstr "Generate"
+
+#: src/navigation/sheets/GenerateStudySetSheet.tsx:46
+msgid "Generate study set with AI"
+msgstr "Generate study set with AI"
+
+#: src/navigation/screens/QuizGeneratingScreen.tsx:15
+msgid "Generating"
+msgstr "Generating"
+
+#: src/hooks/quizes/useCreateQuiz.ts:85
+msgid "Generating questions..."
+msgstr "Generating questions..."
+
+#: src/lib/locales.ts:38
+msgid "Georgia"
+msgstr "Georgia"
+
+#: src/lib/locales.ts:38
+msgid "Georgian"
+msgstr "Georgian"
+
+#: src/lib/locales.ts:17
+msgid "German"
+msgstr "German"
+
+#: src/lib/locales.ts:17
+msgid "Germany"
+msgstr "Germany"
+
+#: src/contexts/OnboardingContext.tsx:134
+msgid "Get started"
+msgstr "Get started"
+
+#: src/navigation/screens/QuizGeneratingScreen.tsx:20
+msgid "go back"
+msgstr "go back"
+
+#: src/components/horizontal-flow/HeaderProgress.tsx:28
+#: src/components/report/FormSubmit.tsx:46
+#: src/components/ui/loading-page.tsx:51
+#: src/navigation/modals/ExportDataModal.tsx:47
+#: src/navigation/modals/NotificationsModal.tsx:164
+#: src/navigation/modals/SubscriptionChangePlanModal.tsx:110
+msgid "Go back"
+msgstr "Go back"
+
+#: src/navigation/modals/SubscriptionModal.tsx:176
+msgid "Go back!"
+msgstr "Go back!"
+
+#: src/navigation/screens/ChallengeFinishedScreen.tsx:81
+#: src/navigation/screens/QuizFinishedScreen.tsx:73
+msgid "Go home"
+msgstr "Go home"
+
+#: src/components/day-streak/DayStreaksList.tsx:50
+msgid "Go learn!"
+msgstr "Go learn!"
+
+#: src/navigation/screens/NotFoundScreen.tsx:19
+msgid "Go to Home"
+msgstr "Go to Home"
+
+#: src/navigation/screens/NotFoundScreen.tsx:25
+msgid "Go to Onboarding"
+msgstr "Go to Onboarding"
+
+#: src/navigation/tabs/QuestsTab.tsx:33
+msgid "Goals"
+msgstr "Goals"
+
+#: src/lib/locales.ts:18
+msgid "Greece"
+msgstr "Greece"
+
+#: src/lib/locales.ts:18
+msgid "Greek"
+msgstr "Greek"
+
+#: src/lib/locales.ts:16
+msgid "Greenland"
+msgstr "Greenland"
+
+#: src/lib/locales.ts:28
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: src/navigation/index.tsx:398
+#: src/navigation/modals/SettingsModal.tsx:107
+msgid "Haptics"
+msgstr "Haptics"
+
+#: src/navigation/modals/HapticsModal.tsx:34
+msgid "Haptics are subtle physical vibrations that provide you with immediate tactile feedback. We built this feature specifically with visually impaired users in mind."
+msgstr "Haptics are subtle physical vibrations that provide you with immediate tactile feedback. We built this feature specifically with visually impaired users in mind."
+
+#: src/components/quiz-settings/Difficulty.tsx:35
+#: src/components/quiz/TopHeader.tsx:68
+msgid "Hard"
+msgstr "Hard"
+
+#: src/components/settings/VoicesPicker.tsx:49
+msgid "Hear the {languageLabel} voice"
+msgstr "Hear the {languageLabel} voice"
+
+#: src/lib/locales.ts:29
+msgid "Hebrew"
+msgstr "Hebrew"
+
+#: src/navigation/modals/SubscriptionModal.tsx:139
+msgid "Help center"
+msgstr "Help center"
+
+#: src/components/report/FormSubmit.tsx:55
+msgid "Help us improve!"
+msgstr "Help us improve!"
+
+#: src/hooks/utils/useSecretPress.ts:43
+msgid "Hid the secret! 😉"
+msgstr "Hid the secret! 😉"
+
+#: src/lib/locales.ts:30
+msgid "Hindi"
+msgstr "Hindi"
+
+#: src/components/flashcards/HintButton.tsx:49
+#: src/components/quiz/HintButton.tsx:85
+msgid "Hint"
+msgstr "Hint"
+
+#: src/navigation/index.tsx:204
+msgid "Home"
+msgstr "Home"
+
+#: src/components/quests/Quests.tsx:30
+msgid "hour"
+msgstr "hour"
+
+#: src/components/quests/Quests.tsx:31
+msgid "hours"
+msgstr "hours"
+
+#: src/lib/locales.ts:32
+msgid "Hungarian"
+msgstr "Hungarian"
+
+#: src/lib/locales.ts:32
+msgid "Hungary"
+msgstr "Hungary"
+
+#: src/components/ui/consent-required-checkbox.tsx:46
+msgid "I agree to the <0>Terms and Conditions</0> and <1>Privacy Policy</1>."
+msgstr "I agree to the <0>Terms and Conditions</0> and <1>Privacy Policy</1>."
+
+#: src/components/report/FormDescription.tsx:34
+msgid "I am experiencing..."
+msgstr "I am experiencing..."
+
+#: src/navigation/modals/SubscriptionModal.tsx:133
+msgid "I need help with my subscription"
+msgstr "I need help with my subscription"
+
+#: src/lib/locales.ts:35
+msgid "Iceland"
+msgstr "Iceland"
+
+#: src/lib/locales.ts:35
+msgid "Icelandic"
+msgstr "Icelandic"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:33
+msgid "If this was unexpected, please contact us immediately at {CONTACT_EMAIL}"
+msgstr "If this was unexpected, please contact us immediately at {CONTACT_EMAIL}"
+
+#: src/navigation/screens/NotFoundScreen.tsx:30
+msgid "If you are currently experiencing an issue, please contact us at <0><1>{CONTACT_EMAIL}</1></0>"
+msgstr "If you are currently experiencing an issue, please contact us at <0><1>{CONTACT_EMAIL}</1></0>"
+
+#: src/components/quiz/WritingSettings.tsx:84
+msgid "Ignore special characters"
+msgstr "Ignore special characters"
+
+#: src/components/study-sets/ImportFlashcardsFormData.tsx:56
+#: src/components/study-sets/SetFormImportButton.tsx:17
+#: src/navigation/index.tsx:787
+msgid "Import flashcards"
+msgstr "Import flashcards"
+
+#: src/navigation/index.tsx:764
+msgid "Import options"
+msgstr "Import options"
+
+#: src/components/ui/consent-analytics-checkbox.tsx:48
+msgid "Improve the application by automatically sharing crash reports and usage performance."
+msgstr "Improve the application by automatically sharing crash reports and usage performance."
+
+#: src/navigation/modals/ExportDataModal.tsx:29
+msgid "In compliance with GDPR and our privacy policy, we can export all information associated with your account into a single file for you to review or download. We provide this feature to ensure total transparency regarding how your data is handled and stored!"
+msgstr "In compliance with GDPR and our privacy policy, we can export all information associated with your account into a single file for you to review or download. We provide this feature to ensure total transparency regarding how your data is handled and stored!"
+
+#: src/lib/constants.ts:42
+msgid "Inappriopriate AI content"
+msgstr "Inappriopriate AI content"
+
+#: src/lib/locales.ts:11
+#: src/lib/locales.ts:28
+#: src/lib/locales.ts:30
+#: src/lib/locales.ts:41
+#: src/lib/locales.ts:46
+#: src/lib/locales.ts:48
+#: src/lib/locales.ts:53
+#: src/lib/locales.ts:55
+#: src/lib/locales.ts:66
+#: src/lib/locales.ts:67
+#: src/lib/locales.ts:71
+msgid "India"
+msgstr "India"
+
+#: src/lib/locales.ts:34
+msgid "Indonesia"
+msgstr "Indonesia"
+
+#: src/lib/locales.ts:34
+msgid "Indonesian"
+msgstr "Indonesian"
+
+#: src/components/quiz/TopProgress.tsx:31
+msgid "Infinite ∞"
+msgstr "Infinite ∞"
+
+#: src/components/quiz/QuizWriting.tsx:38
+msgid "Input to translate the quiz question"
+msgstr "Input to translate the quiz question"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:23
+msgid "Instant AI flashcards"
+msgstr "Instant AI flashcards"
+
+#: src/lib/locales.ts:23
+msgid "Iran"
+msgstr "Iran"
+
+#: src/lib/locales.ts:26
+msgid "Ireland"
+msgstr "Ireland"
+
+#: src/lib/locales.ts:26
+msgid "Irish"
+msgstr "Irish"
+
+#: src/lib/locales.ts:29
+msgid "Israel"
+msgstr "Israel"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:44
+msgid "It's a great choice you won't regret. We're glad to see you here!"
+msgstr "It's a great choice you won't regret. We're glad to see you here!"
+
+#: src/services/day-streaks/listenDayStreaks.tsx:50
+msgid "It's okay! You'll get it next time!"
+msgstr "It's okay! You'll get it next time!"
+
+#: src/lib/locales.ts:36
+msgid "Italian"
+msgstr "Italian"
+
+#: src/lib/locales.ts:36
+msgid "Italy"
+msgstr "Italy"
+
+#: src/components/study-sets/SetFormTitle.tsx:34
+msgid "Items in my room..."
+msgstr "Items in my room..."
+
+#: src/lib/locales.ts:37
+msgid "Japan"
+msgstr "Japan"
+
+#: src/lib/locales.ts:37
+msgid "Japanese"
+msgstr "Japanese"
+
+#. Joined the application (at e.g. 02.04.2026)
+#: src/components/profile/AvatarInfo.tsx:51
+msgid "Joined"
+msgstr "Joined"
+
+#: src/lib/locales.ts:41
+msgid "Kannada"
+msgstr "Kannada"
+
+#: src/lib/locales.ts:39
+msgid "Kazakh"
+msgstr "Kazakh"
+
+#: src/lib/locales.ts:39
+#: src/lib/locales.ts:59
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: src/components/day-streak/DayStreaksList.tsx:52
+msgid "Keep going!"
+msgstr "Keep going!"
+
+#: src/lib/locales.ts:65
+msgid "Kenya"
+msgstr "Kenya"
+
+#: src/lib/locales.ts:40
+msgid "Khmer"
+msgstr "Khmer"
+
+#: src/lib/locales.ts:42
+msgid "Korean"
+msgstr "Korean"
+
+#: src/lib/locales.ts:62
+msgid "Kosovo"
+msgstr "Kosovo"
+
+#: src/components/onboarding/CongratulationsSlide.tsx:34
+msgid "Language learning made easy"
+msgstr "Language learning made easy"
+
+#: src/components/feed/LastStudyActivity.tsx:52
+msgid "Last activity"
+msgstr "Last activity"
+
+#: src/components/library/LibrarySort.tsx:73
+msgid "Latest"
+msgstr "Latest"
+
+#: src/lib/locales.ts:44
+msgid "Latvia"
+msgstr "Latvia"
+
+#: src/lib/locales.ts:44
+msgid "Latvian"
+msgstr "Latvian"
+
+#: src/components/feed/StudySetCardOptions.tsx:127
+msgid "Learn"
+msgstr "Learn"
+
+#: src/components/feed/StudyPlanStepsList.tsx:17
+msgid "Learn 20 flashcards"
+msgstr "Learn 20 flashcards"
+
+#: src/navigation/modals/DarkModeModal.tsx:32
+msgid "Learn anywhere, at any time! Dark mode is perfect for late evenings to give your eyes a better rest."
+msgstr "Learn anywhere, at any time! Dark mode is perfect for late evenings to give your eyes a better rest."
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:52
+msgid "Learn new words 🔥"
+msgstr "Learn new words 🔥"
+
+#. The language which the user selected in the application's preferences settings as the target language for learning from flashcards
+#: src/navigation/index.tsx:416
+#: src/navigation/modals/SettingsModal.tsx:123
+msgid "Learning Language"
+msgstr "Learning Language"
+
+#: src/components/feed/LibraryListNothingCreated.tsx:29
+msgid "Let's create!"
+msgstr "Let's create!"
+
+#. Gamified user's level based on XP
+#: src/components/profile/StatisticsExperienceCard.tsx:82
+msgid "Level"
+msgstr "Level"
+
+#: src/navigation/tabs/HomeTab.tsx:58
+msgctxt "Make sure to not make this word much longer (like 9 letters MAXIMUM) or else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Library"
+msgstr "Library"
+
+#: src/navigation/modals/SubscriptionModal.tsx:66
+msgid "Linkoglot — Real Studying with AI"
+msgstr "Linkoglot — Real Studying with AI"
+
+#: src/lib/locales.ts:43
+msgid "Lithuania"
+msgstr "Lithuania"
+
+#: src/lib/locales.ts:43
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+#: src/components/profile/LoadingAchievements.tsx:20
+msgid "Loading achievements"
+msgstr "Loading achievements"
+
+#: src/navigation/screens/FlashcardsScreen.tsx:69
+msgid "Loading flashcards..."
+msgstr "Loading flashcards..."
+
+#: src/navigation/screens/QuizScreen.tsx:103
+msgid "Loading quiz..."
+msgstr "Loading quiz..."
+
+#: src/components/profile/LoadingStatistics.tsx:16
+msgid "Loading statistics"
+msgstr "Loading statistics"
+
+#: src/components/profile/LoadingWeeklyXP.tsx:16
+msgid "Loading XP"
+msgstr "Loading XP"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:64
+msgid "Looped"
+msgstr "Looped"
+
+#: src/components/quiz-settings/AiPrompt.tsx:34
+msgid "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, consectetur cumque sequi"
+msgstr "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, consectetur cumque sequi"
+
+#: src/lib/locales.ts:45
+msgid "Macedonian"
+msgstr "Macedonian"
+
+#: src/lib/locales.ts:49
+msgid "Malay"
+msgstr "Malay"
+
+#: src/lib/locales.ts:46
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: src/lib/locales.ts:49
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: src/lib/locales.ts:50
+msgid "Malta"
+msgstr "Malta"
+
+#: src/lib/locales.ts:50
+msgid "Maltese"
+msgstr "Maltese"
+
+#: src/lib/locales.ts:48
+msgid "Marathi"
+msgstr "Marathi"
+
+#: src/components/profile/ProfileRank.tsx:33
+msgid "Master"
+msgstr "Master"
+
+#: src/lib/locales.ts:20
+msgid "Mexico"
+msgstr "Mexico"
+
+#: src/components/quests/Quests.tsx:37
+msgid "minute"
+msgstr "minute"
+
+#: src/components/quests/Quests.tsx:38
+msgid "minutes"
+msgstr "minutes"
+
+#: src/lib/constants.ts:46
+msgid "Misinformation"
+msgstr "Misinformation"
+
+#. Amount of missed words, as in got them incorrectly
+#: src/components/study-sessions/FinishedStatistics.tsx:100
+msgid "Misses"
+msgstr "Misses"
+
+#: src/components/quiz/TopChangeMode.tsx:110
+msgid "Mode"
+msgstr "Mode"
+
+#: src/lib/locales.ts:58
+msgid "Moldova"
+msgstr "Moldova"
+
+#: src/lib/constants.ts:20
+msgid "Monday"
+msgstr "Monday"
+
+#: src/lib/locales.ts:47
+msgid "Mongolia"
+msgstr "Mongolia"
+
+#: src/lib/locales.ts:47
+msgid "Mongolian"
+msgstr "Mongolian"
+
+#. Per 1 month
+#: src/navigation/modals/SubscriptionModal.tsx:37
+msgid "month"
+msgstr "month"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:101
+msgid "Monthly"
+msgstr "Monthly"
+
+#: src/lib/locales.ts:7
+msgid "Morocco"
+msgstr "Morocco"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:95
+msgid "Moving from another app? Paste your export data below. Only import content you own or have permission to use."
+msgstr "Moving from another app? Paste your export data below. Only import content you own or have permission to use."
+
+#: src/lib/locales.ts:57
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: src/components/quiz/TopChangeMode.tsx:37
+msgid "Multi-Choice"
+msgstr "Multi-Choice"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:43
+msgid "Multi-language support"
+msgstr "Multi-language support"
+
+#: src/lib/locales.ts:51
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: src/components/settings/AccountFormName.tsx:31
+msgid "Name"
+msgstr "Name"
+
+#: src/lib/locales.ts:6
+msgid "Namibia"
+msgstr "Namibia"
+
+#: src/lib/locales.ts:53
+msgid "Nepal"
+msgstr "Nepal"
+
+#: src/lib/locales.ts:53
+msgid "Nepali"
+msgstr "Nepali"
+
+#: src/lib/locales.ts:54
+msgid "Netherlands"
+msgstr "Netherlands"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:95
+msgid "New line"
+msgstr "New line"
+
+#: src/navigation/index.tsx:691
+msgid "New study set"
+msgstr "New study set"
+
+#: src/components/study-sets/SetFormTitle.tsx:35
+msgid "New study set title"
+msgstr "New study set title"
+
+#: src/components/quiz/QuizCheckButton.tsx:40
+#: src/components/quiz/QuizResultButton.tsx:24
+msgid "Next"
+msgstr "Next"
+
+#: src/navigation/modals/SubscriptionModal.tsx:112
+msgid "Next charge"
+msgstr "Next charge"
+
+#: src/components/quests/ChallengeEmpty.tsx:24
+msgid "No challenge here yet"
+msgstr "No challenge here yet"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:23
+msgid "No package was found..."
+msgstr "No package was found..."
+
+#: src/components/onboarding/SubscriptionFooter.tsx:52
+msgid "No payment due now"
+msgstr "No payment due now"
+
+#: src/navigation/modals/SubscriptionModal.tsx:117
+msgid "No upcoming renewals"
+msgstr "No upcoming renewals"
+
+#: src/navigation/index.tsx:699
+msgid "No, back to creating"
+msgstr "No, back to creating"
+
+#: src/navigation/index.tsx:724
+msgid "No, back to editing"
+msgstr "No, back to editing"
+
+#: src/components/feed/QuizCardOptions.tsx:48
+#: src/components/feed/StudySetCardOptions.tsx:53
+#: src/components/study-sets/SetFormDeleteButton.tsx:55
+#: src/components/study-sets/StudySetDetailsHeader.tsx:55
+#: src/components/ui/warning-dialog.tsx:75
+msgid "No, cancel"
+msgstr "No, cancel"
+
+#: src/navigation/index.tsx:460
+#: src/navigation/modals/SubscriptionCancelModal.tsx:46
+msgid "No, go back"
+msgstr "No, go back"
+
+#: src/navigation/modals/DeleteAccountModal.tsx:54
+#: src/navigation/modals/SignOutModal.tsx:49
+msgid "No, let's go back!"
+msgstr "No, let's go back!"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:42
+msgid "No, resume"
+msgstr "No, resume"
+
+#: src/components/quiz-settings/Difficulty.tsx:28
+msgid "Normal"
+msgstr "Normal"
+
+#: src/lib/locales.ts:42
+msgid "North Korea"
+msgstr "North Korea"
+
+#: src/lib/locales.ts:45
+#: src/lib/locales.ts:62
+msgid "North Macedonia"
+msgstr "North Macedonia"
+
+#: src/lib/locales.ts:52
+msgid "Norway"
+msgstr "Norway"
+
+#: src/lib/locales.ts:52
+msgid "Norwegian"
+msgstr "Norwegian"
+
+#: src/components/feed/LibraryListNothingCreated.tsx:16
+msgid "Nothing's here yet..."
+msgstr "Nothing's here yet..."
+
+#: src/navigation/index.tsx:353
+#: src/navigation/modals/SettingsModal.tsx:90
+msgid "Notifications"
+msgstr "Notifications"
+
+#: src/components/onboarding/SubscriptionFooter.tsx:26
+msgid "Notifications for reminders"
+msgstr "Notifications for reminders"
+
+#: src/components/profile/ProfileRank.tsx:13
+msgid "Novice"
+msgstr "Novice"
+
+#: src/hooks/utils/useConsent.ts:72
+#: src/hooks/utils/useConsent.ts:105
+msgid "Now you won't miss any new and fantastic opportunities!"
+msgstr "Now you won't miss any new and fantastic opportunities!"
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:45
+msgid "Now you'll surely learn the language in no time!"
+msgstr "Now you'll surely learn the language in no time!"
+
+#: src/hooks/study-sets/useUpdateStudySet.ts:27
+msgid "Oh no, we couldn't update the this study set for you!"
+msgstr "Oh no, we couldn't update the this study set for you!"
+
+#: src/hooks/utils/useCopyToClipboard.ts:20
+msgid "Oh no! We couldn't copy the text to your clipboard!"
+msgstr "Oh no! We couldn't copy the text to your clipboard!"
+
+#: src/hooks/study-sets/useCreateStudySet.ts:42
+msgid "Oh no! We couldn't create the study set for you..."
+msgstr "Oh no! We couldn't create the study set for you..."
+
+#: src/hooks/quizes/useDeleteQuiz.ts:28
+msgid "Oh no! We couldn't delete this quiz for you..."
+msgstr "Oh no! We couldn't delete this quiz for you..."
+
+#: src/hooks/study-sets/useDeleteStudySet.ts:28
+msgid "Oh no! We couldn't delete this study set for you..."
+msgstr "Oh no! We couldn't delete this study set for you..."
+
+#: src/hooks/study-sets/useEditStudySet.ts:30
+msgid "Oh no! We couldn't edit this study set for you..."
+msgstr "Oh no! We couldn't edit this study set for you..."
+
+#: src/hooks/operating-system/useSaveFile.ts:28
+msgid "Oh no! We couldn't save this file for you..."
+msgstr "Oh no! We couldn't save this file for you..."
+
+#: src/hooks/reports/useCreateReport.ts:45
+msgid "Oh no! We couldn't send the report."
+msgstr "Oh no! We couldn't send the report."
+
+#: src/hooks/auth/useSignInViaApple.ts:38
+msgid "Oh no! We couldn't sign you in via Apple..."
+msgstr "Oh no! We couldn't sign you in via Apple..."
+
+#: src/hooks/auth/useSignInViaGoogle.ts:38
+msgid "Oh no! We couldn't sign you in via Google..."
+msgstr "Oh no! We couldn't sign you in via Google..."
+
+#: src/services/day-streaks/listenDayStreaks.tsx:49
+msgid "Oh no! You didn't manage to keep your day streak... 🙁"
+msgstr "Oh no! You didn't manage to keep your day streak... 🙁"
+
+#: src/services/operating-system/saveFile.ts:90
+msgid "Oh no! Your device's platform is not supported for saving files. That's really sad..."
+msgstr "Oh no! Your device's platform is not supported for saving files. That's really sad..."
+
+#: src/services/operating-system/saveFile.ts:77
+#: src/services/operating-system/saveFile.ts:80
+#: src/services/operating-system/saveFile.ts:83
+msgid "Oh! File saving was cancelled!"
+msgstr "Oh! File saving was cancelled!"
+
+#: src/services/auth/signInViaApple.ios.ts:32
+#: src/services/auth/signInViaApple.ts:62
+#: src/services/auth/signInViaGoogle.ts:73
+msgid "Oh! Signing in was cancelled!"
+msgstr "Oh! Signing in was cancelled!"
+
+#: src/navigation/modals/ExportDataModal.tsx:53
+msgid "OK, download!"
+msgstr "OK, download!"
+
+#: src/components/library/LibrarySort.tsx:85
+msgid "Oldest"
+msgstr "Oldest"
+
+#: src/services/operating-system/shareText.ts:17
+msgid "Oops, sharing was cancelled!"
+msgstr "Oops, sharing was cancelled!"
+
+#: src/hooks/pictures/useAnalyzePicture.ts:31
+msgid "Oops, we couldn't analyze this picture for you!"
+msgstr "Oops, we couldn't analyze this picture for you!"
+
+#: src/hooks/quizes/useCreateQuiz.ts:99
+msgid "Oops, we couldn't create the quiz for you!"
+msgstr "Oops, we couldn't create the quiz for you!"
+
+#: src/hooks/profiles/useProfileExportData.ts:23
+msgid "Oops, we couldn't export your data!"
+msgstr "Oops, we couldn't export your data!"
+
+#: src/services/study-sets/getStudySetById.ts:21
+msgid "Oops, we couldn't find this study set..."
+msgstr "Oops, we couldn't find this study set..."
+
+#: src/hooks/pictures/useSavePicture.ts:18
+msgid "Oops, we couldn't save the picture to your device's storage!"
+msgstr "Oops, we couldn't save the picture to your device's storage!"
+
+#: src/hooks/quizes/useUpdateQuiz.ts:27
+msgid "Oops, we couldn't update the quiz for you!"
+msgstr "Oops, we couldn't update the quiz for you!"
+
+#: src/hooks/camera/useCameraPermissions.ts:20
+msgid "Oops, we still didn't get the access!"
+msgstr "Oops, we still didn't get the access!"
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:28
+msgid "Oops, you have to submit consent first!"
+msgstr "Oops, you have to submit consent first!"
+
+#: src/services/auth/signInViaGoogle.ts:75
+msgid "Oops! Signing in is required!"
+msgstr "Oops! Signing in is required!"
+
+#: src/services/auth/signInViaGoogle.ts:77
+msgid "Oops! Signing in was interrupted!"
+msgstr "Oops! Signing in was interrupted!"
+
+#: src/components/quiz/WrongAnswerResult.tsx:44
+msgid "Oops! That wasn't the correct answer..."
+msgstr "Oops! That wasn't the correct answer..."
+
+#: src/components/quiz/TimedOutAnswerResult.tsx:32
+msgid "Oops! Your time run out"
+msgstr "Oops! Your time run out"
+
+#: src/components/ui/question-tooltip.tsx:23
+msgid "Open AI prompt tooltip"
+msgstr "Open AI prompt tooltip"
+
+#: src/components/feed/QuizCardOptions.tsx:57
+msgid "Open quiz options"
+msgstr "Open quiz options"
+
+#: src/components/feed/StudySetCardOptions.tsx:62
+msgid "Open study set options"
+msgstr "Open study set options"
+
+#: src/components/quiz/WritingSettings.tsx:42
+msgid "Open writing settings"
+msgstr "Open writing settings"
+
+#: src/lib/constants.ts:50
+msgid "Other"
+msgstr "Other"
+
+#: src/navigation/index.tsx:541
+msgid "Page Not Found | 404"
+msgstr "Page Not Found | 404"
+
+#: src/lib/locales.ts:55
+#: src/lib/locales.ts:71
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: src/components/ui/login-email-form.tsx:42
+msgid "Password"
+msgstr "Password"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:69
+msgid "Paste text"
+msgstr "Paste text"
+
+#: src/lib/locales.ts:23
+msgid "Persian"
+msgstr "Persian"
+
+#: src/components/feed/QuizCard.tsx:76
+msgid "Personalized for you"
+msgstr "Personalized for you"
+
+#: src/hooks/quizes/useCreateQuiz.ts:86
+msgid "Personalizing words..."
+msgstr "Personalizing words..."
+
+#: src/components/onboarding/TopHeader.tsx:43
+msgid "Pick display language"
+msgstr "Pick display language"
+
+#: src/navigation/index.tsx:513
+msgid "Picture"
+msgstr "Picture"
+
+#: src/components/profile/StatisticsStudySetsCard.tsx:103
+#: src/components/profile/StatisticsWordsCard.tsx:103
+msgid "Pictures"
+msgstr "Pictures"
+
+#: src/components/feed/QuizCardOptions.tsx:108
+msgid "Play"
+msgstr "Play"
+
+#: src/components/feed/StudyPlanStepsList.tsx:25
+msgid "Play 2 quizes"
+msgstr "Play 2 quizes"
+
+#: src/components/feed/FeedBannersList.tsx:29
+msgid "Play a quiz and reinforce your memory"
+msgstr "Play a quiz and reinforce your memory"
+
+#: src/components/feed/StudyActivityCard.tsx:143
+msgid "Play again"
+msgstr "Play again"
+
+#: src/components/feed/FeedBannersList.tsx:30
+msgid "Play quiz"
+msgstr "Play quiz"
+
+#: src/services/pictures/savePicture.ts:55
+msgid "Please allow access to save photos!"
+msgstr "Please allow access to save photos!"
+
+#: src/components/camera/RequestPermission.tsx:27
+msgid "Please allow camera access in order to take pictures"
+msgstr "Please allow camera access in order to take pictures"
+
+#: src/hooks/auth/useDeleteAccount.ts:24
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:31
+#: src/hooks/profiles/useUpdateProfile.ts:46
+#: src/hooks/reports/useCreateReport.ts:45
+#: src/hooks/subscription/useCancelSubscription.ts:27
+#: src/services/auth/signInViaApple.ios.ts:27
+#: src/services/auth/signInViaApple.ts:66
+#: src/services/auth/signInViaGoogle.ts:80
+#: src/services/auth/signInViaGoogle.ts:84
+#: src/services/documents/getLatestDocuments.ts:30
+#: src/services/profiles/profileExportData.ts:13
+msgid "Please contact us immediately at {CONTACT_EMAIL}"
+msgstr "Please contact us immediately at {CONTACT_EMAIL}"
+
+#: src/lib/zodSchemas.ts:159
+msgid "Please enter a valid email!"
+msgstr "Please enter a valid email!"
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:32
+msgid "Please enter the data according to your format settings!"
+msgstr "Please enter the data according to your format settings!"
+
+#: src/navigation/sheets/GenerateStudySetSheet.tsx:45
+msgid "Please give me words on..."
+msgstr "Please give me words on..."
+
+#: src/lib/locales.ts:56
+msgid "Poland"
+msgstr "Poland"
+
+#: src/lib/locales.ts:56
+msgid "Polish"
+msgstr "Polish"
+
+#: src/navigation/index.tsx:425
+#: src/navigation/modals/SettingsModal.tsx:132
+msgid "Pop-ups"
+msgstr "Pop-ups"
+
+#: src/lib/locales.ts:57
+msgid "Portugal"
+msgstr "Portugal"
+
+#: src/lib/locales.ts:57
+msgid "Portuguese"
+msgstr "Portuguese"
+
+#: src/components/practice/PracticeTabPage.tsx:11
+msgid "Practice"
+msgstr "Practice"
+
+#. The page which inludes the recommended flashcards, recent sessions, day streak etc. Kind of like For You or Feed or Home (but Home is already used elsewhere actually).
+#: src/navigation/tabs/HomeTab.tsx:41
+msgctxt "Make sure to not make this word much longer (like 9 letters MAXIMUM) or else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Practice"
+msgstr "Practice"
+
+#: src/components/profile/ProfileRank.tsx:21
+msgid "Practitioner"
+msgstr "Practitioner"
+
+#: src/navigation/modals/SettingsModal.tsx:137
+msgid "Preferences"
+msgstr "Preferences"
+
+#: src/components/library/LibrarySearch.tsx:73
+msgid "Preparing..."
+msgstr "Preparing..."
+
+#: src/navigation/modals/SettingsModal.tsx:72
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: src/components/profile/ProfileRank.tsx:25
+msgid "Professional"
+msgstr "Professional"
+
+#: src/navigation/index.tsx:244
+msgid "Profile"
+msgstr "Profile"
+
+#: src/services/notifications/registerForNotifications.ts:70
+msgid "Project ID not found"
+msgstr "Project ID not found"
+
+#: src/lib/zodSchemas.ts:59
+msgid "Prompt cannot be longer than {MAX_STUDY_SET_GENERATE_AI_LENGTH} characters"
+msgstr "Prompt cannot be longer than {MAX_STUDY_SET_GENERATE_AI_LENGTH} characters"
+
+#: src/lib/zodSchemas.ts:51
+msgid "Prompt is missing!"
+msgstr "Prompt is missing!"
+
+#: src/lib/zodSchemas.ts:55
+msgid "Prompt should be at least {MIN_STUDY_SET_GENERATE_AI_LENGTH} characters long"
+msgstr "Prompt should be at least {MIN_STUDY_SET_GENERATE_AI_LENGTH} characters long"
+
+#: src/lib/locales.ts:55
+msgid "Punjabi"
+msgstr "Punjabi"
+
+#: src/services/quests/listenQuests.tsx:61
+msgid "quest completed!"
+msgstr "quest completed!"
+
+#. Total amount of questions answered
+#: src/components/quiz-settings/QuestionsCount.tsx:66
+#: src/components/study-sessions/FinishedStatistics.tsx:124
+msgid "Questions"
+msgstr "Questions"
+
+#: src/components/quiz/TopChangeQuestionsLanguage.tsx:30
+msgid "Questions language"
+msgstr "Questions language"
+
+#: src/navigation/index.tsx:224
+msgid "Quests"
+msgstr "Quests"
+
+#: src/navigation/tabs/QuestsTab.tsx:19
+msgctxt "Make sure to not make this word much longer (like 9 letters MAXIMUM) or else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Quests"
+msgstr "Quests"
+
+#: src/navigation/index.tsx:503
+msgid "Quick question!"
+msgstr "Quick question!"
+
+#: src/components/quiz/TopHeader.tsx:79
+#: src/components/study-sets/PlayingOptionsList.tsx:34
+msgid "Quiz"
+msgstr "Quiz"
+
+#: src/components/feed/QuizCardOptions.tsx:79
+#: src/navigation/index.tsx:579
+msgid "Quiz options"
+msgstr "Quiz options"
+
+#: src/components/library/LibraryFilters.tsx:25
+msgid "Quizes"
+msgstr "Quizes"
+
+#: src/components/profile/StatisticsStudySetsCard.tsx:61
+#: src/components/profile/StatisticsWordsCard.tsx:61
+msgid "Quizes played"
+msgstr "Quizes played"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:19
+msgid "Quizlet"
+msgstr "Quizlet"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:78
+msgid "Recommended"
+msgstr "Recommended"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:68
+msgid "Refresh study set creation"
+msgstr "Refresh study set creation"
+
+#: src/components/flashcards/FlashcardsCarousel.tsx:150
+msgid "Remembered"
+msgstr "Remembered"
+
+#: src/components/ui/consent-marketing-checkbox.tsx:48
+msgid "Remind me to stay on track with my goals and enable push notifications."
+msgstr "Remind me to stay on track with my goals and enable push notifications."
+
+#: src/navigation/modals/SubscriptionModal.tsx:76
+msgid "Reoccuring"
+msgstr "Reoccuring"
+
+#: src/components/study-sets/EditableFlashcardCollapsedButtons.tsx:33
+msgid "Reorder flashcard down"
+msgstr "Reorder flashcard down"
+
+#: src/components/study-sets/EditableFlashcardCollapsedButtons.tsx:48
+msgid "Reorder flashcard up"
+msgstr "Reorder flashcard up"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:88
+#: src/components/quiz-settings/TimeLimit.tsx:90
+#: src/components/report/FormCategory.tsx:42
+msgid "Report category"
+msgstr "Report category"
+
+#: src/components/report/FormDescription.tsx:35
+msgid "Report description"
+msgstr "Report description"
+
+#: src/navigation/index.tsx:434
+#: src/navigation/modals/SettingsModal.tsx:159
+msgid "Report Issues"
+msgstr "Report Issues"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:159
+msgid "Restart cards"
+msgstr "Restart cards"
+
+#: src/components/quiz-settings/StartButton.tsx:126
+msgid "Restart last quiz"
+msgstr "Restart last quiz"
+
+#: src/components/quiz-settings/StartButton.tsx:128
+msgid "Resume last quiz"
+msgstr "Resume last quiz"
+
+#: src/components/feed/StudyActivityCard.tsx:145
+msgid "Resume session"
+msgstr "Resume session"
+
+#: src/navigation/modals/SettingsModal.tsx:153
+msgid "Review"
+msgstr "Review"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:40
+msgid "Review tough vocabulary 😣"
+msgstr "Review tough vocabulary 😣"
+
+#: src/lib/locales.ts:58
+msgid "Romania"
+msgstr "Romania"
+
+#: src/lib/locales.ts:58
+msgid "Romanian"
+msgstr "Romanian"
+
+#: src/lib/locales.ts:59
+msgid "Russia"
+msgstr "Russia"
+
+#: src/lib/locales.ts:59
+msgid "Russian"
+msgstr "Russian"
+
+#: src/lib/constants.ts:25
+msgid "Saturday"
+msgstr "Saturday"
+
+#: src/lib/locales.ts:7
+msgid "Saudi Arabia"
+msgstr "Saudi Arabia"
+
+#: src/components/taken-picture/SavePictureHeaderButton.tsx:32
+msgid "Save"
+msgstr "Save"
+
+#. Paying only 80% of the original price for example, so you save 20% of it.
+#: src/components/onboarding/SubscriptionPlanButton.tsx:83
+msgid "Save {annuallySavingPercentageString}"
+msgstr "Save {annuallySavingPercentageString}"
+
+#: src/navigation/modals/AccountModal.tsx:104
+#: src/navigation/modals/AudioFeedbackModal.tsx:99
+#: src/navigation/modals/DarkModeModal.tsx:79
+#: src/navigation/modals/HapticsModal.tsx:78
+#: src/navigation/modals/NotificationsModal.tsx:162
+#: src/navigation/modals/PopUpsModal.tsx:94
+msgid "Save and go back!"
+msgstr "Save and go back!"
+
+#: src/services/operating-system/saveFile.ts:63
+msgid "Save your data"
+msgstr "Save your data"
+
+#: src/components/onboarding/SignInSlide.tsx:54
+msgid "Save your progress"
+msgstr "Save your progress"
+
+#: src/navigation/modals/DisplayLanguageModal.tsx:29
+#: src/navigation/modals/LearningLanguageModal.tsx:28
+msgid "Save!"
+msgstr "Save!"
+
+#: src/components/library/LibrarySearch.tsx:93
+#: src/components/settings/LanguagePicker.tsx:82
+msgid "Search..."
+msgstr "Search..."
+
+#: src/components/quiz/TopTimeRemaining.tsx:31
+msgid "Sec"
+msgstr "Sec"
+
+#: src/hooks/utils/useSecretPress.ts:43
+msgid "Secret found!"
+msgstr "Secret found!"
+
+#: src/components/ui/login-email-form.tsx:31
+msgid "Secret password sign-in for testers"
+msgstr "Secret password sign-in for testers"
+
+#: src/components/profile/Achievements.tsx:51
+#: src/components/profile/LoadingAchievements.tsx:32
+msgid "See all"
+msgstr "See all"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:93
+#: src/components/quiz-settings/TimeLimit.tsx:95
+#: src/components/report/FormCategory.tsx:47
+msgid "Select an issue category"
+msgstr "Select an issue category"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:108
+msgid "Semicolon"
+msgstr "Semicolon"
+
+#: src/lib/zodSchemas.ts:143
+msgid "Separator between cards is missing!"
+msgstr "Separator between cards is missing!"
+
+#: src/lib/zodSchemas.ts:139
+msgid "Separator between terms and definitions is missing!"
+msgstr "Separator between terms and definitions is missing!"
+
+#: src/navigation/modals/ExportFlashcardsFormModal.tsx:82
+#: src/navigation/modals/ImportFlashcardsModal.tsx:98
+msgid "Separator is missing!"
+msgstr "Separator is missing!"
+
+#: src/navigation/modals/ExportFlashcardsFormModal.tsx:84
+#: src/navigation/modals/ImportFlashcardsModal.tsx:100
+msgid "Separators cannot be the exact same!"
+msgstr "Separators cannot be the exact same!"
+
+#: src/lib/locales.ts:63
+msgid "Serbia"
+msgstr "Serbia"
+
+#: src/lib/locales.ts:63
+msgid "Serbian"
+msgstr "Serbian"
+
+#: src/components/quests/GoalsTabPage.tsx:9
+msgid "Session goals"
+msgstr "Session goals"
+
+#: src/navigation/index.tsx:334
+msgid "Settings"
+msgstr "Settings"
+
+#: src/components/study-sets/SetFormShareButton.tsx:17
+msgid "Share flashcards"
+msgstr "Share flashcards"
+
+#: src/components/study-sets/StudySetDetailsHeader.tsx:69
+msgid "Share study set"
+msgstr "Share study set"
+
+#: src/services/operating-system/shareText.ts:13
+msgid "Share via..."
+msgstr "Share via..."
+
+#: src/hooks/operating-system/useShareText.ts:38
+msgid "Shared successfully! Hooray!"
+msgstr "Shared successfully! Hooray!"
+
+#: src/navigation/index.tsx:746
+msgid "Sharing options"
+msgstr "Sharing options"
+
+#: src/components/study-sets/EditableFlashcardNativeExample.tsx:40
+msgid "She bit into a crisp, juicy apple."
+msgstr "She bit into a crisp, juicy apple."
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:53
+msgid "Shuffled"
+msgstr "Shuffled"
+
+#: src/components/ui/login-email-form.tsx:63
+msgid "Sign in"
+msgstr "Sign in"
+
+#: src/components/ui/login-connections.tsx:126
+msgid "Sign in via Apple"
+msgstr "Sign in via Apple"
+
+#: src/components/ui/login-connections.tsx:98
+msgid "Sign in via Google"
+msgstr "Sign in via Google"
+
+#: src/components/ui/login-connections.tsx:163
+msgid "Sign out"
+msgstr "Sign out"
+
+#: src/navigation/index.tsx:476
+#: src/navigation/modals/SettingsModal.tsx:175
+msgid "Sign Out"
+msgstr "Sign Out"
+
+#: src/components/ui/login-connections.tsx:138
+msgid "Signed in"
+msgstr "Signed in"
+
+#: src/services/auth/signInViaGoogle.ts:34
+msgid "Signing in was cancelled"
+msgstr "Signing in was cancelled"
+
+#: src/lib/locales.ts:49
+#: src/lib/locales.ts:66
+#: src/lib/locales.ts:74
+msgid "Singapore"
+msgstr "Singapore"
+
+#: src/lib/locales.ts:60
+msgid "Slovak"
+msgstr "Slovak"
+
+#: src/lib/locales.ts:60
+msgid "Slovakia"
+msgstr "Slovakia"
+
+#: src/lib/locales.ts:61
+msgid "Slovenia"
+msgstr "Slovenia"
+
+#: src/lib/locales.ts:61
+msgid "Slovenian"
+msgstr "Slovenian"
+
+#: src/hooks/auth/useSignInViaPassword.ts:25
+msgid "Something went wrong whilst trying to sign in with a password. Are your credentials valid?"
+msgstr "Something went wrong whilst trying to sign in with a password. Are your credentials valid?"
+
+#: src/services/auth/signInViaGoogle.ts:65
+msgid "Something went wrong with inspecting your profile. Please try again!"
+msgstr "Something went wrong with inspecting your profile. Please try again!"
+
+#: src/components/library/LibrarySort.tsx:177
+msgid "Sort by"
+msgstr "Sort by"
+
+#: src/components/library/LibrarySort.tsx:162
+msgid "Sort library search"
+msgstr "Sort library search"
+
+#: src/lib/locales.ts:6
+#: src/lib/locales.ts:75
+msgid "South Africa"
+msgstr "South Africa"
+
+#: src/lib/locales.ts:42
+msgid "South Korea"
+msgstr "South Korea"
+
+#: src/lib/locales.ts:13
+#: src/lib/locales.ts:20
+#: src/lib/locales.ts:22
+#: src/lib/locales.ts:27
+msgid "Spain"
+msgstr "Spain"
+
+#: src/lib/locales.ts:20
+msgid "Spanish"
+msgstr "Spanish"
+
+#: src/components/feed/StudyPlanStepsList.tsx:21
+msgid "Spend 10 minutes"
+msgstr "Spend 10 minutes"
+
+#. Total time spent
+#: src/components/profile/StatisticsExperienceCard.tsx:59
+msgid "Spent"
+msgstr "Spent"
+
+#: src/lib/locales.ts:66
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: src/contexts/OnboardingContext.tsx:154
+msgid "Start 1-week free trial"
+msgstr "Start 1-week free trial"
+
+#: src/components/quiz-settings/StartButton.tsx:106
+msgid "Start!"
+msgstr "Start!"
+
+#: src/components/profile/Statistics.tsx:23
+msgid "Statistics"
+msgstr "Statistics"
+
+#: src/components/day-streak/DayStreaksList.tsx:40
+msgid "Streak is <0>{currentDayStreak}</0>."
+msgstr "Streak is <0>{currentDayStreak}</0>."
+
+#. Day streak in a row
+#: src/components/profile/StatisticsExperienceCard.tsx:38
+msgid "Streak record"
+msgstr "Streak record"
+
+#: src/components/profile/NameInfo.tsx:38
+msgid ""
+"Study\n"
+"sets"
+msgstr ""
+"Study\n"
+"sets"
+
+#: src/components/feed/StudyActivityCard.tsx:140
+msgid "Study again"
+msgstr "Study again"
+
+#: src/navigation/index.tsx:589
+msgid "Study set"
+msgstr "Study set"
+
+#: src/components/feed/StudySetCardOptions.tsx:82
+msgid "Study set options"
+msgstr "Study set options"
+
+#: src/components/library/LibraryFilters.tsx:21
+#: src/components/profile/StatisticsStudySetsCard.tsx:40
+#: src/components/profile/StatisticsWordsCard.tsx:40
+msgid "Study sets"
+msgstr "Study sets"
+
+#: src/navigation/index.tsx:371
+#: src/navigation/modals/SettingsModal.tsx:67
+msgid "Subscription"
+msgstr "Subscription"
+
+#: src/navigation/modals/SubscriptionModal.tsx:85
+msgid "Subscription information"
+msgstr "Subscription information"
+
+#: src/lib/constants.ts:38
+msgid "Suggestions"
+msgstr "Suggestions"
+
+#: src/lib/constants.ts:19
+msgid "Sunday"
+msgstr "Sunday"
+
+#: src/navigation/modals/SettingsModal.tsx:187
+msgid "Support"
+msgstr "Support"
+
+#: src/lib/locales.ts:54
+msgid "Suriname"
+msgstr "Suriname"
+
+#: src/lib/locales.ts:65
+msgid "Swahili"
+msgstr "Swahili"
+
+#: src/components/study-sets/EditableFlashcardCollapsedButtons.tsx:62
+msgid "Swap flashcard terms and definitions"
+msgstr "Swap flashcard terms and definitions"
+
+#: src/lib/locales.ts:64
+msgid "Sweden"
+msgstr "Sweden"
+
+#: src/lib/locales.ts:64
+msgid "Swedish"
+msgstr "Swedish"
+
+#: src/lib/locales.ts:17
+#: src/lib/locales.ts:25
+#: src/lib/locales.ts:36
+msgid "Switzerland"
+msgstr "Switzerland"
+
+#. The Tab keyboard character
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:49
+msgid "Tab"
+msgstr "Tab"
+
+#: src/lib/locales.ts:74
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: src/lib/locales.ts:23
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: src/lib/locales.ts:66
+msgid "Tamil"
+msgstr "Tamil"
+
+#: src/lib/locales.ts:65
+msgid "Tanzania"
+msgstr "Tanzania"
+
+#: src/lib/constants.ts:34
+msgid "Technical issues"
+msgstr "Technical issues"
+
+#: src/lib/locales.ts:67
+msgid "Telugu"
+msgstr "Telugu"
+
+#: src/components/study-sets/EditableFlashcardNativeMsg.tsx:32
+msgid "Term"
+msgstr "Term"
+
+#: src/components/study-sets/ImportFlashcardsFormData.tsx:55
+msgid "Term 1{termsSeparator}Definition 1{cardsSeparator}Term 2{termsSeparator}Definition 2{cardsSeparator}Term 3{termsSeparator}Definition 3"
+msgstr "Term 1{termsSeparator}Definition 1{cardsSeparator}Term 2{termsSeparator}Definition 2{cardsSeparator}Term 3{termsSeparator}Definition 3"
+
+#: src/lib/zodSchemas.ts:75
+msgid "Term cannot be longer than {MAX_FLASHCARD_NATIVE_MSG_LENGTH} characters"
+msgstr "Term cannot be longer than {MAX_FLASHCARD_NATIVE_MSG_LENGTH} characters"
+
+#: src/lib/zodSchemas.ts:67
+msgid "Term is missing!"
+msgstr "Term is missing!"
+
+#: src/lib/zodSchemas.ts:71
+msgid "Term should be at least {MIN_FLASHCARD_NATIVE_MSG_LENGTH} characters long"
+msgstr "Term should be at least {MIN_FLASHCARD_NATIVE_MSG_LENGTH} characters long"
+
+#: src/navigation/modals/SettingsModal.tsx:77
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+#: src/components/feed/FeedBannersList.tsx:28
+msgid "Test knowledge!"
+msgstr "Test knowledge!"
+
+#: src/components/quests/ChallengeHeader.tsx:21
+msgid "Test your knowledge with a quiz we've built just for you!"
+msgstr "Test your knowledge with a quiz we've built just for you!"
+
+#: src/lib/locales.ts:68
+msgid "Thai"
+msgstr "Thai"
+
+#: src/lib/locales.ts:68
+msgid "Thailand"
+msgstr "Thailand"
+
+#: src/components/study-sets/EditableFlashcardNativeMsg.tsx:40
+msgid "The apple"
+msgstr "The apple"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:41
+msgid "This action cannot be undone. The data for this new study set will be lost"
+msgstr "This action cannot be undone. The data for this new study set will be lost"
+
+#: src/navigation/modals/DeleteAccountModal.tsx:37
+msgid "This action cannot be undone. You will loose all of your flashcards, profile experience, and your subscription will be cancelled automatically. We'll most definitely miss you!"
+msgstr "This action cannot be undone. You will loose all of your flashcards, profile experience, and your subscription will be cancelled automatically. We'll most definitely miss you!"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:54
+msgid "This action cannot be undone. Your flashcards will be lost"
+msgstr "This action cannot be undone. Your flashcards will be lost"
+
+#: src/services/live-notifications/listenLiveNotifications.ts:38
+msgid "This was sent to you by a Linkoglot administrator 👀"
+msgstr "This was sent to you by a Linkoglot administrator 👀"
+
+#: src/components/day-streak/DayStreaksList.tsx:58
+msgid "This week"
+msgstr "This week"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:17
+msgid "Thorough pictures analysis"
+msgstr "Thorough pictures analysis"
+
+#: src/lib/constants.ts:23
+msgid "Thursday"
+msgstr "Thursday"
+
+#: src/components/quiz-settings/TimeLimit.tsx:68
+msgid "Time limit"
+msgstr "Time limit"
+
+#. Total time spent
+#: src/components/study-sessions/FinishedStatistics.tsx:76
+msgid "Time spent"
+msgstr "Time spent"
+
+#: src/components/quiz-settings/TimeLimit.tsx:101
+msgid "Time to answer each question"
+msgstr "Time to answer each question"
+
+#: src/components/quiz/TimedOutAnswerResult.tsx:29
+msgid "Timed out"
+msgstr "Timed out"
+
+#: src/components/study-sets/SetFormTitle.tsx:26
+msgid "Title"
+msgstr "Title"
+
+#: src/components/library/LibrarySort.tsx:49
+msgid "Title A to Z"
+msgstr "Title A to Z"
+
+#: src/lib/zodSchemas.ts:43
+msgid "Title cannot be longer than {MAX_STUDY_SET_TITLE_LENGTH} characters"
+msgstr "Title cannot be longer than {MAX_STUDY_SET_TITLE_LENGTH} characters"
+
+#: src/lib/zodSchemas.ts:35
+msgid "Title is missing!"
+msgstr "Title is missing!"
+
+#: src/lib/zodSchemas.ts:39
+msgid "Title should be at least {MIN_STUDY_SET_TITLE_LENGTH} characters long"
+msgstr "Title should be at least {MIN_STUDY_SET_TITLE_LENGTH} characters long"
+
+#: src/components/library/LibrarySort.tsx:61
+msgid "Title Z to A"
+msgstr "Title Z to A"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:87
+msgid "Toggle audio feedback for "
+msgstr "Toggle audio feedback for "
+
+#: src/navigation/modals/DarkModeModal.tsx:29
+msgid "Toggle dark mode"
+msgstr "Toggle dark mode"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:113
+msgid "Toggle example sentence for "
+msgstr "Toggle example sentence for "
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:132
+msgid "Toggle explanation sentence for "
+msgstr "Toggle explanation sentence for "
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:70
+msgid "Toggle front language as "
+msgstr "Toggle front language as "
+
+#: src/navigation/modals/HapticsModal.tsx:31
+msgid "Toggle haptic feedback"
+msgstr "Toggle haptic feedback"
+
+#: src/navigation/modals/NotificationsModal.tsx:94
+msgid "Toggle notifications"
+msgstr "Toggle notifications"
+
+#: src/navigation/modals/PopUpsModal.tsx:48
+msgid "Toggle pop-ups"
+msgstr "Toggle pop-ups"
+
+#: src/components/quiz/TopChangeQuestionsLanguage.tsx:35
+msgid "Toggle questions language to {displayLanguageLabel}"
+msgstr "Toggle questions language to {displayLanguageLabel}"
+
+#: src/components/quiz/TopChangeQuestionsLanguage.tsx:48
+msgid "Toggle questions language to {learningLanguageLabel}"
+msgstr "Toggle questions language to {learningLanguageLabel}"
+
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:44
+msgid "Toggle them back to not miss any opportunities to earn money!"
+msgstr "Toggle them back to not miss any opportunities to earn money!"
+
+#: src/components/onboarding/CongratulationsTopButtons.tsx:73
+msgid "Toggle theme"
+msgstr "Toggle theme"
+
+#. Total experience points (XP)
+#: src/components/profile/StatisticsExperienceCard.tsx:101
+msgid "Total XP"
+msgstr "Total XP"
+
+#: src/components/quiz/QuizWriting.tsx:37
+msgid "Translate the sentence..."
+msgstr "Translate the sentence..."
+
+#: src/lib/constants.ts:21
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: src/lib/locales.ts:69
+msgid "Turkey"
+msgstr "Turkey"
+
+#: src/lib/locales.ts:69
+msgid "Turkish"
+msgstr "Turkish"
+
+#: src/lib/locales.ts:65
+msgid "Uganda"
+msgstr "Uganda"
+
+#: src/services/auth/signInViaGoogle.ts:80
+msgid "Uh oh, Google Play Services are currently not available."
+msgstr "Uh oh, Google Play Services are currently not available."
+
+#: src/services/operating-system/storeReview.ts:34
+msgid "Uh oh, it seems that your system is not supported for this feature..."
+msgstr "Uh oh, it seems that your system is not supported for this feature..."
+
+#: src/hooks/auth/useSetSession.ts:21
+msgid "Uh oh, smething went wrong while trying to sign you in..."
+msgstr "Uh oh, smething went wrong while trying to sign you in..."
+
+#: src/hooks/subscription/useCancelSubscription.ts:26
+msgid "Uh oh, something went wrong while trying to cancel your subscription..."
+msgstr "Uh oh, something went wrong while trying to cancel your subscription..."
+
+#: src/hooks/notifications/useOpenNotificationSettings.ts:20
+msgid "Uh oh, something went wrong while trying to open your device settings..."
+msgstr "Uh oh, something went wrong while trying to open your device settings..."
+
+#: src/services/documents/getLatestDocuments.ts:30
+msgid "Uh oh, something went wrong while trying to retrieve the latest legal documents."
+msgstr "Uh oh, something went wrong while trying to retrieve the latest legal documents."
+
+#: src/services/auth/signInViaApple.ios.ts:27
+#: src/services/auth/signInViaApple.ios.ts:36
+#: src/services/auth/signInViaApple.ts:66
+msgid "Uh oh, something went wrong while trying to sign in via Apple."
+msgstr "Uh oh, something went wrong while trying to sign in via Apple."
+
+#: src/services/auth/signInViaGoogle.ts:84
+msgid "Uh oh, something went wrong while trying to sign in via Google"
+msgstr "Uh oh, something went wrong while trying to sign in via Google"
+
+#: src/hooks/auth/useCreateSessionFromURL.ts:26
+msgid "Uh oh, something went wrong while trying to sign you in..."
+msgstr "Uh oh, something went wrong while trying to sign you in..."
+
+#: src/hooks/auth/useSignOut.ts:23
+msgid "Uh oh, something went wrong while trying to sign you out..."
+msgstr "Uh oh, something went wrong while trying to sign you out..."
+
+#: src/hooks/profiles/useUpdateProfile.ts:46
+msgid "Uh oh, something went wrong while trying to update your profile."
+msgstr "Uh oh, something went wrong while trying to update your profile."
+
+#: src/services/profiles/profileExportData.ts:13
+msgid "Uh oh, something went wrong whilst trying to export your data."
+msgstr "Uh oh, something went wrong whilst trying to export your data."
+
+#: src/hooks/operating-system/useStoreReview.ts:20
+msgid "Uh oh, something went wrong..."
+msgstr "Uh oh, something went wrong..."
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:32
+msgid "Uh oh, subscription was not purchased yet!"
+msgstr "Uh oh, subscription was not purchased yet!"
+
+#: src/hooks/camera/useCameraTakePicture.ts:16
+msgid "Uh oh, the camera is not ready yet..."
+msgstr "Uh oh, the camera is not ready yet..."
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:24
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:20
+#: src/hooks/pictures/useAnalyzePicture.ts:20
+#: src/hooks/profiles/useUpdateProfile.ts:31
+#: src/hooks/quizes/useCreateQuiz.ts:74
+#: src/hooks/reports/useCreateReport.ts:29
+#: src/hooks/study-sessions/useCreateStudySession.ts:24
+#: src/hooks/study-sets/useCreateStudySet.ts:29
+#: src/hooks/subscription/useGetSubscription.ts:22
+msgid "Uh oh, you are not signed in yet!"
+msgstr "Uh oh, you are not signed in yet!"
+
+#: src/lib/locales.ts:70
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: src/lib/locales.ts:70
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+#: src/components/feed/QuizCardFinishedBadge.tsx:49
+msgid "Unfinished"
+msgstr "Unfinished"
+
+#: src/lib/locales.ts:7
+msgid "United Arab Emirates"
+msgstr "United Arab Emirates"
+
+#: src/lib/locales.ts:19
+msgid "United Kingdom"
+msgstr "United Kingdom"
+
+#: src/lib/locales.ts:19
+msgid "United States"
+msgstr "United States"
+
+#: src/components/onboarding/SubscriptionSlide.tsx:56
+msgid "Unlock your potential and reach goals"
+msgstr "Unlock your potential and reach goals"
+
+#: src/lib/locales.ts:71
+msgid "Urdu"
+msgstr "Urdu"
+
+#: src/lib/locales.ts:72
+msgid "Uzbek"
+msgstr "Uzbek"
+
+#: src/lib/locales.ts:72
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: src/lib/locales.ts:73
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: src/lib/locales.ts:73
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#: src/lib/locales.ts:15
+msgid "Wales"
+msgstr "Wales"
+
+#: src/components/ui/consent-dialog.tsx:92
+msgid "We are fully transparent about our data usage and general functionality, so to view the documents, simply click on the orange links below."
+msgstr "We are fully transparent about our data usage and general functionality, so to view the documents, simply click on the orange links below."
+
+#: src/hooks/auth/useDeleteAccount.ts:24
+msgid "We couldn't delete your account right now."
+msgstr "We couldn't delete your account right now."
+
+#: src/components/feed/LibraryListNotFound.tsx:19
+msgid "We couldn't find any results. Modify your search and try again!"
+msgstr "We couldn't find any results. Modify your search and try again!"
+
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:31
+msgid "We couldn't unregister you from notifications right now."
+msgstr "We couldn't unregister you from notifications right now."
+
+#: src/components/ui/consent-dialog.tsx:70
+msgid "We need your consent!"
+msgstr "We need your consent!"
+
+#: src/services/operating-system/saveFile.ts:30
+msgid "We need your permission to save the file!"
+msgstr "We need your permission to save the file!"
+
+#: src/components/camera/RequestPermission.tsx:24
+msgid "We need your permission!"
+msgstr "We need your permission!"
+
+#: src/navigation/modals/NotificationsModal.tsx:97
+msgid "We use push notifications to remind you to stick to your goals! Enable them to never loose your study streak."
+msgstr "We use push notifications to remind you to stick to your goals! Enable them to never loose your study streak."
+
+#: src/navigation/modals/AudioFeedbackModal.tsx:60
+#: src/navigation/modals/PopUpsModal.tsx:51
+msgid "We use them to enhance your experience and provide guidance. If they don't feel convenient, simply switch them off!"
+msgstr "We use them to enhance your experience and provide guidance. If they don't feel convenient, simply switch them off!"
+
+#: src/components/quests/ChallengeEmpty.tsx:29
+msgid "We will notify you when we prepared a new one for you!"
+msgstr "We will notify you when we prepared a new one for you!"
+
+#: src/components/onboarding/SignInSlide.tsx:55
+msgid "We'll log you in or create an account automatically."
+msgstr "We'll log you in or create an account automatically."
+
+#: src/hooks/auth/useSignOut.ts:34
+msgid "We'll miss you! Come back soon!"
+msgstr "We'll miss you! Come back soon!"
+
+#: src/hooks/auth/useDeleteAccount.ts:34
+msgid "We've deleted your account and all of your data!"
+msgstr "We've deleted your account and all of your data!"
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:51
+msgid "We've detected problems in your data structure. That's okay, just be sure to check out your terms and definitions."
+msgstr "We've detected problems in your data structure. That's okay, just be sure to check out your terms and definitions."
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:44
+msgid "We've successfully enabled notifications for you!"
+msgstr "We've successfully enabled notifications for you!"
+
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:42
+msgid "We've unregistered you from all notifications."
+msgstr "We've unregistered you from all notifications."
+
+#: src/components/ui/consent-dialog.tsx:68
+msgid "We've updated our documents!"
+msgstr "We've updated our documents!"
+
+#: src/lib/constants.ts:22
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: src/services/quests/listenQuests.tsx:61
+msgid "Weekly"
+msgstr "Weekly"
+
+#: src/components/quests/QuestsTabPage.tsx:58
+msgid "Weekly Quests"
+msgstr "Weekly Quests"
+
+#: src/components/profile/WeeklyXP.tsx:25
+msgid "Weekly XP"
+msgstr "Weekly XP"
+
+#: src/hooks/auth/useSignInViaPassword.ts:37
+msgid "Welcome to my app!"
+msgstr "Welcome to my app!"
+
+#: src/lib/locales.ts:15
+msgid "Welsh"
+msgstr "Welsh"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:34
+msgid "What are your goals for this session?"
+msgstr "What are your goals for this session?"
+
+#: src/components/flashcards/FlashcardsCarousel.tsx:188
+msgid "What did you need the hint for then? 😉"
+msgstr "What did you need the hint for then? 😉"
+
+#: src/components/onboarding/LearningLanguageSlide.tsx:27
+msgid "What language are you trying to learn?"
+msgstr "What language are you trying to learn?"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:63
+msgid "What's included"
+msgstr "What's included"
+
+#: src/components/feed/LibraryListNotFound.tsx:15
+msgid "Whoops!"
+msgstr "Whoops!"
+
+#: src/components/profile/NameInfo.tsx:47
+msgid ""
+"Words\n"
+"mastered"
+msgstr ""
+"Words\n"
+"mastered"
+
+#: src/components/quiz/CorrectAnswerResult.tsx:33
+msgid "Wow! That was absolutely correct."
+msgstr "Wow! That was absolutely correct."
+
+#: src/components/quiz/TopChangeMode.tsx:45
+msgid "Writing"
+msgstr "Writing"
+
+#: src/components/quiz/WrongAnswerResult.tsx:41
+msgid "Wrong Answer"
+msgstr "Wrong Answer"
+
+#. Per 1 year
+#: src/navigation/modals/SubscriptionModal.tsx:36
+msgid "year"
+msgstr "year"
+
+#: src/navigation/modals/SubscriptionCancelModal.tsx:56
+msgid "Yes, cancel now"
+msgstr "Yes, cancel now"
+
+#: src/components/ui/warning-dialog.tsx:90
+msgid "Yes, continue"
+msgstr "Yes, continue"
+
+#: src/components/feed/QuizCardOptions.tsx:49
+#: src/components/feed/StudySetCardOptions.tsx:54
+#: src/components/study-sets/SetFormDeleteButton.tsx:56
+#: src/components/study-sets/StudySetDetailsHeader.tsx:56
+msgid "Yes, delete"
+msgstr "Yes, delete"
+
+#: src/navigation/modals/DeleteAccountModal.tsx:66
+msgid "Yes, delete permanently..."
+msgstr "Yes, delete permanently..."
+
+#: src/navigation/index.tsx:461
+#: src/navigation/index.tsx:725
+msgid "Yes, discard changes"
+msgstr "Yes, discard changes"
+
+#: src/navigation/index.tsx:700
+msgid "Yes, go home"
+msgstr "Yes, go home"
+
+#: src/navigation/modals/SignOutModal.tsx:63
+msgid "Yes, sign out..."
+msgstr "Yes, sign out..."
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:43
+msgid "Yes, start from beginning"
+msgstr "Yes, start from beginning"
+
+#: src/hooks/achievements/useCompleteAchievement.ts:27
+msgid "You already have this achievement!"
+msgstr "You already have this achievement!"
+
+#: src/hooks/operating-system/useStoreReview.ts:21
+msgid "You can always submit a review by going to the store yourself though!"
+msgstr "You can always submit a review by going to the store yourself though!"
+
+#: src/components/study-sets/FlashcardsHorizontalPreviewCarousel.tsx:38
+msgid "You don't have any flashcards here yet!"
+msgstr "You don't have any flashcards here yet!"
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:50
+msgid "You have successfully imported the flashcards, however there are some issues..."
+msgstr "You have successfully imported the flashcards, however there are some issues..."
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:56
+msgid "You have successfully imported the flashcards! Hooray!"
+msgstr "You have successfully imported the flashcards! Hooray!"
+
+#: src/services/notifications/registerForNotifications.ts:89
+msgid "You must use a physical device for push notifications"
+msgstr "You must use a physical device for push notifications"
+
+#: src/components/ui/consent-dialog.tsx:79
+msgid "You need to agree to our conditions. Read more about "
+msgstr "You need to agree to our conditions. Read more about "
+
+#: src/components/ui/consent-dialog.tsx:75
+msgid "You need to re-consent to our conditions. Read more about "
+msgstr "You need to re-consent to our conditions. Read more about "
+
+#: src/components/feed/StudySetCardOptions.tsx:52
+#: src/components/study-sets/StudySetDetailsHeader.tsx:54
+msgid "You will loose a part of your vocabulary collection. This action cannot be undone."
+msgstr "You will loose a part of your vocabulary collection. This action cannot be undone."
+
+#: src/components/feed/QuizCardOptions.tsx:47
+msgid "You will no longer be able to play this particular one, however you can always generate more!"
+msgstr "You will no longer be able to play this particular one, however you can always generate more!"
+
+#: src/navigation/modals/SubscriptionCancelModal.tsx:32
+msgid "You're about to cancel your subscription and loose access to the application. You won't be able to effectively study with AI in Linkoglot. Don't give up!"
+msgstr "You're about to cancel your subscription and loose access to the application. You won't be able to effectively study with AI in Linkoglot. Don't give up!"
+
+#: src/navigation/modals/SignOutModal.tsx:33
+msgid "You're about to risk loosing your streak and staying committed to your goals! Remember, always keep grinding!"
+msgstr "You're about to risk loosing your streak and staying committed to your goals! Remember, always keep grinding!"
+
+#: src/hooks/study-sets/useCreateStudySet.ts:53
+msgid "You've created a new study set!"
+msgstr "You've created a new study set!"
+
+#: src/hooks/quizes/useDeleteQuiz.ts:38
+msgid "You've deleted the quiz!"
+msgstr "You've deleted the quiz!"
+
+#: src/hooks/study-sets/useDeleteStudySet.ts:38
+msgid "You've deleted the study set!"
+msgstr "You've deleted the study set!"
+
+#: src/hooks/study-sets/useEditStudySet.ts:40
+msgid "You've edited the study set!"
+msgstr "You've edited the study set!"
+
+#: src/services/quests/listenQuests.tsx:62
+msgid "You've just finished \"{title}\""
+msgstr "You've just finished \"{title}\""
+
+#: src/hooks/reports/useCreateReport.ts:56
+msgid "You've just helped us improve! Thank you!"
+msgstr "You've just helped us improve! Thank you!"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:43
+msgid "You've successfully invested money into your language learning aspirations!"
+msgstr "You've successfully invested money into your language learning aspirations!"
+
+#: src/components/study-sets/ImportFlashcardsFormData.tsx:44
+msgid "Your data"
+msgstr "Your data"
+
+#: src/hooks/profiles/useProfileExportData.ts:33
+msgid "Your data has been exported!"
+msgstr "Your data has been exported!"
+
+#: src/hooks/operating-system/useSaveFile.ts:41
+msgid "Your file has been copied!"
+msgstr "Your file has been copied!"
+
+#: src/hooks/operating-system/useSaveFile.ts:57
+msgid "Your file has been saved!"
+msgstr "Your file has been saved!"
+
+#: src/hooks/operating-system/useSaveFile.ts:49
+msgid "Your file has been shared!"
+msgstr "Your file has been shared!"
+
+#: src/lib/zodSchemas.ts:177
+msgid "Your name cannot be longer than {MAX_USERNAME_LENGTH} characters"
+msgstr "Your name cannot be longer than {MAX_USERNAME_LENGTH} characters"
+
+#: src/lib/zodSchemas.ts:173
+msgid "Your name should be at least {MIN_USERNAME_LENGTH} characters long"
+msgstr "Your name should be at least {MIN_USERNAME_LENGTH} characters long"
+
+#: src/navigation/index.tsx:459
+msgid "Your new audio configuration won't be saved!"
+msgstr "Your new audio configuration won't be saved!"
+
+#: src/hooks/profiles/useUpdateProfile.ts:60
+msgid "Your new settings got saved! Nice!"
+msgstr "Your new settings got saved! Nice!"
+
+#: src/hooks/pictures/useSavePicture.ts:26
+msgid "Your picture has been saved!"
+msgstr "Your picture has been saved!"
+
+#: src/components/profile/Avatar.tsx:38
+msgid "Your profile picture"
+msgstr "Your profile picture"
+
+#: src/navigation/index.tsx:723
+msgid "Your progress will be lost"
+msgstr "Your progress will be lost"
+
+#: src/navigation/index.tsx:698
+msgid "Your progress will be saved up until you try editing an another study set"
+msgstr "Your progress will be saved up until you try editing an another study set"
+
+#: src/components/feed/StudyPlanStepsList.tsx:33
+msgid "Your study plan today (2/3)"
+msgstr "Your study plan today (2/3)"
+
+#: src/components/settings/AccountFormName.tsx:41
+msgid "Your username"
+msgstr "Your username"
+
+#: src/lib/locales.ts:75
+msgid "Zulu"
+msgstr "Zulu"

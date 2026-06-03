@@ -1,0 +1,3220 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-04-02 13:26+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ar\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/lib/constants.ts:19
+msgid "Sunday"
+msgstr "الأحد"
+
+#: src/lib/constants.ts:20
+msgid "Monday"
+msgstr "الاثنين"
+
+#: src/lib/constants.ts:21
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: src/lib/constants.ts:22
+msgid "Wednesday"
+msgstr "الخميس"
+
+#: src/lib/constants.ts:23
+msgid "Thursday"
+msgstr "الخميس"
+
+#: src/lib/constants.ts:24
+msgid "Friday"
+msgstr "الجمعة"
+
+#: src/lib/constants.ts:25
+msgid "Saturday"
+msgstr "سبت"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:118
+#. 2-letter abbreviation from 'month'
+msgid " / MO"
+msgstr " / MO"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:123
+#. 2-letter abbreviation from 'year'
+msgid " / YR"
+msgstr " / YR"
+
+#: src/services/auth/signInViaApple.ios.ts:37
+msgid " Please contact us immediately at {CONTACT_EMAIL}"
+msgstr " يرجى الاتصال بنا على الفور على {CONTACT_EMAIL}"
+
+#: src/navigation/modals/DarkModeModal.tsx:69
+#: src/navigation/modals/HapticsModal.tsx:68
+#: src/navigation/modals/PopUpsModal.tsx:84
+msgid "(Currently turned off)"
+msgstr "(قيد الإغلاق حاليًا)"
+
+#: src/navigation/modals/DarkModeModal.tsx:61
+#: src/navigation/modals/HapticsModal.tsx:60
+#: src/navigation/modals/PopUpsModal.tsx:76
+msgid "(Currently turned on)"
+msgstr "(قيد التشغيل حاليًا)"
+
+#: src/services/day-streaks/listenDayStreaks.tsx:41
+msgid "{dayStreak} day streak and counting! Keep it up!"
+msgstr "{dayStreak} day streak and counting! Keep it up!"
+
+#: src/components/quests/ChallengeBadges.tsx:46
+#: src/components/quiz-settings/StartButton.tsx:85
+msgid "{estimatedTimeMinutes} mins"
+msgstr "{estimatedTimeMinutes} mins"
+
+#: src/components/settings/VoicesPicker.tsx:40
+#: src/components/settings/VoicesPicker.tsx:74
+#: src/components/settings/VoicesPicker.tsx:75
+#. (Language) voices, e.g. English voices, French voices etc.
+msgid "{languageLabel} voices"
+msgstr "{languageLabel} voices"
+
+#: src/components/feed/QuizCardQuestionsCount.tsx:28
+msgid "{questionsCount} questions"
+msgstr "{questionsCount} أسئلة"
+
+#: src/components/feed/QuizCardEstimatedTime.tsx:26
+msgid "{timeMinutes} minutes"
+msgstr "{timeMinutes} دقائق"
+
+#: src/components/profile/TotalTimeSpent.tsx:29
+msgid "{value} min"
+msgstr "{value} min"
+
+#: src/components/profile/TotalTimeSpent.tsx:31
+msgid "{value} mins"
+msgstr "{value} mins"
+
+#: src/components/profile/TotalTimeSpent.tsx:35
+msgid "{value}h"
+msgstr "{value}س"
+
+#: src/components/profile/TotalTimeSpent.tsx:25
+msgid "{value}s"
+msgstr "{value}s"
+
+#: src/components/feed/StudySetCardWordsCount.tsx:28
+#: src/components/quests/ChallengeBadges.tsx:35
+msgid "{wordsCount} words"
+msgstr "{wordsCount} words"
+
+#: src/components/profile/TotalTimeSpent.tsx:23
+msgid "< 1s"
+msgstr "< 1s"
+
+#: src/components/quests/ChallengeBadges.tsx:43
+#: src/components/quiz-settings/StartButton.tsx:82
+msgid "<1 min"
+msgstr "<1 دقيقة"
+
+#: src/components/quiz-settings/TimeLimit.tsx:25
+msgid "∞  Unlimited"
+msgstr "∞  غير محدود"
+
+#: src/components/quests/ChallengeBadges.tsx:44
+#: src/components/quiz-settings/StartButton.tsx:83
+msgid "1 min"
+msgstr "1 دقيقة"
+
+#: src/components/feed/QuizCardEstimatedTime.tsx:24
+msgid "1 minute"
+msgstr "دقيقة واحدة"
+
+#: src/components/feed/QuizCardQuestionsCount.tsx:26
+msgid "1 question"
+msgstr "سؤال واحد"
+
+#: src/components/feed/StudySetCardWordsCount.tsx:26
+#: src/components/quests/ChallengeBadges.tsx:33
+msgid "1 word"
+msgstr "واحد"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:31
+msgid "10 questions"
+msgstr "10 أسئلة"
+
+#: src/components/quiz-settings/TimeLimit.tsx:33
+msgid "15 seconds"
+msgstr "15 ثانية"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:35
+msgid "20 questions"
+msgstr "20 سؤالًا"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:39
+msgid "30 questions"
+msgstr "30 سؤالًا"
+
+#: src/components/quiz-settings/TimeLimit.tsx:37
+msgid "30 seconds"
+msgstr "30 ثانية"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:27
+msgid "5 questions"
+msgstr "5 أسئلة"
+
+#: src/components/quiz-settings/TimeLimit.tsx:29
+msgid "5 seconds"
+msgstr "5 ثواني"
+
+#: src/components/quiz-settings/TimeLimit.tsx:41
+msgid "60 seconds"
+msgstr "60 ثانية"
+
+#: src/components/quests/ChallengeHeader.tsx:18
+msgid "A challenge is ready!"
+msgstr "المهمة جاهزة!"
+
+#: src/navigation/index.tsx:362
+#: src/navigation/modals/SettingsModal.tsx:53
+msgid "Account"
+msgstr "حساب"
+
+#: src/components/study-sessions/FinishedStatistics.tsx:52
+#. Accuracy of correct answers
+msgid "Accuracy"
+msgstr "Accuracy"
+
+#: src/components/profile/Achievements.tsx:35
+#: src/navigation/index.tsx:343
+msgid "Achievements"
+msgstr "الإنجازات"
+
+#: src/components/library/LibrarySearch.tsx:120
+msgid "Add"
+msgstr "إضافة"
+
+#: src/components/study-sets/AddFlashcardButton.tsx:19
+msgid "Add another"
+msgstr "إضافة آخر"
+
+#: src/components/study-sets/EditableFlashcardAddButton.tsx:22
+msgid "Add new flashcard"
+msgstr "إضافة بطاقة جديدة"
+
+#: src/lib/locales.ts:23
+msgid "Afghanistan"
+msgstr "أفغانستان"
+
+#: src/lib/locales.ts:6
+msgid "Afrikaans"
+msgstr "الأفريقانية"
+
+#: src/components/feed/StudySetCard.tsx:50
+#. Enhanced by artificial intelligence
+msgid "AI enhanced"
+msgstr "AI enhanced"
+
+#: src/components/quiz-settings/AiPrompt.tsx:29
+#: src/components/quiz-settings/AiPrompt.tsx:45
+msgid "AI prompt"
+msgstr "مطالبة الذكاء الاصطناعي"
+
+#: src/navigation/index.tsx:802
+msgid "AI Prompt"
+msgstr "مطالبة الذكاء الاصطناعي"
+
+#: src/lib/locales.ts:62
+msgid "Albania"
+msgstr "ألبانيا"
+
+#: src/lib/locales.ts:62
+msgid "Albanian"
+msgstr "الألبانية"
+
+#: src/navigation/modals/ExportDataModal.tsx:26
+msgid "All the information Linkoglot stores about you"
+msgstr "جميع المعلومات التي يخزنها Linkoglot عنك"
+
+#: src/components/onboarding/CongratulationsFooter.tsx:25
+msgid "Already have an account? <0>Sign in</0>"
+msgstr "لديك حساب بالفعل؟ <0>تسجيل الدخول</0>"
+
+#: src/components/onboarding/SubscriptionFooter.tsx:41
+msgid "Already subscribed"
+msgstr "مشترك بالفعل"
+
+#: src/navigation/modals/SubscriptionModal.tsx:95
+msgid "Amount due"
+msgstr "المبلغ المستحق"
+
+#: src/navigation/modals/ImportFlashcardsModal.tsx:108
+msgid "Amount of flashcards detected: {detectedFlashcardsCount}"
+msgstr "عدد البطاقات المكتشفة: {detectedFlashcardsCount}"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:99
+msgid "Amount of total questions"
+msgstr "عدد الأسئلة الإجمالي"
+
+#: src/navigation/screens/ChallengeFinishedScreen.tsx:58
+#: src/navigation/screens/QuizFinishedScreen.tsx:50
+msgid "An another session of learning in the books. Be proud!"
+msgstr "جلسة تعلم أخرى في السجل. كن فخوراً!"
+
+#: src/components/study-sets/EditableFlashcardNativeExplanation.tsx:40
+msgid "An object or round fruit (noun)."
+msgstr "جسم أو فاكهة مستديرة (اسم)."
+
+#: src/components/taken-picture/AnalyzeButton.tsx:25
+msgid "Analyze"
+msgstr "تحليل"
+
+#: src/navigation/index.tsx:525
+msgid "Analyzed Picture"
+msgstr "صورة محللة"
+
+#: src/lib/locales.ts:13
+msgid "Andorra"
+msgstr "أندورا"
+
+#: src/lib/locales.ts:57
+msgid "Angola"
+msgstr "أنغولا"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:36
+msgid "Anki"
+msgstr "Anki"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:103
+msgid "Annually"
+msgstr "سنوياً"
+
+#: src/components/profile/Avatar.tsx:47
+#: src/components/profile/NameInfo.tsx:28
+#: src/components/study-sets/StudySetDetailsHeader.tsx:108
+msgid "Anonymous"
+msgstr "مجهول"
+
+#: src/components/quiz/TopChangeMode.tsx:96
+#: src/components/quiz/TopChangeMode.tsx:122
+msgid "Answering mode"
+msgstr "وضع الإجابة"
+
+#: src/components/profile/ProfileRank.tsx:17
+msgid "Apprentice"
+msgstr "متدرب"
+
+#: src/lib/locales.ts:7
+msgid "Arabic"
+msgstr "العربية"
+
+#: src/navigation/index.tsx:722
+msgid "Are you sure you want to cancel this edit?"
+msgstr "هل أنت متأكد أنك تريد إلغاء هذا التعديل؟"
+
+#: src/components/feed/QuizCardOptions.tsx:46
+msgid "Are you sure you want to delete this quiz?"
+msgstr "هل أنت متأكد أنك تريد حذف هذا الاختبار؟"
+
+#: src/components/feed/StudySetCardOptions.tsx:51
+#: src/components/study-sets/SetFormDeleteButton.tsx:53
+#: src/components/study-sets/StudySetDetailsHeader.tsx:53
+msgid "Are you sure you want to delete this study set?"
+msgstr "هل أنت متأكد أنك تريد حذف مجموعة الدراسة هذه؟"
+
+#: src/navigation/modals/DeleteAccountModal.tsx:34
+msgid "Are you sure you want to delete your account?"
+msgstr "هل أنت متأكد أنك تريد حذف حسابك؟"
+
+#: src/navigation/index.tsx:458
+msgid "Are you sure you want to discard your changes?"
+msgstr "هل أنت متأكد أنك تريد تجاهل تغييراتك؟"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:40
+msgid "Are you sure you want to erase your progress?"
+msgstr "هل أنت متأكد أنك تريد مسح تقدمك؟"
+
+#: src/navigation/modals/SignOutModal.tsx:30
+msgid "Are you sure you want to sign out?"
+msgstr "هل أنت متأكد أنك تريد تسجيل الخروج؟"
+
+#: src/navigation/modals/SubscriptionCancelModal.tsx:29
+msgid "Are you sure you want to stop learning?"
+msgstr "هل أنت متأكد أنك تريد إيقاف التعلم؟"
+
+#: src/lib/locales.ts:20
+msgid "Argentina"
+msgstr "الأرجنتين"
+
+#: src/lib/locales.ts:33
+msgid "Armenia"
+msgstr "أرمينيا"
+
+#: src/lib/locales.ts:33
+msgid "Armenian"
+msgstr "الأرمنية"
+
+#: src/navigation/modals/SettingsModal.tsx:102
+msgid "Audio"
+msgstr "صوت"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:33
+#: src/navigation/modals/AudioFeedbackModal.tsx:57
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:107
+msgid "Audio feedback"
+msgstr "تعليق صوتي"
+
+#: src/navigation/index.tsx:452
+msgid "Audio Feedback"
+msgstr "تعليق صوتي"
+
+#: src/lib/locales.ts:19
+msgid "Australia"
+msgstr "أستراليا"
+
+#: src/lib/locales.ts:17
+msgid "Austria"
+msgstr "النمسا"
+
+#: src/lib/locales.ts:8
+msgid "Azerbaijan"
+msgstr "أذربيجان"
+
+#: src/lib/locales.ts:8
+msgid "Azerbaijani"
+msgstr "الأذربيجانية"
+
+#: src/lib/locales.ts:11
+msgid "Bangladesh"
+msgstr "بنغلاديش"
+
+#: src/lib/locales.ts:22
+msgid "Basque"
+msgstr "الباسكية"
+
+#: src/components/feed/QuizCardFinishedBadge.tsx:47
+msgid "Beat"
+msgstr "هزيمة"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:46
+msgid "Beat a challenge ⚔️"
+msgstr "اهزم تحدياً ⚔️"
+
+#: src/components/quests/Challenge.tsx:43
+msgid "Beat it!"
+msgstr "اهزمه!"
+
+#: src/lib/locales.ts:9
+#: src/lib/locales.ts:59
+msgid "Belarus"
+msgstr "بيلاروسيا"
+
+#: src/lib/locales.ts:9
+msgid "Belarusian"
+msgstr "البيلاروسية"
+
+#: src/lib/locales.ts:25
+#: src/lib/locales.ts:54
+msgid "Belgium"
+msgstr "بلجيكا"
+
+#: src/lib/locales.ts:11
+msgid "Bengali"
+msgstr "البنغالية"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:78
+msgid "Between cards"
+msgstr "بين البطاقات"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:32
+msgid "Between terms and definitions"
+msgstr "بين المصطلحات والتعريفات"
+
+#: src/lib/locales.ts:12
+#: src/lib/locales.ts:63
+msgid "Bosnia and Herzegovina"
+msgstr "البوسنة والهرسك"
+
+#: src/lib/locales.ts:12
+msgid "Bosnian"
+msgstr "البوسنية"
+
+#: src/lib/locales.ts:57
+msgid "Brazil"
+msgstr "البرازيل"
+
+#: src/lib/locales.ts:49
+msgid "Brunei"
+msgstr "بروناي"
+
+#: src/lib/locales.ts:10
+msgid "Bulgaria"
+msgstr "بلغاريا"
+
+#: src/lib/locales.ts:10
+msgid "Bulgarian"
+msgstr "البلغارية"
+
+#: src/lib/locales.ts:51
+msgid "Burmese"
+msgstr "البورمية"
+
+#: src/lib/locales.ts:40
+msgid "Cambodia"
+msgstr "كمبوديا"
+
+#: src/navigation/index.tsx:184
+msgid "Camera"
+msgstr "كاميرا"
+
+#: src/lib/locales.ts:19
+#: src/lib/locales.ts:25
+msgid "Canada"
+msgstr "كندا"
+
+#: src/components/ui/consent-dialog.tsx:163
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: src/components/onboarding/SubscriptionFooter.tsx:33
+msgid "Cancel anytime"
+msgstr "إلغاء في أي وقت"
+
+#: src/navigation/modals/SubscriptionModal.tsx:165
+msgid "Cancel subscription"
+msgstr "إلغاء الاشتراك"
+
+#: src/navigation/index.tsx:380
+msgid "Cancel Subscription"
+msgstr "إلغاء الاشتراك"
+
+#: src/lib/locales.ts:13
+msgid "Catalan"
+msgstr "الكتالانية"
+
+#: src/components/report/FormCategory.tsx:33
+#: src/components/report/FormCategory.tsx:59
+msgid "Category"
+msgstr "الفئة"
+
+#: src/components/quiz/TopHeader.tsx:79
+msgid "Challenge"
+msgstr "تحدي"
+
+#: src/components/feed/QuizCardOptions.tsx:77
+msgid "Challenge options"
+msgstr "خيارات التحدي"
+
+#: src/components/library/LibraryFilters.tsx:29
+msgid "Challenges"
+msgstr "التحديات"
+
+#: src/components/profile/StatisticsStudySetsCard.tsx:84
+#: src/components/profile/StatisticsWordsCard.tsx:84
+msgid "Challenges beat"
+msgstr "التحديات المهزومة"
+
+#: src/navigation/modals/SubscriptionChangePlanModal.tsx:122
+#: src/navigation/modals/SubscriptionModal.tsx:152
+msgid "Change plan"
+msgstr "تغيير الخطة"
+
+#: src/navigation/index.tsx:389
+msgid "Change Subscription"
+msgstr "تغيير الاشتراك"
+
+#: src/components/quiz/QuizCheckButton.tsx:30
+msgid "Check!"
+msgstr "تحقق!"
+
+#: src/lib/locales.ts:74
+msgid "China"
+msgstr "الصين"
+
+#: src/lib/locales.ts:74
+msgid "Chinese"
+msgstr "الصينية"
+
+#: src/navigation/sheets/ShareFlashcardsOptionsSheet.tsx:76
+msgid "Choose to message your friends or download a file with your flashcards!"
+msgstr "اختر مراسلة أصدقائك أو تحميل ملف ببطاقاتك!"
+
+#: src/components/onboarding/CongratulationsTopButtons.tsx:48
+msgid "Clear all settings"
+msgstr "مسح جميع الإعدادات"
+
+#: src/components/onboarding/CongratulationsTopButtons.tsx:58
+msgid "Cleared all settings and signed out!"
+msgstr "تم مسح جميع الإعدادات وتسجيل الخروج!"
+
+#: src/components/quiz/TopQuitButton.tsx:19
+msgid "Close quiz"
+msgstr "إغلاق الاختبار"
+
+#: src/components/library/LibrarySort.tsx:97
+msgid "Closest to mastery"
+msgstr "الأقرب للإتقان"
+
+#: src/components/study-sets/EditableFlashcardCollapseButton.tsx:21
+msgid "Collapse extra flashcard options"
+msgstr "طي خيارات البطاقة الإضافية"
+
+#: src/lib/locales.ts:20
+msgid "Colombia"
+msgstr "كولومبيا"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:62
+msgid "Comma"
+msgstr "فاصلة"
+
+#: src/components/ui/consent-dialog.tsx:150
+msgid "Confirm and continue"
+msgstr "تأكيد ومتابعة"
+
+#: src/hooks/utils/useConsent.ts:104
+msgid "Congratulations! You have successfully signed up for our analytics lol!"
+msgstr "تهانينا! لقد اشتركت بنجاح في تحليلاتنا لول!"
+
+#: src/hooks/utils/useConsent.ts:71
+msgid ""
+"Congratulations! You have successfully signed up for our promotional "
+"marketing!"
+msgstr "تهانينا! لقد اشتركت بنجاح في تسويقنا الترويجي!"
+
+#: src/navigation/screens/ChallengeFinishedScreen.tsx:53
+msgid "Congratulations! You've finished the challenge!"
+msgstr "تهانينا! لقد أنهيت التحدي!"
+
+#: src/navigation/screens/QuizFinishedScreen.tsx:47
+msgid "Congratulations! You've finished the quiz!"
+msgstr "تهانينا! لقد أنهيت الاختبار!"
+
+#: src/services/achievements/listenAchievements.ts:55
+msgid "Congratulations! You've just earned the \"{title}\" achievement!"
+msgstr "تهانينا! لقد حصلت للتو على إنجاز \"{title}\"!"
+
+#: src/components/ui/consent-analytics-checkbox.tsx:31
+msgid "Consent to optional analytics checkbox"
+msgstr "الموافقة على مربع التحليلات الاختيارية"
+
+#: src/components/ui/consent-marketing-checkbox.tsx:31
+msgid "Consent to optional marketing checkbox"
+msgstr "الموافقة على مربع التسويق الاختياري"
+
+#: src/components/ui/consent-required-checkbox.tsx:34
+msgid "Consent to required checkbox"
+msgstr "الموافقة على مربع الاختيار الإلزامي"
+
+#: src/components/settings/AccountOptionalConsent.tsx:18
+msgid "Consentual agreements"
+msgstr "اتفاقيات الموافقة"
+
+#: src/hooks/utils/useConsent.ts:78
+#: src/hooks/utils/useConsent.ts:111
+msgid ""
+"Consider consenting to our promotional marketing again to always be up to "
+"date!"
+msgstr "فكر في الموافقة على تسويقنا الترويجي مرة أخرى لتكون دائماً على اطلاع!"
+
+#: src/hooks/auth/useDeleteAccount.ts:35
+msgid "Consider signing up again to reach your goals in language learning!"
+msgstr "فكر في الاشتراك مرة أخرى للوصول إلى أهدافك في تعلم اللغة!"
+
+#: src/navigation/modals/SettingsModal.tsx:148
+#: src/navigation/screens/NotFoundScreen.tsx:37
+msgid "Contact Request"
+msgstr "طلب اتصال"
+
+#: src/navigation/modals/SettingsModal.tsx:145
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: src/components/onboarding/BottomButtons.tsx:43
+#: src/contexts/OnboardingContext.tsx:145
+#: src/contexts/OnboardingContext.tsx:153
+msgid "Continue"
+msgstr "متابعة"
+
+#: src/hooks/utils/useCopyToClipboard.ts:30
+msgid "Copied the text to your clipboard!"
+msgstr "تم نسخ النص إلى الحافظة!"
+
+#: src/navigation/sheets/ShareFlashcardsOptionsSheet.tsx:36
+msgid "Copy or send"
+msgstr "نسخ أو إرسال"
+
+#: src/components/quiz/CorrectAnswerResult.tsx:30
+msgid "Correct Answer"
+msgstr "إجابة صحيحة"
+
+#: src/components/quiz/WrongAnswerResult.tsx:49
+msgid "Correct: {correctAnswer}"
+msgstr "الصحيح: {correctAnswer}"
+
+#: src/navigation/modals/SubscriptionModal.tsx:102
+msgid "Couldn't retrieve the billing..."
+msgstr "تعذر استرداد الفوترة..."
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:64
+msgid "Create flashcards!"
+msgstr "أنشئ بطاقات تعليمية!"
+
+#: src/components/study-sets/SetFormSubmit.tsx:76
+msgid "Create study set!"
+msgstr "أنشئ مجموعة دراسية!"
+
+#: src/components/feed/LibraryListNothingCreated.tsx:20
+msgid "Create your personalized study sets and expand on your vocabulary right now!"
+msgstr "أنشئ مجموعاتك الدراسية المخصصة ووسّع مفرداتك الآن!"
+
+#: src/lib/locales.ts:31
+msgid "Croatia"
+msgstr "كرواتيا"
+
+#: src/lib/locales.ts:31
+msgid "Croatian"
+msgstr "الكرواتية"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:53
+msgid "CSV"
+msgstr "CSV"
+
+#: src/navigation/modals/SubscriptionChangePlanModal.tsx:84
+msgid "Current"
+msgstr "الحالي"
+
+#: src/navigation/modals/NotificationsModal.tsx:123
+msgid "Currently turned off"
+msgstr "مُعطّل حالياً"
+
+#: src/navigation/modals/NotificationsModal.tsx:121
+msgid "Currently turned on"
+msgstr "مُفعّل حالياً"
+
+#: src/components/study-sets/ImportFlashcardsFormCustomSeparator.tsx:36
+msgid "Custom..."
+msgstr "مخصص..."
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:49
+msgid "Customizable AI quizes and study sets"
+msgstr "اختبارات ومجموعات دراسية بالذكاء الاصطناعي قابلة للتخصيص"
+
+#: src/lib/locales.ts:18
+#: src/lib/locales.ts:69
+msgid "Cyprus"
+msgstr "قبرص"
+
+#: src/lib/locales.ts:14
+msgid "Czech"
+msgstr "التشيكية"
+
+#: src/lib/locales.ts:14
+msgid "Czech Republic"
+msgstr "جمهورية التشيك"
+
+#: src/services/quests/listenQuests.tsx:61
+msgid "Daily"
+msgstr "يومي"
+
+#: src/components/quests/QuestsTabPage.tsx:54
+msgid "Daily Quests"
+msgstr "مهام يومية"
+
+#: src/lib/locales.ts:16
+msgid "Danish"
+msgstr "الدنماركية"
+
+#: src/navigation/index.tsx:407
+#: src/navigation/modals/SettingsModal.tsx:112
+msgid "Dark Mode"
+msgstr "الوضع الداكن"
+
+#: src/lib/zodSchemas.ts:135
+msgid "Data cannot be longer than {MAX_IMPORT_FLASHCARDS_DATA_LENGTH} characters"
+msgstr "لا يمكن أن تتجاوز البيانات {MAX_IMPORT_FLASHCARDS_DATA_LENGTH} حرفاً"
+
+#: src/lib/zodSchemas.ts:128
+msgid "Data is missing!"
+msgstr "البيانات مفقودة!"
+
+#: src/lib/zodSchemas.ts:131
+msgid "Data should be at least {MIN_IMPORT_FLASHCARDS_DATA_LENGTH} characters long"
+msgstr "يجب أن تكون البيانات {MIN_IMPORT_FLASHCARDS_DATA_LENGTH} حرفاً على الأقل"
+
+#: src/components/quests/Quests.tsx:34
+msgid "day"
+msgstr "يوم"
+
+#: src/components/day-streak/DayStreaksList.tsx:33
+msgid "Day streak"
+msgstr "سلسلة الأيام"
+
+#: src/components/quests/Quests.tsx:35
+msgid "days"
+msgstr "أيام"
+
+#: src/components/study-sets/EditableFlashcardForeignMsg.tsx:32
+msgid "Definition"
+msgstr "التعريف"
+
+#: src/lib/zodSchemas.ts:87
+msgid ""
+"Definition cannot be longer than {MAX_FLASHCARD_FOREIGN_MSG_LENGTH} "
+"characters"
+msgstr "لا يمكن أن يتجاوز التعريف {MAX_FLASHCARD_FOREIGN_MSG_LENGTH} حرفاً"
+
+#: src/lib/zodSchemas.ts:79
+msgid "Definition is missing!"
+msgstr "التعريف مفقود!"
+
+#: src/lib/zodSchemas.ts:83
+msgid ""
+"Definition should be at least {MIN_FLASHCARD_FOREIGN_MSG_LENGTH} characters "
+"long"
+msgstr "يجب أن يكون التعريف {MIN_FLASHCARD_FOREIGN_MSG_LENGTH} حرفاً على الأقل"
+
+#: src/components/feed/QuizCardOptions.tsx:94
+#: src/components/feed/StudySetCardOptions.tsx:97
+msgid "Delete"
+msgstr "حذف"
+
+#: src/navigation/index.tsx:494
+#: src/navigation/modals/SettingsModal.tsx:181
+msgid "Delete Account"
+msgstr "حذف الحساب"
+
+#: src/components/study-sets/EditableFlashcardDeleteButton.tsx:22
+msgid "Delete flashcard"
+msgstr "حذف البطاقة التعليمية"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:68
+#: src/components/study-sets/StudySetDetailsHeader.tsx:95
+msgid "Delete study set"
+msgstr "حذف المجموعة الدراسية"
+
+#: src/lib/locales.ts:16
+msgid "Denmark"
+msgstr "الدنمارك"
+
+#: src/components/report/FormDescription.tsx:26
+msgid "Description"
+msgstr "الوصف"
+
+#: src/lib/zodSchemas.ts:212
+msgid "Description cannot be longer than {MAX_REPORT_DESCRIPTION_LENGTH} characters"
+msgstr "لا يمكن أن يتجاوز الوصف {MAX_REPORT_DESCRIPTION_LENGTH} حرفاً"
+
+#: src/lib/zodSchemas.ts:204
+msgid "Description is missing!"
+msgstr "الوصف مفقود!"
+
+#: src/lib/zodSchemas.ts:208
+msgid ""
+"Description should be at least {MIN_REPORT_DESCRIPTION_LENGTH} characters "
+"long"
+msgstr "يجب أن يكون الوصف {MIN_REPORT_DESCRIPTION_LENGTH} حرفاً على الأقل"
+
+#: src/navigation/index.tsx:485
+#: src/navigation/modals/SettingsModal.tsx:169
+msgid "Developer Debug"
+msgstr "تصحيح المطور"
+
+#: src/components/flashcards/FlashcardsCarousel.tsx:126
+msgid "Didn't remember"
+msgstr "لم أتذكر"
+
+#: src/components/quiz-settings/Difficulty.tsx:59
+msgid "Difficulty"
+msgstr "الصعوبة"
+
+#: src/navigation/modals/DarkModeModal.tsx:58
+#: src/navigation/modals/HapticsModal.tsx:57
+#: src/navigation/modals/PopUpsModal.tsx:73
+msgid "Disable "
+msgstr "تعطيل "
+
+#: src/navigation/index.tsx:551
+#: src/navigation/modals/SettingsModal.tsx:59
+#. The application's display language
+msgid "Display Language"
+msgstr "Display Language"
+
+#: src/navigation/index.tsx:697
+msgid "Do you want to stop creating this study set?"
+msgstr "هل تريد التوقف عن إنشاء هذه المجموعة الدراسية؟"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:65
+msgid "Don't show again"
+msgstr "لا تُظهر مرة أخرى"
+
+#: src/components/study-sets/ExportFlashcardsFormSubmit.tsx:45
+msgid "Download file!"
+msgstr "حمّل الملف!"
+
+#: src/lib/locales.ts:54
+msgid "Dutch"
+msgstr "الهولندية"
+
+#: src/components/settings/AccountFormName.tsx:40
+msgid "e.g. Matthew"
+msgstr "مثلاً ماثيو"
+
+#: src/components/quiz-settings/Difficulty.tsx:22
+msgid "Easy"
+msgstr "سهل"
+
+#: src/components/feed/StudySetCardOptions.tsx:112
+msgid "Edit"
+msgstr "تعديل"
+
+#: src/components/study-sets/SetFormSubmit.tsx:78
+#: src/components/study-sets/StudySetDetailsHeader.tsx:84
+#: src/navigation/index.tsx:716
+msgid "Edit study set"
+msgstr "تعديل المجموعة الدراسية"
+
+#: src/lib/locales.ts:7
+msgid "Egypt"
+msgstr "مصر"
+
+#: src/components/ui/login-email-form.tsx:35
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: src/navigation/modals/DarkModeModal.tsx:66
+#: src/navigation/modals/HapticsModal.tsx:65
+#: src/navigation/modals/PopUpsModal.tsx:81
+msgid "Enable "
+msgstr "تفعيل "
+
+#: src/components/camera/RequestPermission.tsx:37
+msgid "Enable camera"
+msgstr "تفعيل الكاميرا"
+
+#: src/components/quests/ChallengeEmpty.tsx:33
+msgid "Enable notifications in the settings to not miss it when it's created!"
+msgstr "فعّل الإشعارات في الإعدادات حتى لا تفوتك عند إنشائها!"
+
+#: src/components/quiz/TopToggleTTS.tsx:37
+msgid "Enable Text to Speech"
+msgstr "تفعيل تحويل النص إلى كلام"
+
+#: src/lib/locales.ts:19
+msgid "English"
+msgstr "الإنجليزية"
+
+#: src/lib/locales.ts:21
+msgid "Estonia"
+msgstr "إستونيا"
+
+#: src/lib/locales.ts:21
+msgid "Estonian"
+msgstr "الإستونية"
+
+#: src/components/study-sets/EditableFlashcardForeignExample.tsx:32
+#: src/components/study-sets/EditableFlashcardNativeExample.tsx:32
+msgid "Example"
+msgstr "مثال"
+
+#: src/lib/zodSchemas.ts:113
+msgid ""
+"Example cannot be longer than {MAX_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} "
+"characters"
+msgstr "لا يمكن أن يتجاوز المثال {MAX_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} حرفاً"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:126
+msgid "Example sentence"
+msgstr "جملة مثال"
+
+#: src/lib/zodSchemas.ts:109
+msgid ""
+"Example should be at least {MIN_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} "
+"characters long"
+msgstr "يجب أن يكون المثال {MIN_FLASHCARD_EXAMPLE_SENTENCE_LENGTH} حرفاً على الأقل"
+
+#: src/components/profile/ProfileRank.tsx:29
+msgid "Expert"
+msgstr "خبير"
+
+#: src/components/study-sets/EditableFlashcardForeignExplanation.tsx:32
+#: src/components/study-sets/EditableFlashcardNativeExplanation.tsx:32
+msgid "Explanation"
+msgstr "الشرح"
+
+#: src/lib/zodSchemas.ts:99
+msgid ""
+"Explanation cannot be longer than "
+"{MAX_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} characters"
+msgstr "لا يمكن أن يتجاوز الشرح {MAX_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} حرفاً"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:147
+msgid "Explanation sentence"
+msgstr "جملة شرح"
+
+#: src/lib/zodSchemas.ts:95
+msgid ""
+"Explanation should be at least {MIN_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} "
+"characters long"
+msgstr ""
+"يجب أن يكون الشرح {MIN_FLASHCARD_EXPLANATION_SENTENCE_LENGTH} حرفاً على "
+"الأقل"
+
+#: src/navigation/sheets/ShareFlashcardsOptionsSheet.tsx:55
+msgid "Export as file"
+msgstr "تصدير كملف"
+
+#: src/navigation/index.tsx:443
+#: src/navigation/modals/SettingsModal.tsx:164
+msgid "Export Data"
+msgstr "تصدير البيانات"
+
+#: src/navigation/index.tsx:777
+msgid "Export flashcards"
+msgstr "تصدير البطاقات التعليمية"
+
+#: src/services/operating-system/saveFile.ts:20
+msgid "exported data"
+msgstr "البيانات المُصدّرة"
+
+#: src/hooks/quizes/useCreateQuiz.ts:87
+msgid "Fine-tuning diffculty..."
+msgstr "ضبط الصعوبة..."
+
+#: src/components/onboarding/FinishSlide.tsx:36
+#: src/components/quiz/QuizCheckButton.tsx:35
+#: src/components/quiz/QuizResultButton.tsx:24
+#: src/contexts/OnboardingContext.tsx:172
+msgid "Finish"
+msgstr "إنهاء"
+
+#: src/components/feed/QuizCardFinishedBadge.tsx:48
+msgid "Finished"
+msgstr "تم الإنهاء"
+
+#: src/navigation/index.tsx:669
+msgid "Finished challenge"
+msgstr "تحدي منتهي"
+
+#: src/navigation/index.tsx:646
+msgid "Finished quiz"
+msgstr "اختبار منتهي"
+
+#: src/lib/locales.ts:24
+#: src/lib/locales.ts:64
+msgid "Finland"
+msgstr "فنلندا"
+
+#: src/lib/locales.ts:24
+msgid "Finnish"
+msgstr "الفنلندية"
+
+#: src/components/study-sets/EditableFlashcardForeignMsg.tsx:41
+msgid "Flashcard definition in {learningLanguageLabel}"
+msgstr "تعريف البطاقة التعليمية بـ{learningLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardNativeExample.tsx:41
+msgid "Flashcard example for {displayLanguageLabel}"
+msgstr "مثال البطاقة التعليمية بـ{displayLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardForeignExample.tsx:41
+msgid "Flashcard example for {learningLanguageLabel}"
+msgstr "مثال بطاقة تعليمية لـ {learningLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardNativeExplanation.tsx:41
+msgid "Flashcard explanation for {displayLanguageLabel}"
+msgstr "شرح البطاقة التعليمية لـ {displayLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardForeignExplanation.tsx:41
+msgid "Flashcard explanation for {learningLanguageLabel}"
+msgstr "شرح البطاقة التعليمية لـ {learningLanguageLabel}"
+
+#: src/components/study-sets/EditableFlashcardNativeMsg.tsx:41
+msgid "Flashcard term in {displayLanguageLabel}"
+msgstr "مصطلح البطاقة التعليمية بـ {displayLanguageLabel}"
+
+#: src/components/study-sets/ExportFlashcardsFormSubmit.tsx:33
+#: src/components/study-sets/PlayingOptionsList.tsx:25
+msgid "Flashcards"
+msgstr "بطاقات تعليمية"
+
+#: src/navigation/index.tsx:569
+msgid "Flashcards experience"
+msgstr "تجربة البطاقات التعليمية"
+
+#: src/components/study-sets/FlashcardsHorizontalPreviewCarousel.tsx:46
+msgid "Flashcards preview"
+msgstr "معاينة البطاقات التعليمية"
+
+#: src/components/quiz-settings/AiPrompt.tsx:44
+msgid "Focus on the verbs which..."
+msgstr "ركّز على الأفعال التي..."
+
+#: src/lib/locales.ts:22
+#: src/lib/locales.ts:25
+msgid "France"
+msgstr "فرنسا"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:58
+msgid "Freeplay 😎"
+msgstr "لعب حر 😎"
+
+#: src/lib/locales.ts:25
+msgid "French"
+msgstr "الفرنسية"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:81
+msgid "Front language"
+msgstr "لغة الواجهة"
+
+#: src/components/library/LibrarySort.tsx:110
+msgid "Furthest away to mastery"
+msgstr "الأبعد عن الإتقان"
+
+#: src/lib/locales.ts:27
+msgid "Galician"
+msgstr "الجاليكية"
+
+#: src/navigation/modals/SettingsModal.tsx:82
+msgid "General"
+msgstr "عام"
+
+#: src/components/ui/consent-dialog.tsx:88
+msgid "General Data Protection Regulation (GDPR) here.\n"
+msgstr "اللائحة العامة لحماية البيانات (GDPR) هنا.\n"
+
+#: src/components/study-sets/SetFormGenerateButton.tsx:40
+#: src/navigation/sheets/GenerateStudySetSheet.tsx:74
+#. Generate flashcards with artificial intelligence
+msgid "Generate"
+msgstr "Generate"
+
+#: src/navigation/sheets/GenerateStudySetSheet.tsx:46
+msgid "Generate study set with AI"
+msgstr "إنشاء مجموعة دراسية بالذكاء الاصطناعي"
+
+#: src/navigation/screens/QuizGeneratingScreen.tsx:15
+msgid "Generating"
+msgstr "جارٍ الإنشاء"
+
+#: src/hooks/quizes/useCreateQuiz.ts:85
+msgid "Generating questions..."
+msgstr "جارٍ إنشاء الأسئلة..."
+
+#: src/lib/locales.ts:38
+msgid "Georgia"
+msgstr "جورجيا"
+
+#: src/lib/locales.ts:38
+msgid "Georgian"
+msgstr "الجورجية"
+
+#: src/lib/locales.ts:17
+msgid "German"
+msgstr "الألمانية"
+
+#: src/lib/locales.ts:17
+msgid "Germany"
+msgstr "ألمانيا"
+
+#: src/contexts/OnboardingContext.tsx:134
+msgid "Get started"
+msgstr "ابدأ الآن"
+
+#: src/navigation/screens/QuizGeneratingScreen.tsx:20
+msgid "go back"
+msgstr "رجوع"
+
+#: src/components/horizontal-flow/HeaderProgress.tsx:28
+#: src/components/report/FormSubmit.tsx:46
+#: src/components/ui/loading-page.tsx:51
+#: src/navigation/modals/ExportDataModal.tsx:47
+#: src/navigation/modals/NotificationsModal.tsx:164
+#: src/navigation/modals/SubscriptionChangePlanModal.tsx:110
+msgid "Go back"
+msgstr "رجوع"
+
+#: src/navigation/modals/SubscriptionModal.tsx:176
+msgid "Go back!"
+msgstr "ارجع!"
+
+#: src/navigation/screens/ChallengeFinishedScreen.tsx:81
+#: src/navigation/screens/QuizFinishedScreen.tsx:73
+msgid "Go home"
+msgstr "الانتقال للرئيسية"
+
+#: src/components/day-streak/DayStreaksList.tsx:50
+msgid "Go learn!"
+msgstr "تعلّم!"
+
+#: src/navigation/screens/NotFoundScreen.tsx:19
+msgid "Go to Home"
+msgstr "الانتقال للرئيسية"
+
+#: src/navigation/screens/NotFoundScreen.tsx:25
+msgid "Go to Onboarding"
+msgstr "الانتقال للإعداد"
+
+#: src/navigation/tabs/QuestsTab.tsx:33
+msgid "Goals"
+msgstr "الأهداف"
+
+#: src/lib/locales.ts:18
+msgid "Greece"
+msgstr "اليونان"
+
+#: src/lib/locales.ts:18
+msgid "Greek"
+msgstr "اليونانية"
+
+#: src/lib/locales.ts:16
+msgid "Greenland"
+msgstr "غرينلاند"
+
+#: src/lib/locales.ts:28
+msgid "Gujarati"
+msgstr "الغوجاراتية"
+
+#: src/navigation/index.tsx:398
+#: src/navigation/modals/SettingsModal.tsx:107
+msgid "Haptics"
+msgstr "الاهتزازات اللمسية"
+
+#: src/navigation/modals/HapticsModal.tsx:34
+msgid ""
+"Haptics are subtle physical vibrations that provide you with immediate "
+"tactile feedback. We built this feature specifically with visually impaired "
+"users in mind."
+msgstr ""
+"الاهتزازات اللمسية هي اهتزازات فيزيائية دقيقة توفر لك ردود فعل لمسية فورية. "
+"صممنا هذه الميزة خصيصاً لضعاف البصر."
+
+#: src/components/quiz-settings/Difficulty.tsx:35
+#: src/components/quiz/TopHeader.tsx:68
+msgid "Hard"
+msgstr "صعب"
+
+#: src/components/settings/VoicesPicker.tsx:49
+msgid "Hear the {languageLabel} voice"
+msgstr "استمع لصوت {languageLabel}"
+
+#: src/lib/locales.ts:29
+msgid "Hebrew"
+msgstr "العبرية"
+
+#: src/navigation/modals/SubscriptionModal.tsx:139
+msgid "Help center"
+msgstr "مركز المساعدة"
+
+#: src/components/report/FormSubmit.tsx:55
+msgid "Help us improve!"
+msgstr "ساعدنا على التحسين!"
+
+#: src/hooks/utils/useSecretPress.ts:43
+msgid "Hid the secret! 😉"
+msgstr "أخفيت السر! 😉"
+
+#: src/lib/locales.ts:30
+msgid "Hindi"
+msgstr "الهندية"
+
+#: src/components/flashcards/HintButton.tsx:49
+#: src/components/quiz/HintButton.tsx:85
+msgid "Hint"
+msgstr "تلميح"
+
+#: src/navigation/index.tsx:204
+msgid "Home"
+msgstr "الرئيسية"
+
+#: src/components/quests/Quests.tsx:30
+msgid "hour"
+msgstr "ساعة"
+
+#: src/components/quests/Quests.tsx:31
+msgid "hours"
+msgstr "ساعات"
+
+#: src/lib/locales.ts:32
+msgid "Hungarian"
+msgstr "المجرية"
+
+#: src/lib/locales.ts:32
+msgid "Hungary"
+msgstr "المجر"
+
+#: src/components/ui/consent-required-checkbox.tsx:46
+msgid "I agree to the <0>Terms and Conditions</0> and <1>Privacy Policy</1>."
+msgstr "أوافق على <0>الشروط والأحكام</0> و <1>سياسة الخصوصية</1>."
+
+#: src/components/report/FormDescription.tsx:34
+msgid "I am experiencing..."
+msgstr "أواجه مشكلة..."
+
+#: src/navigation/modals/SubscriptionModal.tsx:133
+msgid "I need help with my subscription"
+msgstr "أحتاج مساعدة بشأن اشتراكي"
+
+#: src/lib/locales.ts:35
+msgid "Iceland"
+msgstr "آيسلندا"
+
+#: src/lib/locales.ts:35
+msgid "Icelandic"
+msgstr "الآيسلندية"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:33
+msgid "If this was unexpected, please contact us immediately at {CONTACT_EMAIL}"
+msgstr "إذا كان هذا غير متوقع، يرجى التواصل معنا فوراً على {CONTACT_EMAIL}"
+
+#: src/navigation/screens/NotFoundScreen.tsx:30
+msgid ""
+"If you are currently experiencing an issue, please contact us at "
+"<0><1>{CONTACT_EMAIL}</1></0>"
+msgstr ""
+"إذا كنت تواجه مشكلة حالياً، يرجى التواصل معنا على "
+"<0><1>{CONTACT_EMAIL}</1></0>"
+
+#: src/components/quiz/WritingSettings.tsx:84
+msgid "Ignore special characters"
+msgstr "تجاهل الأحرف الخاصة"
+
+#: src/components/study-sets/ImportFlashcardsFormData.tsx:56
+#: src/components/study-sets/SetFormImportButton.tsx:17
+#: src/navigation/index.tsx:787
+msgid "Import flashcards"
+msgstr "استيراد بطاقات تعليمية"
+
+#: src/navigation/index.tsx:764
+msgid "Import options"
+msgstr "خيارات الاستيراد"
+
+#: src/components/ui/consent-analytics-checkbox.tsx:48
+msgid ""
+"Improve the application by automatically sharing crash reports and usage "
+"performance."
+msgstr "حسّن التطبيق من خلال مشاركة تقارير الأعطال وأداء الاستخدام تلقائياً."
+
+#: src/navigation/modals/ExportDataModal.tsx:29
+msgid ""
+"In compliance with GDPR and our privacy policy, we can export all "
+"information associated with your account into a single file for you to "
+"review or download. We provide this feature to ensure total transparency "
+"regarding how your data is handled and stored!"
+msgstr ""
+"امتثالاً لـ GDPR وسياسة الخصوصية الخاصة بنا، يمكننا تصدير جميع المعلومات "
+"المرتبطة بحسابك في ملف واحد لمراجعته أو تحميله. نقدم هذه الميزة لضمان "
+"الشفافية الكاملة حول كيفية معالجة بياناتك وتخزينها!"
+
+#: src/lib/constants.ts:42
+msgid "Inappriopriate AI content"
+msgstr "محتوى ذكاء اصطناعي غير لائق"
+
+#: src/lib/locales.ts:11
+#: src/lib/locales.ts:28
+#: src/lib/locales.ts:30
+#: src/lib/locales.ts:41
+#: src/lib/locales.ts:46
+#: src/lib/locales.ts:48
+#: src/lib/locales.ts:53
+#: src/lib/locales.ts:55
+#: src/lib/locales.ts:66
+#: src/lib/locales.ts:67
+#: src/lib/locales.ts:71
+msgid "India"
+msgstr "الهند"
+
+#: src/lib/locales.ts:34
+msgid "Indonesia"
+msgstr "إندونيسيا"
+
+#: src/lib/locales.ts:34
+msgid "Indonesian"
+msgstr "الإندونيسية"
+
+#: src/components/quiz/TopProgress.tsx:31
+msgid "Infinite ∞"
+msgstr "لا نهائي ∞"
+
+#: src/components/quiz/QuizWriting.tsx:38
+msgid "Input to translate the quiz question"
+msgstr "أدخل لترجمة سؤال الاختبار"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:23
+msgid "Instant AI flashcards"
+msgstr "بطاقات تعليمية فورية بالذكاء الاصطناعي"
+
+#: src/lib/locales.ts:23
+msgid "Iran"
+msgstr "إيران"
+
+#: src/lib/locales.ts:26
+msgid "Ireland"
+msgstr "أيرلندا"
+
+#: src/lib/locales.ts:26
+msgid "Irish"
+msgstr "الأيرلندية"
+
+#: src/lib/locales.ts:29
+msgid "Israel"
+msgstr "إسرائيل"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:44
+msgid "It's a great choice you won't regret. We're glad to see you here!"
+msgstr "إنه اختيار رائع لن تندم عليه. يسعدنا وجودك هنا!"
+
+#: src/services/day-streaks/listenDayStreaks.tsx:50
+msgid "It's okay! You'll get it next time!"
+msgstr "لا بأس! ستنجح في المرة القادمة!"
+
+#: src/lib/locales.ts:36
+msgid "Italian"
+msgstr "الإيطالية"
+
+#: src/lib/locales.ts:36
+msgid "Italy"
+msgstr "إيطاليا"
+
+#: src/components/study-sets/SetFormTitle.tsx:34
+msgid "Items in my room..."
+msgstr "أغراض في غرفتي..."
+
+#: src/lib/locales.ts:37
+msgid "Japan"
+msgstr "اليابان"
+
+#: src/lib/locales.ts:37
+msgid "Japanese"
+msgstr "اليابانية"
+
+#: src/components/profile/AvatarInfo.tsx:51
+#. Joined the application (at e.g. 02.04.2026)
+msgid "Joined"
+msgstr "Joined"
+
+#: src/lib/locales.ts:41
+msgid "Kannada"
+msgstr "الكانادا"
+
+#: src/lib/locales.ts:39
+msgid "Kazakh"
+msgstr "الكازاخستانية"
+
+#: src/lib/locales.ts:39
+#: src/lib/locales.ts:59
+msgid "Kazakhstan"
+msgstr "كازاخستان"
+
+#: src/components/day-streak/DayStreaksList.tsx:52
+msgid "Keep going!"
+msgstr "استمر!"
+
+#: src/lib/locales.ts:65
+msgid "Kenya"
+msgstr "كينيا"
+
+#: src/lib/locales.ts:40
+msgid "Khmer"
+msgstr "الخميرية"
+
+#: src/lib/locales.ts:42
+msgid "Korean"
+msgstr "الكورية"
+
+#: src/lib/locales.ts:62
+msgid "Kosovo"
+msgstr "كوسوفو"
+
+#: src/components/onboarding/CongratulationsSlide.tsx:34
+msgid "Language learning made easy"
+msgstr "تعلم اللغات أصبح سهلاً"
+
+#: src/components/feed/LastStudyActivity.tsx:52
+msgid "Last activity"
+msgstr "آخر نشاط"
+
+#: src/components/library/LibrarySort.tsx:73
+msgid "Latest"
+msgstr "الأحدث"
+
+#: src/lib/locales.ts:44
+msgid "Latvia"
+msgstr "لاتفيا"
+
+#: src/lib/locales.ts:44
+msgid "Latvian"
+msgstr "اللاتفية"
+
+#: src/components/feed/StudySetCardOptions.tsx:127
+msgid "Learn"
+msgstr "تعلّم"
+
+#: src/components/feed/StudyPlanStepsList.tsx:17
+msgid "Learn 20 flashcards"
+msgstr "تعلّم 20 بطاقة تعليمية"
+
+#: src/navigation/modals/DarkModeModal.tsx:32
+msgid ""
+"Learn anywhere, at any time! Dark mode is perfect for late evenings to give "
+"your eyes a better rest."
+msgstr "تعلّم في أي مكان وأي وقت! الوضع الداكن مثالي للأمسيات المتأخرة لإراحة عينيك."
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:52
+msgid "Learn new words 🔥"
+msgstr "تعلّم كلمات جديدة 🔥"
+
+#: src/navigation/index.tsx:416
+#: src/navigation/modals/SettingsModal.tsx:123
+#. The language which the user selected in the application's preferences settings as the target language for learning from flashcards
+msgid "Learning Language"
+msgstr "Learning Language"
+
+#: src/components/feed/LibraryListNothingCreated.tsx:29
+msgid "Let's create!"
+msgstr "لنُنشئ!"
+
+#: src/components/profile/StatisticsExperienceCard.tsx:82
+#. Gamified user's level based on XP
+msgid "Level"
+msgstr "Level"
+
+#: src/navigation/modals/SubscriptionModal.tsx:66
+msgid "Linkoglot — Real Studying with AI"
+msgstr "Linkoglot — دراسة حقيقية مع الذكاء الاصطناعي"
+
+#: src/lib/locales.ts:43
+msgid "Lithuania"
+msgstr "ليتوانيا"
+
+#: src/lib/locales.ts:43
+msgid "Lithuanian"
+msgstr "الليتوانية"
+
+#: src/components/profile/LoadingAchievements.tsx:20
+msgid "Loading achievements"
+msgstr "جارٍ تحميل الإنجازات"
+
+#: src/navigation/screens/FlashcardsScreen.tsx:69
+msgid "Loading flashcards..."
+msgstr "جارٍ تحميل البطاقات التعليمية..."
+
+#: src/navigation/screens/QuizScreen.tsx:103
+msgid "Loading quiz..."
+msgstr "جارٍ تحميل الاختبار..."
+
+#: src/components/profile/LoadingStatistics.tsx:16
+msgid "Loading statistics"
+msgstr "جارٍ تحميل الإحصائيات"
+
+#: src/components/profile/LoadingWeeklyXP.tsx:16
+msgid "Loading XP"
+msgstr "جارٍ تحميل النقاط"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:64
+msgid "Looped"
+msgstr "متكرر"
+
+#: src/components/quiz-settings/AiPrompt.tsx:34
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, consectetur "
+"cumque sequi"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, consectetur "
+"cumque sequi"
+
+#: src/lib/locales.ts:45
+msgid "Macedonian"
+msgstr "المقدونية"
+
+#: src/lib/locales.ts:49
+msgid "Malay"
+msgstr "الملايو"
+
+#: src/lib/locales.ts:46
+msgid "Malayalam"
+msgstr "المالايالامية"
+
+#: src/lib/locales.ts:49
+msgid "Malaysia"
+msgstr "ماليزيا"
+
+#: src/lib/locales.ts:50
+msgid "Malta"
+msgstr "مالطا"
+
+#: src/lib/locales.ts:50
+msgid "Maltese"
+msgstr "المالطية"
+
+#: src/lib/locales.ts:48
+msgid "Marathi"
+msgstr "الماراثية"
+
+#: src/components/profile/ProfileRank.tsx:33
+msgid "Master"
+msgstr "خبير"
+
+#: src/lib/locales.ts:20
+msgid "Mexico"
+msgstr "المكسيك"
+
+#: src/components/quests/Quests.tsx:37
+msgid "minute"
+msgstr "دقيقة"
+
+#: src/components/quests/Quests.tsx:38
+msgid "minutes"
+msgstr "دقائق"
+
+#: src/lib/constants.ts:46
+msgid "Misinformation"
+msgstr "معلومات مضللة"
+
+#: src/components/study-sessions/FinishedStatistics.tsx:100
+#. Amount of missed words, as in got them incorrectly
+msgid "Misses"
+msgstr "Misses"
+
+#: src/components/quiz/TopChangeMode.tsx:110
+msgid "Mode"
+msgstr "الوضع"
+
+#: src/lib/locales.ts:58
+msgid "Moldova"
+msgstr "مولدوفا"
+
+#: src/lib/locales.ts:47
+msgid "Mongolia"
+msgstr "منغوليا"
+
+#: src/lib/locales.ts:47
+msgid "Mongolian"
+msgstr "المنغولية"
+
+#: src/navigation/modals/SubscriptionModal.tsx:37
+#. Per 1 month
+msgid "month"
+msgstr "month"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:101
+msgid "Monthly"
+msgstr "شهري"
+
+#: src/lib/locales.ts:7
+msgid "Morocco"
+msgstr "المغرب"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:95
+msgid ""
+"Moving from another app? Paste your export data below. Only import content "
+"you own or have permission to use."
+msgstr ""
+"هل تنتقل من تطبيق آخر؟ الصق بيانات التصدير أدناه. استورد فقط المحتوى الذي "
+"تملكه أو لديك إذن باستخدامه."
+
+#: src/lib/locales.ts:57
+msgid "Mozambique"
+msgstr "موزمبيق"
+
+#: src/components/quiz/TopChangeMode.tsx:37
+msgid "Multi-Choice"
+msgstr "اختيار متعدد"
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:43
+msgid "Multi-language support"
+msgstr "دعم متعدد اللغات"
+
+#: src/lib/locales.ts:51
+msgid "Myanmar"
+msgstr "ميانمار"
+
+#: src/components/settings/AccountFormName.tsx:31
+msgid "Name"
+msgstr "الاسم"
+
+#: src/lib/locales.ts:6
+msgid "Namibia"
+msgstr "ناميبيا"
+
+#: src/lib/locales.ts:53
+msgid "Nepal"
+msgstr "نيبال"
+
+#: src/lib/locales.ts:53
+msgid "Nepali"
+msgstr "النيبالية"
+
+#: src/lib/locales.ts:54
+msgid "Netherlands"
+msgstr "هولندا"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:95
+msgid "New line"
+msgstr "سطر جديد"
+
+#: src/navigation/index.tsx:691
+msgid "New study set"
+msgstr "مجموعة دراسية جديدة"
+
+#: src/components/study-sets/SetFormTitle.tsx:35
+msgid "New study set title"
+msgstr "عنوان مجموعة دراسية جديدة"
+
+#: src/components/quiz/QuizCheckButton.tsx:40
+#: src/components/quiz/QuizResultButton.tsx:24
+msgid "Next"
+msgstr "التالي"
+
+#: src/navigation/modals/SubscriptionModal.tsx:112
+msgid "Next charge"
+msgstr "الرسوم القادمة"
+
+#: src/components/quests/ChallengeEmpty.tsx:24
+msgid "No challenge here yet"
+msgstr "لا يوجد تحدي هنا بعد"
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:23
+msgid "No package was found..."
+msgstr "لم يتم العثور على حزمة..."
+
+#: src/components/onboarding/SubscriptionFooter.tsx:52
+msgid "No payment due now"
+msgstr "لا توجد مدفوعات مستحقة الآن"
+
+#: src/navigation/modals/SubscriptionModal.tsx:117
+msgid "No upcoming renewals"
+msgstr "لا توجد تجديدات قادمة"
+
+#: src/navigation/index.tsx:699
+msgid "No, back to creating"
+msgstr "لا، العودة إلى الإنشاء"
+
+#: src/navigation/index.tsx:724
+msgid "No, back to editing"
+msgstr "لا، العودة إلى التحرير"
+
+#: src/components/feed/QuizCardOptions.tsx:48
+#: src/components/feed/StudySetCardOptions.tsx:53
+#: src/components/study-sets/SetFormDeleteButton.tsx:55
+#: src/components/study-sets/StudySetDetailsHeader.tsx:55
+#: src/components/ui/warning-dialog.tsx:75
+msgid "No, cancel"
+msgstr "لا، إلغاء"
+
+#: src/navigation/index.tsx:460
+#: src/navigation/modals/SubscriptionCancelModal.tsx:46
+msgid "No, go back"
+msgstr "لا، عُد"
+
+#: src/navigation/modals/DeleteAccountModal.tsx:54
+#: src/navigation/modals/SignOutModal.tsx:49
+msgid "No, let's go back!"
+msgstr "لا، لنعُد!"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:42
+msgid "No, resume"
+msgstr "لا، استئناف"
+
+#: src/components/quiz-settings/Difficulty.tsx:28
+msgid "Normal"
+msgstr "عادي"
+
+#: src/lib/locales.ts:42
+msgid "North Korea"
+msgstr "كوريا الشمالية"
+
+#: src/lib/locales.ts:45
+#: src/lib/locales.ts:62
+msgid "North Macedonia"
+msgstr "مقدونيا الشمالية"
+
+#: src/lib/locales.ts:52
+msgid "Norway"
+msgstr "النرويج"
+
+#: src/lib/locales.ts:52
+msgid "Norwegian"
+msgstr "النرويجية"
+
+#: src/components/feed/LibraryListNothingCreated.tsx:16
+msgid "Nothing's here yet..."
+msgstr "لا شيء هنا بعد..."
+
+#: src/navigation/index.tsx:353
+#: src/navigation/modals/SettingsModal.tsx:90
+msgid "Notifications"
+msgstr "الإشعارات"
+
+#: src/components/onboarding/SubscriptionFooter.tsx:26
+msgid "Notifications for reminders"
+msgstr "إشعارات التذكير"
+
+#: src/components/profile/ProfileRank.tsx:13
+msgid "Novice"
+msgstr "مبتدئ"
+
+#: src/hooks/utils/useConsent.ts:72
+#: src/hooks/utils/useConsent.ts:105
+msgid "Now you won't miss any new and fantastic opportunities!"
+msgstr "الآن لن تفوّت أي فرص جديدة ورائعة!"
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:45
+msgid "Now you'll surely learn the language in no time!"
+msgstr "الآن ستتعلم اللغة في وقت قصير بالتأكيد!"
+
+#: src/hooks/study-sets/useUpdateStudySet.ts:27
+msgid "Oh no, we couldn't update the this study set for you!"
+msgstr "عذرًا، لم نتمكن من تحديث مجموعة الدراسة هذه لك!"
+
+#: src/hooks/utils/useCopyToClipboard.ts:20
+msgid "Oh no! We couldn't copy the text to your clipboard!"
+msgstr "عذرًا! لم نتمكن من نسخ النص إلى الحافظة!"
+
+#: src/hooks/study-sets/useCreateStudySet.ts:42
+msgid "Oh no! We couldn't create the study set for you..."
+msgstr "عذرًا! لم نتمكن من إنشاء مجموعة الدراسة لك..."
+
+#: src/hooks/quizes/useDeleteQuiz.ts:28
+msgid "Oh no! We couldn't delete this quiz for you..."
+msgstr "عذرًا! لم نتمكن من حذف هذا الاختبار لك..."
+
+#: src/hooks/study-sets/useDeleteStudySet.ts:28
+msgid "Oh no! We couldn't delete this study set for you..."
+msgstr "عذرًا! لم نتمكن من حذف مجموعة الدراسة هذه لك..."
+
+#: src/hooks/study-sets/useEditStudySet.ts:30
+msgid "Oh no! We couldn't edit this study set for you..."
+msgstr "عذرًا! لم نتمكن من تعديل مجموعة الدراسة هذه لك..."
+
+#: src/hooks/operating-system/useSaveFile.ts:28
+msgid "Oh no! We couldn't save this file for you..."
+msgstr "عذرًا! لم نتمكن من حفظ هذا الملف لك..."
+
+#: src/hooks/reports/useCreateReport.ts:45
+msgid "Oh no! We couldn't send the report."
+msgstr "عذرًا! لم نتمكن من إرسال التقرير."
+
+#: src/hooks/auth/useSignInViaApple.ts:38
+msgid "Oh no! We couldn't sign you in via Apple..."
+msgstr "عذرًا! لم نتمكن من تسجيل دخولك عبر Apple..."
+
+#: src/hooks/auth/useSignInViaGoogle.ts:38
+msgid "Oh no! We couldn't sign you in via Google..."
+msgstr "عذرًا! لم نتمكن من تسجيل دخولك عبر Google..."
+
+#: src/services/day-streaks/listenDayStreaks.tsx:49
+msgid "Oh no! You didn't manage to keep your day streak... 🙁"
+msgstr "عذرًا! لم تتمكن من الحفاظ على سلسلة أيامك... 🙁"
+
+#: src/services/operating-system/saveFile.ts:90
+msgid ""
+"Oh no! Your device's platform is not supported for saving files. That's "
+"really sad..."
+msgstr "عذرًا! منصة جهازك غير مدعومة لحفظ الملفات. هذا محزن حقًا..."
+
+#: src/services/operating-system/saveFile.ts:77
+#: src/services/operating-system/saveFile.ts:80
+#: src/services/operating-system/saveFile.ts:83
+msgid "Oh! File saving was cancelled!"
+msgstr "تم إلغاء حفظ الملف!"
+
+#: src/services/auth/signInViaApple.ios.ts:32
+#: src/services/auth/signInViaApple.ts:62
+#: src/services/auth/signInViaGoogle.ts:73
+msgid "Oh! Signing in was cancelled!"
+msgstr "تم إلغاء تسجيل الدخول!"
+
+#: src/navigation/modals/ExportDataModal.tsx:53
+msgid "OK, download!"
+msgstr "موافق، تنزيل!"
+
+#: src/components/library/LibrarySort.tsx:85
+msgid "Oldest"
+msgstr "الأقدم"
+
+#: src/services/operating-system/shareText.ts:17
+msgid "Oops, sharing was cancelled!"
+msgstr "عذرًا، تم إلغاء المشاركة!"
+
+#: src/hooks/pictures/useAnalyzePicture.ts:31
+msgid "Oops, we couldn't analyze this picture for you!"
+msgstr "عذرًا، لم نتمكن من تحليل هذه الصورة لك!"
+
+#: src/hooks/quizes/useCreateQuiz.ts:99
+msgid "Oops, we couldn't create the quiz for you!"
+msgstr "عذرًا، لم نتمكن من إنشاء الاختبار لك!"
+
+#: src/hooks/profiles/useProfileExportData.ts:23
+msgid "Oops, we couldn't export your data!"
+msgstr "عذرًا، لم نتمكن من تصدير بياناتك!"
+
+#: src/services/study-sets/getStudySetById.ts:21
+msgid "Oops, we couldn't find this study set..."
+msgstr "عذرًا، لم نتمكن من العثور على مجموعة الدراسة هذه..."
+
+#: src/hooks/pictures/useSavePicture.ts:18
+msgid "Oops, we couldn't save the picture to your device's storage!"
+msgstr "عذرًا، لم نتمكن من حفظ الصورة على جهازك!"
+
+#: src/hooks/quizes/useUpdateQuiz.ts:27
+msgid "Oops, we couldn't update the quiz for you!"
+msgstr "عذرًا، لم نتمكن من تحديث الاختبار لك!"
+
+#: src/hooks/camera/useCameraPermissions.ts:20
+msgid "Oops, we still didn't get the access!"
+msgstr "عذرًا، لم نحصل على الوصول بعد!"
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:28
+msgid "Oops, you have to submit consent first!"
+msgstr "عذرًا، يجب عليك تقديم الموافقة أولاً!"
+
+#: src/services/auth/signInViaGoogle.ts:75
+msgid "Oops! Signing in is required!"
+msgstr "عذرًا! تسجيل الدخول مطلوب!"
+
+#: src/services/auth/signInViaGoogle.ts:77
+msgid "Oops! Signing in was interrupted!"
+msgstr "عذرًا! تمت مقاطعة تسجيل الدخول!"
+
+#: src/components/quiz/WrongAnswerResult.tsx:44
+msgid "Oops! That wasn't the correct answer..."
+msgstr "عذرًا! هذه ليست الإجابة الصحيحة..."
+
+#: src/components/quiz/TimedOutAnswerResult.tsx:32
+msgid "Oops! Your time run out"
+msgstr "عذرًا! انتهى وقتك"
+
+#: src/components/ui/question-tooltip.tsx:23
+msgid "Open AI prompt tooltip"
+msgstr "تلميح موجه الذكاء الاصطناعي"
+
+#: src/components/feed/QuizCardOptions.tsx:57
+msgid "Open quiz options"
+msgstr "فتح خيارات الاختبار"
+
+#: src/components/feed/StudySetCardOptions.tsx:62
+msgid "Open study set options"
+msgstr "فتح خيارات مجموعة الدراسة"
+
+#: src/components/quiz/WritingSettings.tsx:42
+msgid "Open writing settings"
+msgstr "فتح إعدادات الكتابة"
+
+#: src/lib/constants.ts:50
+msgid "Other"
+msgstr "أخرى"
+
+#: src/navigation/index.tsx:541
+msgid "Page Not Found | 404"
+msgstr "الصفحة غير موجودة | 404"
+
+#: src/lib/locales.ts:55
+#: src/lib/locales.ts:71
+msgid "Pakistan"
+msgstr "باكستان"
+
+#: src/components/ui/login-email-form.tsx:42
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:69
+msgid "Paste text"
+msgstr "لصق النص"
+
+#: src/lib/locales.ts:23
+msgid "Persian"
+msgstr "الفارسية"
+
+#: src/components/feed/QuizCard.tsx:76
+msgid "Personalized for you"
+msgstr "مخصصة لك"
+
+#: src/hooks/quizes/useCreateQuiz.ts:86
+msgid "Personalizing words..."
+msgstr "تخصيص الكلمات..."
+
+#: src/components/onboarding/TopHeader.tsx:43
+msgid "Pick display language"
+msgstr "اختر لغة العرض"
+
+#: src/navigation/index.tsx:513
+msgid "Picture"
+msgstr "صورة"
+
+#: src/components/profile/StatisticsStudySetsCard.tsx:103
+#: src/components/profile/StatisticsWordsCard.tsx:103
+msgid "Pictures"
+msgstr "صور"
+
+#: src/components/feed/QuizCardOptions.tsx:108
+msgid "Play"
+msgstr "تشغيل"
+
+#: src/components/feed/StudyPlanStepsList.tsx:25
+msgid "Play 2 quizes"
+msgstr "تشغيل اختبارين"
+
+#: src/components/feed/FeedBannersList.tsx:29
+msgid "Play a quiz and reinforce your memory"
+msgstr "العب اختبار وعزز ذاكرتك"
+
+#: src/components/feed/StudyActivityCard.tsx:143
+msgid "Play again"
+msgstr "العب مرة أخرى"
+
+#: src/components/feed/FeedBannersList.tsx:30
+msgid "Play quiz"
+msgstr "تشغيل الاختبار"
+
+#: src/services/pictures/savePicture.ts:55
+msgid "Please allow access to save photos!"
+msgstr "يرجى السماح بالوصول لحفظ الصور!"
+
+#: src/components/camera/RequestPermission.tsx:27
+msgid "Please allow camera access in order to take pictures"
+msgstr "يرجى السماح بالوصول إلى الكاميرا لالتقاط الصور"
+
+#: src/hooks/auth/useDeleteAccount.ts:24
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:31
+#: src/hooks/profiles/useUpdateProfile.ts:46
+#: src/hooks/reports/useCreateReport.ts:45
+#: src/hooks/subscription/useCancelSubscription.ts:27
+#: src/services/auth/signInViaApple.ios.ts:27
+#: src/services/auth/signInViaApple.ts:66
+#: src/services/auth/signInViaGoogle.ts:80
+#: src/services/auth/signInViaGoogle.ts:84
+#: src/services/documents/getLatestDocuments.ts:30
+#: src/services/profiles/profileExportData.ts:13
+msgid "Please contact us immediately at {CONTACT_EMAIL}"
+msgstr "يرجى التواصل معنا فوراً على {CONTACT_EMAIL}"
+
+#: src/lib/zodSchemas.ts:159
+msgid "Please enter a valid email!"
+msgstr "يرجى إدخال بريد إلكتروني صالح!"
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:32
+msgid "Please enter the data according to your format settings!"
+msgstr "يرجى إدخال البيانات وفقاً لإعدادات التنسيق الخاصة بك!"
+
+#: src/navigation/sheets/GenerateStudySetSheet.tsx:45
+msgid "Please give me words on..."
+msgstr "يرجى إعطائي كلمات عن..."
+
+#: src/lib/locales.ts:56
+msgid "Poland"
+msgstr "بولندا"
+
+#: src/lib/locales.ts:56
+msgid "Polish"
+msgstr "البولندية"
+
+#: src/navigation/index.tsx:425
+#: src/navigation/modals/SettingsModal.tsx:132
+msgid "Pop-ups"
+msgstr "النوافذ المنبثقة"
+
+#: src/lib/locales.ts:57
+msgid "Portugal"
+msgstr "البرتغال"
+
+#: src/lib/locales.ts:57
+msgid "Portuguese"
+msgstr "البرتغالية"
+
+#: src/components/practice/PracticeTabPage.tsx:11
+msgid "Practice"
+msgstr "تدريب"
+
+#: src/components/profile/ProfileRank.tsx:21
+msgid "Practitioner"
+msgstr "ممارس"
+
+#: src/navigation/modals/SettingsModal.tsx:137
+msgid "Preferences"
+msgstr "التفضيلات"
+
+#: src/components/library/LibrarySearch.tsx:73
+msgid "Preparing..."
+msgstr "جارٍ التحضير..."
+
+#: src/navigation/modals/SettingsModal.tsx:72
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+#: src/components/profile/ProfileRank.tsx:25
+msgid "Professional"
+msgstr "احترافي"
+
+#: src/navigation/index.tsx:244
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: src/services/notifications/registerForNotifications.ts:70
+msgid "Project ID not found"
+msgstr "لم يتم العثور على معرّف المشروع"
+
+#: src/lib/zodSchemas.ts:59
+msgid "Prompt cannot be longer than {MAX_STUDY_SET_GENERATE_AI_LENGTH} characters"
+msgstr "لا يمكن أن يتجاوز النص {MAX_STUDY_SET_GENERATE_AI_LENGTH} حرفاً"
+
+#: src/lib/zodSchemas.ts:51
+msgid "Prompt is missing!"
+msgstr "النص مفقود!"
+
+#: src/lib/zodSchemas.ts:55
+msgid "Prompt should be at least {MIN_STUDY_SET_GENERATE_AI_LENGTH} characters long"
+msgstr "يجب أن يتكون النص من {MIN_STUDY_SET_GENERATE_AI_LENGTH} حرف على الأقل"
+
+#: src/lib/locales.ts:55
+msgid "Punjabi"
+msgstr "البنجابية"
+
+#: src/services/quests/listenQuests.tsx:61
+msgid "quest completed!"
+msgstr "تم إكمال المهمة!"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:66
+#: src/components/study-sessions/FinishedStatistics.tsx:124
+#. Total amount of questions answered
+msgid "Questions"
+msgstr "الأسئلة"
+
+#: src/components/quiz/TopChangeQuestionsLanguage.tsx:30
+msgid "Questions language"
+msgstr "لغة الأسئلة"
+
+#: src/navigation/index.tsx:224
+msgid "Quests"
+msgstr "المهام"
+
+#: src/navigation/index.tsx:503
+msgid "Quick question!"
+msgstr "سؤال سريع!"
+
+#: src/components/quiz/TopHeader.tsx:79
+#: src/components/study-sets/PlayingOptionsList.tsx:34
+msgid "Quiz"
+msgstr "اختبار"
+
+#: src/components/feed/QuizCardOptions.tsx:79
+#: src/navigation/index.tsx:579
+msgid "Quiz options"
+msgstr "خيارات الاختبار"
+
+#: src/components/library/LibraryFilters.tsx:25
+msgid "Quizes"
+msgstr "اختبارات"
+
+#: src/components/profile/StatisticsStudySetsCard.tsx:61
+#: src/components/profile/StatisticsWordsCard.tsx:61
+msgid "Quizes played"
+msgstr "الاختبارات التي تم لعبها"
+
+#: src/navigation/sheets/ImportFlashcardsOptionsSheet.tsx:19
+msgid "Quizlet"
+msgstr "Quizlet"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:78
+msgid "Recommended"
+msgstr "موصى به"
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:68
+msgid "Refresh study set creation"
+msgstr "تحديث إنشاء مجموعة الدراسة"
+
+#: src/components/flashcards/FlashcardsCarousel.tsx:150
+msgid "Remembered"
+msgstr "تم التذكر"
+
+#: src/components/ui/consent-marketing-checkbox.tsx:48
+msgid "Remind me to stay on track with my goals and enable push notifications."
+msgstr "ذكّرني بالبقاء على المسار الصحيح لتحقيق أهدافي وتفعيل الإشعارات."
+
+#: src/navigation/modals/SubscriptionModal.tsx:76
+msgid "Reoccuring"
+msgstr "Reoccuring"
+
+#: src/components/study-sets/EditableFlashcardCollapsedButtons.tsx:33
+msgid "Reorder flashcard down"
+msgstr "تحريك البطاقة للأسفل"
+
+#: src/components/study-sets/EditableFlashcardCollapsedButtons.tsx:48
+msgid "Reorder flashcard up"
+msgstr "تحريك البطاقة للأعلى"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:88
+#: src/components/quiz-settings/TimeLimit.tsx:90
+#: src/components/report/FormCategory.tsx:42
+msgid "Report category"
+msgstr "فئة التقرير"
+
+#: src/components/report/FormDescription.tsx:35
+msgid "Report description"
+msgstr "وصف التقرير"
+
+#: src/navigation/index.tsx:434
+#: src/navigation/modals/SettingsModal.tsx:159
+msgid "Report Issues"
+msgstr "الإبلاغ عن مشاكل"
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:159
+msgid "Restart cards"
+msgstr "إعادة تشغيل البطاقات"
+
+#: src/components/quiz-settings/StartButton.tsx:126
+msgid "Restart last quiz"
+msgstr "إعادة تشغيل آخر اختبار"
+
+#: src/components/quiz-settings/StartButton.tsx:128
+msgid "Resume last quiz"
+msgstr "استئناف آخر اختبار"
+
+#: src/components/feed/StudyActivityCard.tsx:145
+msgid "Resume session"
+msgstr "استئناف الجلسة"
+
+#: src/navigation/modals/SettingsModal.tsx:153
+msgid "Review"
+msgstr "مراجعة"
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:40
+msgid "Review tough vocabulary 😣"
+msgstr "مراجعة المفردات الصعبة 😣"
+
+#: src/lib/locales.ts:58
+msgid "Romania"
+msgstr "رومانيا"
+
+#: src/lib/locales.ts:58
+msgid "Romanian"
+msgstr "الرومانية"
+
+#: src/lib/locales.ts:59
+msgid "Russia"
+msgstr "روسيا"
+
+#: src/lib/locales.ts:59
+msgid "Russian"
+msgstr "الروسية"
+
+#: src/lib/locales.ts:7
+msgid "Saudi Arabia"
+msgstr "المملكة العربية السعودية"
+
+#: src/components/taken-picture/SavePictureHeaderButton.tsx:32
+msgid "Save"
+msgstr "حفظ"
+
+#: src/components/onboarding/SubscriptionPlanButton.tsx:83
+#. Paying only 80% of the original price for example, so you save 20% of it.
+msgid "Save {annuallySavingPercentageString}"
+msgstr "وفّر {annuallySavingPercentageString}"
+
+#: src/navigation/modals/AccountModal.tsx:104
+#: src/navigation/modals/AudioFeedbackModal.tsx:99
+#: src/navigation/modals/DarkModeModal.tsx:79
+#: src/navigation/modals/HapticsModal.tsx:78
+#: src/navigation/modals/NotificationsModal.tsx:162
+#: src/navigation/modals/PopUpsModal.tsx:94
+msgid "Save and go back!"
+msgstr "احفظ وارجع!"
+
+#: src/services/operating-system/saveFile.ts:63
+msgid "Save your data"
+msgstr "حفظ بياناتك"
+
+#: src/components/onboarding/SignInSlide.tsx:54
+msgid "Save your progress"
+msgstr "حفظ تقدمك"
+
+#: src/navigation/modals/DisplayLanguageModal.tsx:29
+#: src/navigation/modals/LearningLanguageModal.tsx:28
+msgid "Save!"
+msgstr "احفظ!"
+
+#: src/components/library/LibrarySearch.tsx:93
+#: src/components/settings/LanguagePicker.tsx:82
+msgid "Search..."
+msgstr "بحث..."
+
+#: src/components/quiz/TopTimeRemaining.tsx:31
+msgid "Sec"
+msgstr "ثانية"
+
+#: src/hooks/utils/useSecretPress.ts:43
+msgid "Secret found!"
+msgstr "تم العثور على السر!"
+
+#: src/components/ui/login-email-form.tsx:31
+msgid "Secret password sign-in for testers"
+msgstr "تسجيل دخول بكلمة مرور سرية للمختبرين"
+
+#: src/components/profile/Achievements.tsx:51
+#: src/components/profile/LoadingAchievements.tsx:32
+msgid "See all"
+msgstr "عرض الكل"
+
+#: src/components/quiz-settings/QuestionsCount.tsx:93
+#: src/components/quiz-settings/TimeLimit.tsx:95
+#: src/components/report/FormCategory.tsx:47
+msgid "Select an issue category"
+msgstr "اختر فئة المشكلة"
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:108
+msgid "Semicolon"
+msgstr "فاصلة منقوطة"
+
+#: src/lib/zodSchemas.ts:143
+msgid "Separator between cards is missing!"
+msgstr "الفاصل بين البطاقات مفقود!"
+
+#: src/lib/zodSchemas.ts:139
+msgid "Separator between terms and definitions is missing!"
+msgstr "الفاصل بين المصطلحات والتعريفات مفقود!"
+
+#: src/navigation/modals/ExportFlashcardsFormModal.tsx:82
+#: src/navigation/modals/ImportFlashcardsModal.tsx:98
+msgid "Separator is missing!"
+msgstr "الفاصل مفقود!"
+
+#: src/navigation/modals/ExportFlashcardsFormModal.tsx:84
+#: src/navigation/modals/ImportFlashcardsModal.tsx:100
+msgid "Separators cannot be the exact same!"
+msgstr "لا يمكن أن تكون الفواصل متطابقة!"
+
+#: src/lib/locales.ts:63
+msgid "Serbia"
+msgstr "صربيا"
+
+#: src/lib/locales.ts:63
+msgid "Serbian"
+msgstr "الصربية"
+
+#: src/components/quests/GoalsTabPage.tsx:9
+msgid "Session goals"
+msgstr "أهداف الجلسة"
+
+#: src/navigation/index.tsx:334
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: src/components/study-sets/SetFormShareButton.tsx:17
+msgid "Share flashcards"
+msgstr "مشاركة البطاقات التعليمية"
+
+#: src/components/study-sets/StudySetDetailsHeader.tsx:69
+msgid "Share study set"
+msgstr "مشاركة مجموعة الدراسة"
+
+#: src/services/operating-system/shareText.ts:13
+msgid "Share via..."
+msgstr "مشاركة عبر..."
+
+#: src/hooks/operating-system/useShareText.ts:38
+msgid "Shared successfully! Hooray!"
+msgstr "تمت المشاركة بنجاح! مرحاً!"
+
+#: src/navigation/index.tsx:746
+msgid "Sharing options"
+msgstr "خيارات المشاركة"
+
+#: src/components/study-sets/EditableFlashcardNativeExample.tsx:40
+msgid "She bit into a crisp, juicy apple."
+msgstr "قضمت تفاحة طازجة وعصيرية."
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:53
+msgid "Shuffled"
+msgstr "تم الخلط"
+
+#: src/components/ui/login-email-form.tsx:63
+msgid "Sign in"
+msgstr ""
+
+#: src/components/ui/login-connections.tsx:126
+msgid "Sign in via Apple"
+msgstr ""
+
+#: src/components/ui/login-connections.tsx:98
+msgid "Sign in via Google"
+msgstr ""
+
+#: src/components/ui/login-connections.tsx:163
+msgid "Sign out"
+msgstr ""
+
+#: src/navigation/index.tsx:476
+#: src/navigation/modals/SettingsModal.tsx:175
+msgid "Sign Out"
+msgstr ""
+
+#: src/components/ui/login-connections.tsx:138
+msgid "Signed in"
+msgstr ""
+
+#: src/services/auth/signInViaGoogle.ts:34
+msgid "Signing in was cancelled"
+msgstr ""
+
+#: src/lib/locales.ts:49
+#: src/lib/locales.ts:66
+#: src/lib/locales.ts:74
+msgid "Singapore"
+msgstr ""
+
+#: src/lib/locales.ts:60
+msgid "Slovak"
+msgstr ""
+
+#: src/lib/locales.ts:60
+msgid "Slovakia"
+msgstr ""
+
+#: src/lib/locales.ts:61
+msgid "Slovenia"
+msgstr ""
+
+#: src/lib/locales.ts:61
+msgid "Slovenian"
+msgstr ""
+
+#: src/hooks/auth/useSignInViaPassword.ts:25
+msgid ""
+"Something went wrong whilst trying to sign in with a password. Are your "
+"credentials valid?"
+msgstr ""
+
+#: src/services/auth/signInViaGoogle.ts:65
+msgid "Something went wrong with inspecting your profile. Please try again!"
+msgstr ""
+
+#: src/components/library/LibrarySort.tsx:177
+msgid "Sort by"
+msgstr ""
+
+#: src/components/library/LibrarySort.tsx:162
+msgid "Sort library search"
+msgstr ""
+
+#: src/lib/locales.ts:6
+#: src/lib/locales.ts:75
+msgid "South Africa"
+msgstr ""
+
+#: src/lib/locales.ts:42
+msgid "South Korea"
+msgstr ""
+
+#: src/lib/locales.ts:13
+#: src/lib/locales.ts:20
+#: src/lib/locales.ts:22
+#: src/lib/locales.ts:27
+msgid "Spain"
+msgstr ""
+
+#: src/lib/locales.ts:20
+msgid "Spanish"
+msgstr ""
+
+#: src/components/feed/StudyPlanStepsList.tsx:21
+msgid "Spend 10 minutes"
+msgstr ""
+
+#: src/components/profile/StatisticsExperienceCard.tsx:59
+#. Total time spent
+msgid "Spent"
+msgstr ""
+
+#: src/lib/locales.ts:66
+msgid "Sri Lanka"
+msgstr ""
+
+#: src/contexts/OnboardingContext.tsx:154
+msgid "Start 1-week free trial"
+msgstr ""
+
+#: src/components/quiz-settings/StartButton.tsx:106
+msgid "Start!"
+msgstr ""
+
+#: src/components/profile/Statistics.tsx:23
+msgid "Statistics"
+msgstr ""
+
+#: src/components/day-streak/DayStreaksList.tsx:40
+msgid "Streak is <0>{currentDayStreak}</0>."
+msgstr ""
+
+#: src/components/profile/StatisticsExperienceCard.tsx:38
+#. Day streak in a row
+msgid "Streak record"
+msgstr ""
+
+#: src/components/profile/NameInfo.tsx:38
+msgid ""
+"Study\n"
+"sets"
+msgstr ""
+
+#: src/components/feed/StudyActivityCard.tsx:140
+msgid "Study again"
+msgstr ""
+
+#: src/navigation/index.tsx:589
+msgid "Study set"
+msgstr ""
+
+#: src/components/feed/StudySetCardOptions.tsx:82
+msgid "Study set options"
+msgstr ""
+
+#: src/components/library/LibraryFilters.tsx:21
+#: src/components/profile/StatisticsStudySetsCard.tsx:40
+#: src/components/profile/StatisticsWordsCard.tsx:40
+msgid "Study sets"
+msgstr ""
+
+#: src/navigation/index.tsx:371
+#: src/navigation/modals/SettingsModal.tsx:67
+msgid "Subscription"
+msgstr ""
+
+#: src/navigation/modals/SubscriptionModal.tsx:85
+msgid "Subscription information"
+msgstr ""
+
+#: src/lib/constants.ts:38
+msgid "Suggestions"
+msgstr ""
+
+#: src/navigation/modals/SettingsModal.tsx:187
+msgid "Support"
+msgstr ""
+
+#: src/lib/locales.ts:54
+msgid "Suriname"
+msgstr ""
+
+#: src/lib/locales.ts:65
+msgid "Swahili"
+msgstr ""
+
+#: src/components/study-sets/EditableFlashcardCollapsedButtons.tsx:62
+msgid "Swap flashcard terms and definitions"
+msgstr ""
+
+#: src/lib/locales.ts:64
+msgid "Sweden"
+msgstr ""
+
+#: src/lib/locales.ts:64
+msgid "Swedish"
+msgstr ""
+
+#: src/lib/locales.ts:17
+#: src/lib/locales.ts:25
+#: src/lib/locales.ts:36
+msgid "Switzerland"
+msgstr ""
+
+#: src/components/study-sets/ImportFlashcardsFormSeparators.tsx:49
+#. The Tab keyboard character
+msgid "Tab"
+msgstr ""
+
+#: src/lib/locales.ts:74
+msgid "Taiwan"
+msgstr ""
+
+#: src/lib/locales.ts:23
+msgid "Tajikistan"
+msgstr ""
+
+#: src/lib/locales.ts:66
+msgid "Tamil"
+msgstr ""
+
+#: src/lib/locales.ts:65
+msgid "Tanzania"
+msgstr ""
+
+#: src/lib/constants.ts:34
+msgid "Technical issues"
+msgstr ""
+
+#: src/lib/locales.ts:67
+msgid "Telugu"
+msgstr ""
+
+#: src/components/study-sets/EditableFlashcardNativeMsg.tsx:32
+msgid "Term"
+msgstr ""
+
+#: src/components/study-sets/ImportFlashcardsFormData.tsx:55
+msgid ""
+"Term 1{termsSeparator}Definition 1{cardsSeparator}Term "
+"2{termsSeparator}Definition 2{cardsSeparator}Term "
+"3{termsSeparator}Definition 3"
+msgstr ""
+
+#: src/lib/zodSchemas.ts:75
+msgid "Term cannot be longer than {MAX_FLASHCARD_NATIVE_MSG_LENGTH} characters"
+msgstr ""
+
+#: src/lib/zodSchemas.ts:67
+msgid "Term is missing!"
+msgstr ""
+
+#: src/lib/zodSchemas.ts:71
+msgid "Term should be at least {MIN_FLASHCARD_NATIVE_MSG_LENGTH} characters long"
+msgstr ""
+
+#: src/navigation/modals/SettingsModal.tsx:77
+msgid "Terms & Conditions"
+msgstr ""
+
+#: src/components/feed/FeedBannersList.tsx:28
+msgid "Test knowledge!"
+msgstr ""
+
+#: src/components/quests/ChallengeHeader.tsx:21
+msgid "Test your knowledge with a quiz we've built just for you!"
+msgstr ""
+
+#: src/lib/locales.ts:68
+msgid "Thai"
+msgstr ""
+
+#: src/lib/locales.ts:68
+msgid "Thailand"
+msgstr ""
+
+#: src/components/study-sets/EditableFlashcardNativeMsg.tsx:40
+msgid "The apple"
+msgstr ""
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:41
+msgid "This action cannot be undone. The data for this new study set will be lost"
+msgstr ""
+
+#: src/navigation/modals/DeleteAccountModal.tsx:37
+msgid ""
+"This action cannot be undone. You will loose all of your flashcards, "
+"profile experience, and your subscription will be cancelled automatically. "
+"We'll most definitely miss you!"
+msgstr ""
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:54
+msgid "This action cannot be undone. Your flashcards will be lost"
+msgstr ""
+
+#: src/services/live-notifications/listenLiveNotifications.ts:38
+msgid "This was sent to you by a Linkoglot administrator 👀"
+msgstr ""
+
+#: src/components/day-streak/DayStreaksList.tsx:58
+msgid "This week"
+msgstr ""
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:17
+msgid "Thorough pictures analysis"
+msgstr ""
+
+#: src/components/quiz-settings/TimeLimit.tsx:68
+msgid "Time limit"
+msgstr ""
+
+#: src/components/study-sessions/FinishedStatistics.tsx:76
+#. Total time spent
+msgid "Time spent"
+msgstr ""
+
+#: src/components/quiz-settings/TimeLimit.tsx:101
+msgid "Time to answer each question"
+msgstr ""
+
+#: src/components/quiz/TimedOutAnswerResult.tsx:29
+msgid "Timed out"
+msgstr ""
+
+#: src/components/study-sets/SetFormTitle.tsx:26
+msgid "Title"
+msgstr ""
+
+#: src/components/library/LibrarySort.tsx:49
+msgid "Title A to Z"
+msgstr ""
+
+#: src/lib/zodSchemas.ts:43
+msgid "Title cannot be longer than {MAX_STUDY_SET_TITLE_LENGTH} characters"
+msgstr ""
+
+#: src/lib/zodSchemas.ts:35
+msgid "Title is missing!"
+msgstr ""
+
+#: src/lib/zodSchemas.ts:39
+msgid "Title should be at least {MIN_STUDY_SET_TITLE_LENGTH} characters long"
+msgstr ""
+
+#: src/components/library/LibrarySort.tsx:61
+msgid "Title Z to A"
+msgstr ""
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:87
+msgid "Toggle audio feedback for "
+msgstr ""
+
+#: src/navigation/modals/DarkModeModal.tsx:29
+msgid "Toggle dark mode"
+msgstr ""
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:113
+msgid "Toggle example sentence for "
+msgstr ""
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:132
+msgid "Toggle explanation sentence for "
+msgstr ""
+
+#: src/navigation/sheets/FlashcardsSettingsSheet.tsx:70
+msgid "Toggle front language as "
+msgstr ""
+
+#: src/navigation/modals/HapticsModal.tsx:31
+msgid "Toggle haptic feedback"
+msgstr ""
+
+#: src/navigation/modals/NotificationsModal.tsx:94
+msgid "Toggle notifications"
+msgstr ""
+
+#: src/navigation/modals/PopUpsModal.tsx:48
+msgid "Toggle pop-ups"
+msgstr ""
+
+#: src/components/quiz/TopChangeQuestionsLanguage.tsx:35
+msgid "Toggle questions language to {displayLanguageLabel}"
+msgstr ""
+
+#: src/components/quiz/TopChangeQuestionsLanguage.tsx:48
+msgid "Toggle questions language to {learningLanguageLabel}"
+msgstr ""
+
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:44
+msgid "Toggle them back to not miss any opportunities to earn money!"
+msgstr ""
+
+#: src/components/onboarding/CongratulationsTopButtons.tsx:73
+msgid "Toggle theme"
+msgstr ""
+
+#: src/components/profile/StatisticsExperienceCard.tsx:101
+#. Total experience points (XP)
+msgid "Total XP"
+msgstr ""
+
+#: src/components/quiz/QuizWriting.tsx:37
+msgid "Translate the sentence..."
+msgstr ""
+
+#: src/lib/locales.ts:69
+msgid "Turkey"
+msgstr ""
+
+#: src/lib/locales.ts:69
+msgid "Turkish"
+msgstr ""
+
+#: src/lib/locales.ts:65
+msgid "Uganda"
+msgstr ""
+
+#: src/services/auth/signInViaGoogle.ts:80
+msgid "Uh oh, Google Play Services are currently not available."
+msgstr ""
+
+#: src/services/operating-system/storeReview.ts:34
+msgid "Uh oh, it seems that your system is not supported for this feature..."
+msgstr ""
+
+#: src/hooks/auth/useSetSession.ts:21
+msgid "Uh oh, smething went wrong while trying to sign you in..."
+msgstr ""
+
+#: src/hooks/subscription/useCancelSubscription.ts:26
+msgid "Uh oh, something went wrong while trying to cancel your subscription..."
+msgstr ""
+
+#: src/hooks/notifications/useOpenNotificationSettings.ts:20
+msgid "Uh oh, something went wrong while trying to open your device settings..."
+msgstr ""
+
+#: src/services/documents/getLatestDocuments.ts:30
+msgid ""
+"Uh oh, something went wrong while trying to retrieve the latest legal "
+"documents."
+msgstr ""
+
+#: src/services/auth/signInViaApple.ios.ts:27
+#: src/services/auth/signInViaApple.ios.ts:36
+#: src/services/auth/signInViaApple.ts:66
+msgid "Uh oh, something went wrong while trying to sign in via Apple."
+msgstr ""
+
+#: src/services/auth/signInViaGoogle.ts:84
+msgid "Uh oh, something went wrong while trying to sign in via Google"
+msgstr ""
+
+#: src/hooks/auth/useCreateSessionFromURL.ts:26
+msgid "Uh oh, something went wrong while trying to sign you in..."
+msgstr ""
+
+#: src/hooks/auth/useSignOut.ts:23
+msgid "Uh oh, something went wrong while trying to sign you out..."
+msgstr ""
+
+#: src/hooks/profiles/useUpdateProfile.ts:46
+msgid "Uh oh, something went wrong while trying to update your profile."
+msgstr ""
+
+#: src/services/profiles/profileExportData.ts:13
+msgid "Uh oh, something went wrong whilst trying to export your data."
+msgstr ""
+
+#: src/hooks/operating-system/useStoreReview.ts:20
+msgid "Uh oh, something went wrong..."
+msgstr ""
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:32
+msgid "Uh oh, subscription was not purchased yet!"
+msgstr ""
+
+#: src/hooks/camera/useCameraTakePicture.ts:16
+msgid "Uh oh, the camera is not ready yet..."
+msgstr ""
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:24
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:20
+#: src/hooks/pictures/useAnalyzePicture.ts:20
+#: src/hooks/profiles/useUpdateProfile.ts:31
+#: src/hooks/quizes/useCreateQuiz.ts:74
+#: src/hooks/reports/useCreateReport.ts:29
+#: src/hooks/study-sessions/useCreateStudySession.ts:24
+#: src/hooks/study-sets/useCreateStudySet.ts:29
+#: src/hooks/subscription/useGetSubscription.ts:22
+msgid "Uh oh, you are not signed in yet!"
+msgstr ""
+
+#: src/lib/locales.ts:70
+msgid "Ukraine"
+msgstr ""
+
+#: src/lib/locales.ts:70
+msgid "Ukrainian"
+msgstr ""
+
+#: src/components/feed/QuizCardFinishedBadge.tsx:49
+msgid "Unfinished"
+msgstr ""
+
+#: src/lib/locales.ts:7
+msgid "United Arab Emirates"
+msgstr ""
+
+#: src/lib/locales.ts:19
+msgid "United Kingdom"
+msgstr ""
+
+#: src/lib/locales.ts:19
+msgid "United States"
+msgstr ""
+
+#: src/components/onboarding/SubscriptionSlide.tsx:56
+msgid "Unlock your potential and reach goals"
+msgstr ""
+
+#: src/lib/locales.ts:71
+msgid "Urdu"
+msgstr ""
+
+#: src/lib/locales.ts:72
+msgid "Uzbek"
+msgstr ""
+
+#: src/lib/locales.ts:72
+msgid "Uzbekistan"
+msgstr ""
+
+#: src/lib/locales.ts:73
+msgid "Vietnam"
+msgstr ""
+
+#: src/lib/locales.ts:73
+msgid "Vietnamese"
+msgstr ""
+
+#: src/lib/locales.ts:15
+msgid "Wales"
+msgstr ""
+
+#: src/components/ui/consent-dialog.tsx:92
+msgid ""
+"We are fully transparent about our data usage and general functionality, so "
+"to view the documents, simply click on the orange links below."
+msgstr ""
+
+#: src/hooks/auth/useDeleteAccount.ts:24
+msgid "We couldn't delete your account right now."
+msgstr ""
+
+#: src/components/feed/LibraryListNotFound.tsx:19
+msgid "We couldn't find any results. Modify your search and try again!"
+msgstr ""
+
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:31
+msgid "We couldn't unregister you from notifications right now."
+msgstr ""
+
+#: src/components/ui/consent-dialog.tsx:70
+msgid "We need your consent!"
+msgstr ""
+
+#: src/services/operating-system/saveFile.ts:30
+msgid "We need your permission to save the file!"
+msgstr ""
+
+#: src/components/camera/RequestPermission.tsx:24
+msgid "We need your permission!"
+msgstr ""
+
+#: src/navigation/modals/NotificationsModal.tsx:97
+msgid ""
+"We use push notifications to remind you to stick to your goals! Enable them "
+"to never loose your study streak."
+msgstr ""
+
+#: src/navigation/modals/AudioFeedbackModal.tsx:60
+#: src/navigation/modals/PopUpsModal.tsx:51
+msgid ""
+"We use them to enhance your experience and provide guidance. If they don't "
+"feel convenient, simply switch them off!"
+msgstr ""
+
+#: src/components/quests/ChallengeEmpty.tsx:29
+msgid "We will notify you when we prepared a new one for you!"
+msgstr ""
+
+#: src/components/onboarding/SignInSlide.tsx:55
+msgid "We'll log you in or create an account automatically."
+msgstr ""
+
+#: src/hooks/auth/useSignOut.ts:34
+msgid "We'll miss you! Come back soon!"
+msgstr ""
+
+#: src/hooks/auth/useDeleteAccount.ts:34
+msgid "We've deleted your account and all of your data!"
+msgstr ""
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:51
+msgid ""
+"We've detected problems in your data structure. That's okay, just be sure "
+"to check out your terms and definitions."
+msgstr ""
+
+#: src/hooks/notifications/useRegisterForNotifications.ts:44
+msgid "We've successfully enabled notifications for you!"
+msgstr ""
+
+#: src/hooks/notifications/useUnregisterFromNotifications.ts:42
+msgid "We've unregistered you from all notifications."
+msgstr ""
+
+#: src/components/ui/consent-dialog.tsx:68
+msgid "We've updated our documents!"
+msgstr ""
+
+#: src/services/quests/listenQuests.tsx:61
+msgid "Weekly"
+msgstr ""
+
+#: src/components/quests/QuestsTabPage.tsx:58
+msgid "Weekly Quests"
+msgstr ""
+
+#: src/components/profile/WeeklyXP.tsx:25
+msgid "Weekly XP"
+msgstr ""
+
+#: src/hooks/auth/useSignInViaPassword.ts:37
+msgid "Welcome to my app!"
+msgstr ""
+
+#: src/lib/locales.ts:15
+msgid "Welsh"
+msgstr ""
+
+#: src/navigation/modals/GoalsForSessionModal.tsx:34
+msgid "What are your goals for this session?"
+msgstr ""
+
+#: src/components/flashcards/FlashcardsCarousel.tsx:188
+msgid "What did you need the hint for then? 😉"
+msgstr ""
+
+#: src/components/onboarding/LearningLanguageSlide.tsx:27
+msgid "What language are you trying to learn?"
+msgstr ""
+
+#: src/components/onboarding/SubscriptionFeaturesList.tsx:63
+msgid "What's included"
+msgstr ""
+
+#: src/components/feed/LibraryListNotFound.tsx:15
+msgid "Whoops!"
+msgstr ""
+
+#: src/components/profile/NameInfo.tsx:47
+msgid ""
+"Words\n"
+"mastered"
+msgstr ""
+
+#: src/components/quiz/CorrectAnswerResult.tsx:33
+msgid "Wow! That was absolutely correct."
+msgstr ""
+
+#: src/components/quiz/TopChangeMode.tsx:45
+msgid "Writing"
+msgstr ""
+
+#: src/components/quiz/WrongAnswerResult.tsx:41
+msgid "Wrong Answer"
+msgstr ""
+
+#: src/navigation/modals/SubscriptionModal.tsx:36
+#. Per 1 year
+msgid "year"
+msgstr ""
+
+#: src/navigation/modals/SubscriptionCancelModal.tsx:56
+msgid "Yes, cancel now"
+msgstr ""
+
+#: src/components/ui/warning-dialog.tsx:90
+msgid "Yes, continue"
+msgstr ""
+
+#: src/components/feed/QuizCardOptions.tsx:49
+#: src/components/feed/StudySetCardOptions.tsx:54
+#: src/components/study-sets/SetFormDeleteButton.tsx:56
+#: src/components/study-sets/StudySetDetailsHeader.tsx:56
+msgid "Yes, delete"
+msgstr ""
+
+#: src/navigation/modals/DeleteAccountModal.tsx:66
+msgid "Yes, delete permanently..."
+msgstr ""
+
+#: src/navigation/index.tsx:461
+#: src/navigation/index.tsx:725
+msgid "Yes, discard changes"
+msgstr ""
+
+#: src/navigation/index.tsx:700
+msgid "Yes, go home"
+msgstr ""
+
+#: src/navigation/modals/SignOutModal.tsx:63
+msgid "Yes, sign out..."
+msgstr ""
+
+#: src/components/study-sets/SetFormDeleteButton.tsx:43
+msgid "Yes, start from beginning"
+msgstr ""
+
+#: src/hooks/achievements/useCompleteAchievement.ts:27
+msgid "You already have this achievement!"
+msgstr ""
+
+#: src/hooks/operating-system/useStoreReview.ts:21
+msgid "You can always submit a review by going to the store yourself though!"
+msgstr ""
+
+#: src/components/study-sets/FlashcardsHorizontalPreviewCarousel.tsx:38
+msgid "You don't have any flashcards here yet!"
+msgstr ""
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:50
+msgid ""
+"You have successfully imported the flashcards, however there are some "
+"issues..."
+msgstr ""
+
+#: src/components/study-sets/ImportFlashcardsFormSubmit.tsx:56
+msgid "You have successfully imported the flashcards! Hooray!"
+msgstr ""
+
+#: src/services/notifications/registerForNotifications.ts:89
+msgid "You must use a physical device for push notifications"
+msgstr ""
+
+#: src/components/ui/consent-dialog.tsx:79
+msgid "You need to agree to our conditions. Read more about "
+msgstr ""
+
+#: src/components/ui/consent-dialog.tsx:75
+msgid "You need to re-consent to our conditions. Read more about "
+msgstr ""
+
+#: src/components/feed/StudySetCardOptions.tsx:52
+#: src/components/study-sets/StudySetDetailsHeader.tsx:54
+msgid ""
+"You will loose a part of your vocabulary collection. This action cannot be "
+"undone."
+msgstr ""
+
+#: src/components/feed/QuizCardOptions.tsx:47
+msgid ""
+"You will no longer be able to play this particular one, however you can "
+"always generate more!"
+msgstr ""
+
+#: src/navigation/modals/SubscriptionCancelModal.tsx:32
+msgid ""
+"You're about to cancel your subscription and loose access to the "
+"application. You won't be able to effectively study with AI in Linkoglot. "
+"Don't give up!"
+msgstr ""
+
+#: src/navigation/modals/SignOutModal.tsx:33
+msgid ""
+"You're about to risk loosing your streak and staying committed to your "
+"goals! Remember, always keep grinding!"
+msgstr ""
+
+#: src/hooks/study-sets/useCreateStudySet.ts:53
+msgid "You've created a new study set!"
+msgstr ""
+
+#: src/hooks/quizes/useDeleteQuiz.ts:38
+msgid "You've deleted the quiz!"
+msgstr ""
+
+#: src/hooks/study-sets/useDeleteStudySet.ts:38
+msgid "You've deleted the study set!"
+msgstr ""
+
+#: src/hooks/study-sets/useEditStudySet.ts:40
+msgid "You've edited the study set!"
+msgstr ""
+
+#: src/services/quests/listenQuests.tsx:62
+msgid "You've just finished \"{title}\""
+msgstr ""
+
+#: src/hooks/reports/useCreateReport.ts:56
+msgid "You've just helped us improve! Thank you!"
+msgstr ""
+
+#: src/hooks/subscription/usePurchaseSubscription.ts:43
+msgid "You've successfully invested money into your language learning aspirations!"
+msgstr ""
+
+#: src/components/study-sets/ImportFlashcardsFormData.tsx:44
+msgid "Your data"
+msgstr ""
+
+#: src/hooks/profiles/useProfileExportData.ts:33
+msgid "Your data has been exported!"
+msgstr ""
+
+#: src/hooks/operating-system/useSaveFile.ts:41
+msgid "Your file has been copied!"
+msgstr ""
+
+#: src/hooks/operating-system/useSaveFile.ts:57
+msgid "Your file has been saved!"
+msgstr ""
+
+#: src/hooks/operating-system/useSaveFile.ts:49
+msgid "Your file has been shared!"
+msgstr ""
+
+#: src/lib/zodSchemas.ts:177
+msgid "Your name cannot be longer than {MAX_USERNAME_LENGTH} characters"
+msgstr ""
+
+#: src/lib/zodSchemas.ts:173
+msgid "Your name should be at least {MIN_USERNAME_LENGTH} characters long"
+msgstr ""
+
+#: src/navigation/index.tsx:459
+msgid "Your new audio configuration won't be saved!"
+msgstr ""
+
+#: src/hooks/profiles/useUpdateProfile.ts:60
+msgid "Your new settings got saved! Nice!"
+msgstr ""
+
+#: src/hooks/pictures/useSavePicture.ts:26
+msgid "Your picture has been saved!"
+msgstr ""
+
+#: src/components/profile/Avatar.tsx:38
+msgid "Your profile picture"
+msgstr ""
+
+#: src/navigation/index.tsx:723
+msgid "Your progress will be lost"
+msgstr ""
+
+#: src/navigation/index.tsx:698
+msgid "Your progress will be saved up until you try editing an another study set"
+msgstr ""
+
+#: src/components/feed/StudyPlanStepsList.tsx:33
+msgid "Your study plan today (2/3)"
+msgstr ""
+
+#: src/components/settings/AccountFormName.tsx:41
+msgid "Your username"
+msgstr ""
+
+#: src/lib/locales.ts:75
+msgid "Zulu"
+msgstr ""
+
+#: src/navigation/tabs/HomeTab.tsx:24
+#. The page which inludes the recommended flashcards, recent sessions, day streak etc. Kind of like For You or Feed or Home (but Home is already used elsewhere actually).
+msgctxt ""
+"Make sure to not make this word much longer (like 9 letters MAXIMUM) or "
+"else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Feed"
+msgstr ""
+
+#: src/navigation/tabs/HomeTab.tsx:58
+msgctxt ""
+"Make sure to not make this word much longer (like 9 letters MAXIMUM) or "
+"else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Library"
+msgstr ""
+
+#: src/navigation/tabs/HomeTab.tsx:41
+#. The page which inludes the recommended flashcards, recent sessions, day streak etc. Kind of like For You or Feed or Home (but Home is already used elsewhere actually).
+msgctxt ""
+"Make sure to not make this word much longer (like 9 letters MAXIMUM) or "
+"else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Practice"
+msgstr ""
+
+#: src/navigation/tabs/QuestsTab.tsx:19
+msgctxt ""
+"Make sure to not make this word much longer (like 9 letters MAXIMUM) or "
+"else my UI will overflow. Use alternative words if absolutely necessary"
+msgid "Quests"
+msgstr ""

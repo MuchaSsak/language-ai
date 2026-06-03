@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827888765445",
+    "project_id": "linkoglot-app",
+    "storage_bucket": "linkoglot-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827888765445:android:8919ae9085264b5e65aa6c",
+        "android_client_info": {
+          "package_name": "com.linkoglot.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3UcFOL-2dKJCXH1GOr3Fbw8zwDCKZOrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://enrollo.pl/documents/Privacy_Policy.pdf</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://enrollo.pl/documents/Polityka_Prywatnosci.pdf"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://enrollo.pl/documents/Privacy_Policy.pdf"/>
+  </url>
+
+  <!-- Terms and Conditions -->
+  <url>
+    <loc>https://enrollo.pl/documents/Terms_and_Conditions.pdf</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://enrollo.pl/documents/Regulamin.pdf"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://enrollo.pl/documents/Terms_and_Conditions.pdf"/>
+  </url>
+
+</urlset>
