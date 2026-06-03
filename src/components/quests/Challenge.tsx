@@ -1,10 +1,10 @@
+import { toast } from "@/components/layout/providers/ToastProvider";
 import ChallengeBackground from "@/components/quests/ChallengeBackground";
 import ChallengeBadges from "@/components/quests/ChallengeBadges";
 import ChallengeEmpty from "@/components/quests/ChallengeEmpty";
 import ChallengeHeader from "@/components/quests/ChallengeHeader";
 import { Button } from "@/components/ui/button";
 import { Text } from "@/components/ui/text";
-import useQuizHelpers from "@/hooks/quizes/useQuizHelpers";
 import useNavigation from "@/hooks/utils/useNavigation";
 import { Tables } from "@/typings/database.types";
 import { Trans } from "@lingui/react/macro";
@@ -17,7 +17,6 @@ type ChallengeProps = {
 
 export default function Challenge({ challenge, studySet }: ChallengeProps) {
   const navigation = useNavigation();
-  const { restartQuiz } = useQuizHelpers();
   const hasChallenge = challenge && studySet;
 
   if (!hasChallenge) return <ChallengeEmpty />;
@@ -31,11 +30,7 @@ export default function Challenge({ challenge, studySet }: ChallengeProps) {
       <Button
         variant="black"
         onPress={() => {
-          restartQuiz();
-          navigation.navigate("Challenge", {
-            quiz: challenge,
-            studySet,
-          });
+          toast({ type: "info", text1: "Ten feature jest schowany" });
         }}
         size="sm"
       >

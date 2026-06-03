@@ -134,7 +134,7 @@ function HomeTabs() {
 
   return (
     <Tab.Navigator
-      initialRouteName="Home"
+      initialRouteName="Profile"
       screenOptions={{
         headerShown: true,
         tabBarStyle: {

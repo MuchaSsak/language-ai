@@ -1,6 +1,6 @@
 # Linkoglot | aplikacja do uczenia się języka
 
-### Tymczasowe repo, commity pushowane za pomocą skryptu żeby nie tracić czasu :)
+## ⚠️ TO REPO ZAWIERA TYLKO PARE FEATERÓW I OMIJA ZABEZPIECZENIA TYPU AUTH / SUBSKRYPCJA, PONIEWAŻ NIE CHCE OPEN-SOURCOWAĆ MOJEGO FAKTYCZNEGO KOMERCYJNEGO PROJEKTU
 
 ### - Stack: Expo, Supabase, Tanstack Query, React Native Reusables (Radix UI), NativeWind
 

@@ -1,7 +1,6 @@
 import LoadingWeeklyXP from "@/components/profile/LoadingWeeklyXP";
 import { Text } from "@/components/ui/text";
 import { useAuth } from "@/contexts/AuthContext";
-import useGetWeeklyXP from "@/hooks/study-sessions/useGetWeeklyXP";
 import useTheme from "@/hooks/utils/useTheme";
 import Ionicons from "@expo/vector-icons/Ionicons";
 import { Trans } from "@lingui/react/macro";
@@ -13,9 +12,9 @@ type WeeklyXPProps = {};
 export default function WeeklyXP({}: WeeklyXPProps) {
   const { THEME } = useTheme();
   const { profile } = useAuth();
-  const { data: weeklyXP } = useGetWeeklyXP();
 
-  if (!profile || !weeklyXP) return <LoadingWeeklyXP />;
+  // TODO:
+  if (!profile || "awd") return <LoadingWeeklyXP />;
 
   return (
     <View className="gap-3 px-2">
@@ -33,7 +32,7 @@ export default function WeeklyXP({}: WeeklyXPProps) {
           bounces={false}
           barWidth={20}
           barBorderRadius={4}
-          data={weeklyXP}
+          data={[]}
           yAxisThickness={0}
           adjustToWidth
           noOfSections={4}
